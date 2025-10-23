@@ -6,15 +6,11 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import re
 
-# Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
-
-# Git repo folder (where template.htm lives)
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_PATH = os.path.join(REPO_PATH, "template.htm")
 OUTPUT_PATH = os.path.join(REPO_PATH, "index.html")
 
-# Track current and history
 last_song = None
 song_history = []
 
@@ -46,28 +42,25 @@ def fetch_metadata():
         return None
 
 def write_page(template_lines, now_playing, history):
-    # Find the start and end of the song block
-    try:
-        start_idx = next(i for i, l in enumerate(template_lines) if "Now on Environmental" in l)
-        end_idx = next(i for i, l in enumerate(template_lines) if "Updated:" in l)
-    except StopIteration:
-        print("Cannot find song block in template")
-        return
+    # Find the index of placeholders
+    song_lines_idx = [i for i, l in enumerate(template_lines) if ", by " in l or l.strip() == "---"]
 
-    # Build new song block: first line is current song, rest is history
-    new_song_block = [now_playing] + history
-    padded_block = new_song_block + ["---"] * (end_idx - start_idx - len(new_song_block) - 1)
+    # Prepare replacement lines
+    new_block = [now_playing] + history
+    new_block += ["---"] * (len(song_lines_idx) - len(new_block))  # pad to fit original template
 
-    # Replace lines in template
-    new_lines = template_lines[:start_idx+1] + padded_block + template_lines[end_idx:]
+    # Replace each line individually
+    for idx, new_line in zip(song_lines_idx, new_block):
+        template_lines[idx] = new_line
 
     # Update timestamp
     timestamp = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M:%S %p %Z %Y")
-    new_lines = [re.sub(r"Updated:.*", f"Updated: {timestamp}", l) if "Updated:" in l else l for l in new_lines]
+    for i, line in enumerate(template_lines):
+        if "Updated:" in line:
+            template_lines[i] = f"Updated: {timestamp}"
 
-    # Write output file
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write("\n".join(new_lines))
+        f.write("\n".join(template_lines))
     print(f"Wrote index.html at {timestamp}")
 
 def git_commit_push():
@@ -81,7 +74,6 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
-    # Read template once
     with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
         template_lines = f.read().splitlines()
 
