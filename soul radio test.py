@@ -1,17 +1,15 @@
-import requests
-import time
 import os
+import time
+import requests
 import subprocess
 from datetime import datetime
-from zoneinfo import ZoneInfo  # proper timezone handling
+from zoneinfo import ZoneInfo  # for proper EDT handling
 
-# Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
-
-# Git repo folder (should be the folder where index.html lives)
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
+OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
 
-# Track current and history
 last_song = None
 song_history = []
 
@@ -42,40 +40,38 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def write_page(current_song, history):
-    TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
-    OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
+def write_page(template_lines, now_playing, history):
+    out_lines = []
+    song_placeholders = [i for i, line in enumerate(template_lines) if ", by " in line]
 
-    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
-        template_lines = f.read().splitlines()
+    # Replace placeholder songs with history
+    songs_to_write = [now_playing] + history[:10]
+    for i, idx in enumerate(song_placeholders):
+        if i < len(songs_to_write):
+            out_lines.append(template_lines[idx].replace(template_lines[idx], songs_to_write[i]))
+        else:
+            out_lines.append(template_lines[idx])
 
-    # Find every line that has a song placeholder pattern ", by "
-    placeholders = [i for i, line in enumerate(template_lines) if ", by " in line]
-
-    songs_to_write = [current_song] + history
-    songs_to_write += ["---"] * (len(placeholders) - len(songs_to_write))
-
-    for idx, song in zip(placeholders, songs_to_write):
-        template_lines[idx] = song
-
-    # Update the timestamp
+    # Insert the rest of template lines unchanged
+    final_lines = []
+    song_idx = 0
     for i, line in enumerate(template_lines):
-        if "Updated:" in line:
+        if i in song_placeholders:
+            final_lines.append(out_lines[song_idx])
+            song_idx += 1
+        elif "Updated:" in line:
             now = datetime.now(ZoneInfo("America/New_York"))
-            template_lines[i] = "Updated: " + now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
+            final_lines.append(f"Updated: {now.strftime('%a %b %d %I:%M:%S %p %Z %Y')}")
+        else:
+            final_lines.append(line)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(template_lines))
-
-    print(f"Updated {OUTPUT_FILE} at {datetime.now().strftime('%H:%M:%S')}")
+        f.write("\n".join(final_lines))
 
 def git_commit_push():
     try:
         subprocess.run(["git", "-C", REPO_PATH, "add", "."], check=True)
-        subprocess.run(
-            ["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"],
-            check=True
-        )
+        subprocess.run(["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"], check=True)
         subprocess.run(["git", "-C", REPO_PATH, "push", "origin", "main"], check=True)
         print("Pushed update to GitHub Pages.")
     except subprocess.CalledProcessError as e:
@@ -83,6 +79,11 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
+
+    # Load template once
+    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
+        template_lines = f.read().splitlines()
+
     while True:
         song = fetch_metadata()
         if song and song != last_song:
@@ -90,9 +91,11 @@ def main():
                 song_history.insert(0, last_song)
                 song_history = song_history[:10]
             last_song = song
-            write_page(last_song, song_history)
+
+            write_page(template_lines, last_song, song_history)
             git_commit_push()
-        time.sleep(5)  # Check every 5 seconds
+
+        time.sleep(5)
 
 if __name__ == "__main__":
     main()
