@@ -3,6 +3,7 @@ import time
 import os
 import subprocess
 from datetime import datetime
+from zoneinfo import ZoneInfo  # proper timezone handling
 
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
@@ -84,7 +85,10 @@ def main():
                 song_history = song_history[:10]
             last_song = song
 
-            timestamp = datetime.now().strftime("%a %b %d %I:%M:%S %p EDT %Y")
+            # Proper EDT time using zoneinfo
+            now = datetime.now(ZoneInfo("America/New_York"))
+            timestamp = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
+
             page_content = format_page(last_song, song_history, timestamp)
             write_page(page_content)
             git_commit_push()
