@@ -8,10 +8,8 @@ from zoneinfo import ZoneInfo  # proper timezone handling
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 
-# Git repo folder (should be the folder where template.htm lives)
+# Git repo folder (should be the folder where index.html lives)
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
-OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
 
 # Track current and history
 last_song = None
@@ -44,34 +42,32 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def update_template(current_song, history):
-    # Read template
+def write_page(current_song, history):
+    TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
+    OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
+
     with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
         template_lines = f.read().splitlines()
 
-    # Find placeholder lines (lines containing ", by ")
-    placeholder_indices = [i for i, line in enumerate(template_lines) if ", by " in line]
+    # Find every line that has a song placeholder pattern ", by "
+    placeholders = [i for i, line in enumerate(template_lines) if ", by " in line]
 
-    # Pad songs list to match number of placeholders
-    padded_songs = [current_song] + history
-    padded_songs += ["---"] * (len(placeholder_indices) - len(padded_songs))
+    songs_to_write = [current_song] + history
+    songs_to_write += ["---"] * (len(placeholders) - len(songs_to_write))
 
-    # Replace placeholders individually
-    for idx, song in zip(placeholder_indices, padded_songs):
+    for idx, song in zip(placeholders, songs_to_write):
         template_lines[idx] = song
 
-    # Update timestamp line
-    now = datetime.now(ZoneInfo("America/New_York"))
-    timestamp_str = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
+    # Update the timestamp
     for i, line in enumerate(template_lines):
         if "Updated:" in line:
-            template_lines[i] = f"Updated: {timestamp_str}"
+            now = datetime.now(ZoneInfo("America/New_York"))
+            template_lines[i] = "Updated: " + now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
 
-    # Write output
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(template_lines))
 
-    print(f"Wrote {OUTPUT_FILE} at {timestamp_str}")
+    print(f"Updated {OUTPUT_FILE} at {datetime.now().strftime('%H:%M:%S')}")
 
 def git_commit_push():
     try:
@@ -92,10 +88,9 @@ def main():
         if song and song != last_song:
             if last_song:
                 song_history.insert(0, last_song)
-                song_history = song_history[:10]  # Keep last 10 songs
+                song_history = song_history[:10]
             last_song = song
-
-            update_template(last_song, song_history)
+            write_page(last_song, song_history)
             git_commit_push()
         time.sleep(5)  # Check every 5 seconds
 
