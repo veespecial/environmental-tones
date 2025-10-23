@@ -2,12 +2,12 @@ import requests
 import time
 import os
 import subprocess
-from datetime import datetime, timezone
+from datetime import datetime
 
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 
-# Git repo folder (should be the current folder where index.html lives)
+# Git repo folder (should be the folder where index.html lives)
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 
 # Track current and history
@@ -83,9 +83,8 @@ def main():
                 song_history.insert(0, last_song)
                 song_history = song_history[:10]
             last_song = song
-            timestamp = datetime.now(timezone.utc).strftime(
-                "%a %b %d %I:%M:%S %p UTC %Y"
-            )
+
+            timestamp = datetime.now().strftime("%a %b %d %I:%M:%S %p EDT %Y")
             page_content = format_page(last_song, song_history, timestamp)
             write_page(page_content)
             git_commit_push()
