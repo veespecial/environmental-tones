@@ -3,13 +3,17 @@ import time
 import os
 import subprocess
 from datetime import datetime
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo  # proper timezone handling
 
+# Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
-REPO_PATH = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_PATH = os.path.join(REPO_PATH, "template.htm")
-OUTPUT_PATH = os.path.join(REPO_PATH, "index.html")
 
+# Git repo folder (should be the folder where template.htm lives)
+REPO_PATH = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
+OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
+
+# Track current and history
 last_song = None
 song_history = []
 
@@ -40,33 +44,42 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def write_page(template_lines, now_playing, history):
-    # Identify all placeholder lines
-    song_line_indices = [i for i, l in enumerate(template_lines) if ", by " in l or l.strip() == "---"]
+def update_template(current_song, history):
+    # Read template
+    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
+        template_lines = f.read().splitlines()
 
-    # Prepare replacement lines individually
-    replacement_lines = [now_playing] + history
-    replacement_lines += ["---"] * (len(song_line_indices) - len(replacement_lines))
+    # Find placeholder lines (lines containing ", by ")
+    placeholder_indices = [i for i, line in enumerate(template_lines) if ", by " in line]
 
-    # Replace each line individually, preserving original spacing
-    for idx, new_line in zip(song_line_indices, replacement_lines):
-        template_lines[idx] = new_line
+    # Pad songs list to match number of placeholders
+    padded_songs = [current_song] + history
+    padded_songs += ["---"] * (len(placeholder_indices) - len(padded_songs))
 
-    # Update timestamp in place
-    timestamp = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M:%S %p %Z %Y")
+    # Replace placeholders individually
+    for idx, song in zip(placeholder_indices, padded_songs):
+        template_lines[idx] = song
+
+    # Update timestamp line
+    now = datetime.now(ZoneInfo("America/New_York"))
+    timestamp_str = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
     for i, line in enumerate(template_lines):
         if "Updated:" in line:
-            template_lines[i] = f"Updated: {timestamp}"
+            template_lines[i] = f"Updated: {timestamp_str}"
 
-    # Write back to file
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    # Write output
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(template_lines))
-    print(f"Wrote index.html at {timestamp}")
+
+    print(f"Wrote {OUTPUT_FILE} at {timestamp_str}")
 
 def git_commit_push():
     try:
         subprocess.run(["git", "-C", REPO_PATH, "add", "."], check=True)
-        subprocess.run(["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"], check=True)
+        subprocess.run(
+            ["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"],
+            check=True
+        )
         subprocess.run(["git", "-C", REPO_PATH, "push", "origin", "main"], check=True)
         print("Pushed update to GitHub Pages.")
     except subprocess.CalledProcessError as e:
@@ -74,20 +87,17 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
-    with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
-        template_lines = f.read().splitlines()
-
     while True:
         song = fetch_metadata()
         if song and song != last_song:
             if last_song:
                 song_history.insert(0, last_song)
-                song_history = song_history[:10]
+                song_history = song_history[:10]  # Keep last 10 songs
             last_song = song
 
-            write_page(template_lines, last_song, song_history)
+            update_template(last_song, song_history)
             git_commit_push()
-        time.sleep(5)
+        time.sleep(5)  # Check every 5 seconds
 
 if __name__ == "__main__":
     main()
