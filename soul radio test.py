@@ -19,12 +19,7 @@ song_history = []
 
 def fetch_metadata():
     try:
-        r = requests.get(
-            STREAM_URL,
-            stream=True,
-            headers={"Icy-MetaData": "1"},
-            timeout=10
-        )
+        r = requests.get(STREAM_URL, stream=True, headers={"Icy-MetaData": "1"}, timeout=10)
         if "icy-metaint" not in r.headers:
             return None
         meta_int = int(r.headers["icy-metaint"])
@@ -44,49 +39,46 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def update_template(current_song, history):
-    # Read template
+def update_template(now_playing, history):
     with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    # Find placeholder lines (songs on template)
-    # Assume placeholders are the lines between "Now on Environmental" and "Updated:"
-    try:
-        start_idx = next(i for i, line in enumerate(lines) if line.strip() == "Now on Environmental")
-        end_idx = next(i for i, line in enumerate(lines) if line.strip().startswith("Updated:"))
-    except StopIteration:
-        print("Could not find placeholders in template.")
-        return
-
-    # Build replacement block
-    replacement = [f"{current_song}\n"] if current_song else ["---\n"]
     padded_history = history + ["---"] * (10 - len(history))
-    for song in padded_history[:10]:
-        replacement.append(f"{song}\n")
+    song_lines = [now_playing] + padded_history
 
-    # Replace lines
-    lines[start_idx + 1:end_idx] = replacement
+    updated_lines = []
+    song_idx = 0
+    for line in lines:
+        if '", by "' in line:
+            if song_idx < len(song_lines):
+                newline = "\n" if line.endswith("\n") else ""
+                updated_lines.append(f"{song_lines[song_idx]}{newline}")
+                song_idx += 1
+            else:
+                updated_lines.append(line)
+        else:
+            updated_lines.append(line)
 
-    # Update timestamp
     now = datetime.now(ZoneInfo("America/New_York"))
     timestamp = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
-    for i, line in enumerate(lines):
-        if line.strip().startswith("Updated:"):
-            lines[i] = f"Updated: {timestamp}\n"
+    for i, line in enumerate(updated_lines):
+        if line.lower().startswith("updated:"):
+            updated_lines[i] = f"Updated: {timestamp}\n"
+            break
+    else:
+        updated_lines.append(f"\nUpdated: {timestamp}\n")
 
-    # Write output
+    return updated_lines
+
+def write_page(lines):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(lines)
-
-    print(f"Updated {OUTPUT_FILE} at {timestamp}")
+    print(f"Wrote {OUTPUT_FILE} at {datetime.now().strftime('%H:%M:%S')}")
 
 def git_commit_push():
     try:
         subprocess.run(["git", "-C", REPO_PATH, "add", "."], check=True)
-        subprocess.run(
-            ["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"],
-            check=True
-        )
+        subprocess.run(["git", "-C", REPO_PATH, "commit", "-m", "Auto-update index.html"], check=True)
         subprocess.run(["git", "-C", REPO_PATH, "push", "origin", "main"], check=True)
         print("Pushed update to GitHub Pages.")
     except subprocess.CalledProcessError as e:
@@ -101,9 +93,11 @@ def main():
                 song_history.insert(0, last_song)
                 song_history = song_history[:10]
             last_song = song
-            update_template(last_song, song_history)
+
+            updated_lines = update_template(last_song, song_history)
+            write_page(updated_lines)
             git_commit_push()
-        time.sleep(5)  # check every 5 seconds
+        time.sleep(5)
 
 if __name__ == "__main__":
     main()
