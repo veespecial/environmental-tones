@@ -4,7 +4,6 @@ import os
 import subprocess
 from datetime import datetime
 from zoneinfo import ZoneInfo
-import re
 
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -42,23 +41,24 @@ def fetch_metadata():
         return None
 
 def write_page(template_lines, now_playing, history):
-    # Find the index of placeholders
-    song_lines_idx = [i for i, l in enumerate(template_lines) if ", by " in l or l.strip() == "---"]
+    # Identify all placeholder lines
+    song_line_indices = [i for i, l in enumerate(template_lines) if ", by " in l or l.strip() == "---"]
 
-    # Prepare replacement lines
-    new_block = [now_playing] + history
-    new_block += ["---"] * (len(song_lines_idx) - len(new_block))  # pad to fit original template
+    # Prepare replacement lines individually
+    replacement_lines = [now_playing] + history
+    replacement_lines += ["---"] * (len(song_line_indices) - len(replacement_lines))
 
-    # Replace each line individually
-    for idx, new_line in zip(song_lines_idx, new_block):
+    # Replace each line individually, preserving original spacing
+    for idx, new_line in zip(song_line_indices, replacement_lines):
         template_lines[idx] = new_line
 
-    # Update timestamp
+    # Update timestamp in place
     timestamp = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M:%S %p %Z %Y")
     for i, line in enumerate(template_lines):
         if "Updated:" in line:
             template_lines[i] = f"Updated: {timestamp}"
 
+    # Write back to file
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(template_lines))
     print(f"Wrote index.html at {timestamp}")
