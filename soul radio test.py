@@ -3,19 +3,23 @@ import time
 import os
 import subprocess
 from datetime import datetime
-from zoneinfo import ZoneInfo  # proper timezone handling
+from zoneinfo import ZoneInfo
+import re
 
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 
 # Paths
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
-OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
+TEMPLATE_PATH = os.path.join(REPO_PATH, "template.htm")
+OUTPUT_PATH = os.path.join(REPO_PATH, "index.html")
 
-# Track current song and history
+# Track last song and history
 last_song = None
 song_history = []
+
+# Regex to match placeholder songs
+SONG_REGEX = re.compile(r".+, by .+")
 
 def fetch_metadata():
     try:
@@ -39,41 +43,30 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def update_template(now_playing, history):
-    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+def write_page(template_lines, now_playing, history):
+    new_lines = []
+    song_lines = history + ["---"] * 10
+    song_iter = iter(song_lines)
 
-    padded_history = history + ["---"] * (10 - len(history))
-    song_lines = [now_playing] + padded_history
-
-    updated_lines = []
-    song_idx = 0
-    for line in lines:
-        if '", by "' in line:
-            if song_idx < len(song_lines):
-                newline = "\n" if line.endswith("\n") else ""
-                updated_lines.append(f"{song_lines[song_idx]}{newline}")
-                song_idx += 1
-            else:
-                updated_lines.append(line)
+    for line in template_lines:
+        if SONG_REGEX.match(line.strip()):
+            try:
+                new_lines.append(next(song_iter))
+            except StopIteration:
+                new_lines.append("---")
         else:
-            updated_lines.append(line)
+            new_lines.append(line)
 
-    now = datetime.now(ZoneInfo("America/New_York"))
-    timestamp = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
-    for i, line in enumerate(updated_lines):
-        if line.lower().startswith("updated:"):
-            updated_lines[i] = f"Updated: {timestamp}\n"
-            break
+    # Replace or add timestamp at bottom
+    timestamp = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M:%S %p %Z %Y")
+    if any("Updated:" in l for l in new_lines):
+        new_lines = [re.sub(r"Updated:.*", f"Updated: {timestamp}", l) for l in new_lines]
     else:
-        updated_lines.append(f"\nUpdated: {timestamp}\n")
+        new_lines.append(f"Updated: {timestamp}")
 
-    return updated_lines
-
-def write_page(lines):
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.writelines(lines)
-    print(f"Wrote {OUTPUT_FILE} at {datetime.now().strftime('%H:%M:%S')}")
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(new_lines))
+    print(f"Wrote {OUTPUT_PATH} at {timestamp}")
 
 def git_commit_push():
     try:
@@ -86,6 +79,9 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
+    with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
+        template_lines = f.read().splitlines()
+
     while True:
         song = fetch_metadata()
         if song and song != last_song:
@@ -94,10 +90,12 @@ def main():
                 song_history = song_history[:10]
             last_song = song
 
-            updated_lines = update_template(last_song, song_history)
-            write_page(updated_lines)
+            # Compose page with now playing + history
+            write_page(template_lines, last_song, [last_song] + song_history)
+
             git_commit_push()
-        time.sleep(5)
+
+        time.sleep(5)  # Poll every 5 seconds
 
 if __name__ == "__main__":
     main()
