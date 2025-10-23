@@ -3,22 +3,19 @@ import time
 import os
 import subprocess
 from datetime import datetime
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo  # proper timezone handling
 
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 
 # Paths
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_PATH = os.path.join(REPO_PATH, "template.htm")
-OUTPUT_PATH = os.path.join(REPO_PATH, "index.html")
+TEMPLATE_FILE = os.path.join(REPO_PATH, "template.htm")
+OUTPUT_FILE = os.path.join(REPO_PATH, "index.html")
 
-# Track current and history
+# Track current song and history
 last_song = None
 song_history = []
-
-# How many songs to show
-HISTORY_COUNT = 10
 
 def fetch_metadata():
     try:
@@ -47,52 +44,41 @@ def fetch_metadata():
         print(f"Metadata error: {e}")
         return None
 
-def write_page(template_lines, current_song, history):
-    out_lines = []
-    i = 0
-    n = len(template_lines)
+def update_template(current_song, history):
+    # Read template
+    with open(TEMPLATE_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    while i < n:
-        line = template_lines[i]
+    # Find placeholder lines (songs on template)
+    # Assume placeholders are the lines between "Now on Environmental" and "Updated:"
+    try:
+        start_idx = next(i for i, line in enumerate(lines) if line.strip() == "Now on Environmental")
+        end_idx = next(i for i, line in enumerate(lines) if line.strip().startswith("Updated:"))
+    except StopIteration:
+        print("Could not find placeholders in template.")
+        return
 
-        # Replace current song
-        if line.strip() == "Now on Environmental":
-            out_lines.append(line)
-            i += 1
-            out_lines.append(current_song if current_song else "---")
-            i += 1
-            continue
+    # Build replacement block
+    replacement = [f"{current_song}\n"] if current_song else ["---\n"]
+    padded_history = history + ["---"] * (10 - len(history))
+    for song in padded_history[:10]:
+        replacement.append(f"{song}\n")
 
-        # Replace last 10 songs block
-        if line.strip() == "The last ten songs on Environmental":
-            out_lines.append(line)
-            i += 1
-            for j in range(HISTORY_COUNT):
-                song_line = history[j] if j < len(history) else "---"
-                out_lines.append(song_line)
-                out_lines.append("")  # preserve spacing
-            # Skip over old placeholder lines (guess 2 * HISTORY_COUNT lines)
-            skip_count = 0
-            while skip_count < HISTORY_COUNT * 2 and i < n:
-                if template_lines[i].strip() == "":
-                    skip_count += 1
-                else:
-                    skip_count += 1
-                i += 1
-            continue
+    # Replace lines
+    lines[start_idx + 1:end_idx] = replacement
 
-        # Everything else
-        out_lines.append(line)
-        i += 1
+    # Update timestamp
+    now = datetime.now(ZoneInfo("America/New_York"))
+    timestamp = now.strftime("%a %b %d %I:%M:%S %p %Z %Y")
+    for i, line in enumerate(lines):
+        if line.strip().startswith("Updated:"):
+            lines[i] = f"Updated: {timestamp}\n"
 
-    # Add updated timestamp at the end (replace any existing "Updated:")
-    for idx, l in enumerate(out_lines):
-        if l.startswith("Updated:"):
-            out_lines[idx] = f"Updated: {datetime.now(ZoneInfo('America/New_York')).strftime('%a %b %d %I:%M:%S %p %Z %Y')}"
+    # Write output
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.writelines(lines)
 
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write("\n".join(out_lines))
-    print(f"Wrote index.html at {datetime.now().strftime('%H:%M:%S')}")
+    print(f"Updated {OUTPUT_FILE} at {timestamp}")
 
 def git_commit_push():
     try:
@@ -108,20 +94,16 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
-    # Read template once
-    with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
-        template_lines = f.read().splitlines()
-
     while True:
         song = fetch_metadata()
         if song and song != last_song:
             if last_song:
                 song_history.insert(0, last_song)
-                song_history = song_history[:HISTORY_COUNT]
+                song_history = song_history[:10]
             last_song = song
-            write_page(template_lines, last_song, song_history)
+            update_template(last_song, song_history)
             git_commit_push()
-        time.sleep(5)
+        time.sleep(5)  # check every 5 seconds
 
 if __name__ == "__main__":
     main()
