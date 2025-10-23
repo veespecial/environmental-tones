@@ -9,21 +9,23 @@ import re
 # Radio stream
 STREAM_URL = "https://listen.radioking.com/radio/712013/stream/777593"
 
-# Paths
+# Git repo folder (where template.htm lives)
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_PATH = os.path.join(REPO_PATH, "template.htm")
 OUTPUT_PATH = os.path.join(REPO_PATH, "index.html")
 
-# Track last song and history
+# Track current and history
 last_song = None
 song_history = []
 
-# Regex to match placeholder songs
-SONG_REGEX = re.compile(r".+, by .+")
-
 def fetch_metadata():
     try:
-        r = requests.get(STREAM_URL, stream=True, headers={"Icy-MetaData": "1"}, timeout=10)
+        r = requests.get(
+            STREAM_URL,
+            stream=True,
+            headers={"Icy-MetaData": "1"},
+            timeout=10
+        )
         if "icy-metaint" not in r.headers:
             return None
         meta_int = int(r.headers["icy-metaint"])
@@ -44,29 +46,29 @@ def fetch_metadata():
         return None
 
 def write_page(template_lines, now_playing, history):
-    new_lines = []
-    song_lines = history + ["---"] * 10
-    song_iter = iter(song_lines)
+    # Find the start and end of the song block
+    try:
+        start_idx = next(i for i, l in enumerate(template_lines) if "Now on Environmental" in l)
+        end_idx = next(i for i, l in enumerate(template_lines) if "Updated:" in l)
+    except StopIteration:
+        print("Cannot find song block in template")
+        return
 
-    for line in template_lines:
-        if SONG_REGEX.match(line.strip()):
-            try:
-                new_lines.append(next(song_iter))
-            except StopIteration:
-                new_lines.append("---")
-        else:
-            new_lines.append(line)
+    # Build new song block: first line is current song, rest is history
+    new_song_block = [now_playing] + history
+    padded_block = new_song_block + ["---"] * (end_idx - start_idx - len(new_song_block) - 1)
 
-    # Replace or add timestamp at bottom
+    # Replace lines in template
+    new_lines = template_lines[:start_idx+1] + padded_block + template_lines[end_idx:]
+
+    # Update timestamp
     timestamp = datetime.now(ZoneInfo("America/New_York")).strftime("%a %b %d %I:%M:%S %p %Z %Y")
-    if any("Updated:" in l for l in new_lines):
-        new_lines = [re.sub(r"Updated:.*", f"Updated: {timestamp}", l) for l in new_lines]
-    else:
-        new_lines.append(f"Updated: {timestamp}")
+    new_lines = [re.sub(r"Updated:.*", f"Updated: {timestamp}", l) if "Updated:" in l else l for l in new_lines]
 
+    # Write output file
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(new_lines))
-    print(f"Wrote {OUTPUT_PATH} at {timestamp}")
+    print(f"Wrote index.html at {timestamp}")
 
 def git_commit_push():
     try:
@@ -79,6 +81,7 @@ def git_commit_push():
 
 def main():
     global last_song, song_history
+    # Read template once
     with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
         template_lines = f.read().splitlines()
 
@@ -90,12 +93,9 @@ def main():
                 song_history = song_history[:10]
             last_song = song
 
-            # Compose page with now playing + history
-            write_page(template_lines, last_song, [last_song] + song_history)
-
+            write_page(template_lines, last_song, song_history)
             git_commit_push()
-
-        time.sleep(5)  # Poll every 5 seconds
+        time.sleep(5)
 
 if __name__ == "__main__":
     main()
