@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUS STOP",
-        "artist": "Josephs Band"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "BUS STOP",
+            "artist": "Josephs Band"
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Fast Car",
             "artist": "Quistetts"
-        },
-        {
-            "title": "MORE THAN THIS",
-            "artist": "Disk Eyes S.F."
         }
     ]
 }
