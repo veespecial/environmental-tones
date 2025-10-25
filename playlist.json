@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "FOR THE COOL IN YOU",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
