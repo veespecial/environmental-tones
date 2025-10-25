@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGEL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "BLUE MOON",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "EARTH ANGEL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "A Love Song",
-            "artist": "John Morton"
         }
     ]
 }
