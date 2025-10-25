@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Things We Do For Love",
-        "artist": "Tom Politzer/S.F."
+        "title": "DONE WITH BONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Things We Do For Love",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "The Best is Yet to Come",
             "artist": "Nashville Cats"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
