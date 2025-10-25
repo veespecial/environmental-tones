@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR THE COOL IN YOU",
-        "artist": "Politzer/Withycombe"
+        "title": "RAINY NIGHT IN GEORGIA",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "FOR THE COOL IN YOU",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
