@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Favorite Mistake",
-        "artist": "Frank Josephs"
+        "title": "The Best is Yet to Come",
+        "artist": "Nashville Cats"
     },
     "recent": [
+        {
+            "title": "My Favorite Mistake",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "MIRACLES",
             "artist": "North Point"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
