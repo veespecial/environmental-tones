@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid Around",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "New Kid Around",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DONE WITH BONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Hello Stranger",
-            "artist": "Harley Bros."
         }
     ]
 }
