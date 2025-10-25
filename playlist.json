@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Nobody Does It Better",
-        "artist": "Tom Politzer"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "Nobody Does It Better",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
