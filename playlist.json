@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART WILL GO ON",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "MY HEART WILL GO ON",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Hello Stranger",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "FOR ELFI",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
