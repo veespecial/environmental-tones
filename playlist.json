@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
