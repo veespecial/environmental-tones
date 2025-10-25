@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "I FALL TO PIECES",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "BUS STOP",
-            "artist": "Josephs Band"
         }
     ]
 }
