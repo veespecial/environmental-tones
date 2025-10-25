@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "GLAMOUR PROFESSION",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "Help Me",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "The Best is Yet to Come",
-            "artist": "Nashville Cats"
         }
     ]
 }
