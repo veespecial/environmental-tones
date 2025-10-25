@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Hello Stranger",
-        "artist": "Harley Bros."
+        "title": "MY HEART WILL GO ON",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Hello Stranger",
+            "artist": "Harley Bros."
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "HAVE I TOLD YOU LATELY THAT I LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "YOU BOWED DOWN",
-            "artist": "Frank Josephs Group"
         }
     ]
 }
