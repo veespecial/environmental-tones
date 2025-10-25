@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME GO WITH ME",
-        "artist": "North Point"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "COME GO WITH ME",
+            "artist": "North Point"
+        },
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "San Francisco (Be Sure To Wear...)",
-            "artist": "Harley Brothers"
         }
     ]
 }
