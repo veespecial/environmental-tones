@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
