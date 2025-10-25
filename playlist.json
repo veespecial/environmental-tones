@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "DIXIE MOON",
-            "artist": "LENNY MOORE"
         }
     ]
 }
