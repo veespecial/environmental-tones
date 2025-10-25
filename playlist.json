@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sugar Sugar",
-        "artist": "Harley Brothers"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Sugar Sugar",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "New Kid Around",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
