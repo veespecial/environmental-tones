@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH BONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "Leeward Side",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "DONE WITH BONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
