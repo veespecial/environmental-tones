@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "The Best is Yet to Come",
-        "artist": "Nashville Cats"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "The Best is Yet to Come",
+            "artist": "Nashville Cats"
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "MIRACLES",
-            "artist": "North Point"
         }
     ]
 }
