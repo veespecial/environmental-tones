@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAINY NIGHT IN GEORGIA",
-        "artist": "Devlin's Strings"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "RAINY NIGHT IN GEORGIA",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
