@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
