@@ -1,0 +1,251 @@
+/*--
+
+Encompass LE Control Site
+Universal Style Sheet
+
+--*/
+
+body {
+font-family: helvetica, arial, sans-serif;
+background-color: #ccc;
+color: #444;
+font-size: 12px;
+}
+
+/* structure --------------- */
+
+#container {
+display: block;
+width: 800px;
+margin: 0 auto;
+background-color: #e6e6e6;
+border-left: #fff 10px solid;
+border-right: #fff 10px solid;
+}
+
+#header {
+background: #999 url(header.jpg) no-repeat center right;
+border-top: #fff 10px solid;
+border-bottom: #fff 10px solid;
+display: block;
+width: 800px;
+height: 100px;
+}
+
+#left {
+display: block;
+width: 350px;
+margin: 0;
+padding: 25px;
+float: left;
+}
+
+#leftsolo {
+display: block;
+width: 400px;
+margin: 0;
+padding: 25px;
+float: left;
+}
+
+#right {
+display: block;
+width: 350px;
+margin: 0;
+padding: 25px;
+float: right;
+}
+
+#footer {
+background: #606060 url(../img/footer.jpg) no-repeat center right;
+border-top: #fff 10px solid;
+border-bottom: #fff 10px solid;
+display: block;
+width: 800px;
+height: 30px;
+clear: both;
+}
+
+/* text --------------- */
+
+h1 {
+font-size: 15px;
+}
+
+h1.head, span.subhead  {
+letter-spacing: 1px;
+color: #fff;
+}
+
+h1.head {
+font-size: 20px;
+font-weight: bold;
+padding: 38px 0 0 25px;
+line-height: 19px;
+}
+
+span.subhead {
+font-size: 14px;
+font-weight: normal;
+padding: 0;
+}
+
+p.main {
+font-size: 12px;
+line-height: 18px;
+}
+
+p.crumb {
+font-size: 11px;
+line-height: 18px;
+}
+
+p.footer_txt {
+font-size: 10px;
+line-height: 14px;
+color: #333;
+text-align: center;
+}
+
+ul {
+font-size: 13px;
+font-weight: bold;
+padding: 0 0 15px 0;
+} 
+
+li {
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+margin: 0 0 0 25px;
+}
+
+ul.entry {
+list-style-type: none;
+}
+
+ul.entry li {
+padding: 0 0 15px 0;
+}
+
+ol.intro {
+margin: 25px 0 0 0;
+padding: 0;
+}
+
+ol.intro li {
+padding: 8px 0 8px 0;
+}
+
+#client_info ul {
+list-style-type: none;
+margin: 6px auto 0 auto;
+padding: 0;
+color: #fff;
+text-align: center;
+}
+
+#client_info li {
+display: inline;
+margin: 0 10px 0 0;
+}
+
+
+/* anchors --------------- */
+
+#login a {
+font-size: 10px;
+color: #555;
+}
+
+#login a:hover {
+color: #000;
+text-decoration: none;
+}
+
+a.entry {
+text-decoration: none;
+display: block;
+padding: 1px 1px 1px 7px;
+color: #444;
+background-color: #d7d7d7;
+margin: 0 5px 5px 0;
+}
+
+a.entry:hover {
+color: #111;
+background-color: #c2c2c2;
+}
+
+a.crumblink  {
+text-decoration: underline;
+color: #444;
+font-size: 11px;
+}
+
+a.crumblink:hover {
+text-decoration: none;
+color: #888;
+font-size: 11px;
+}
+
+/* forms --------------- */
+
+input {
+font-family: helvetica, arial, sans-serif;
+font-size: 12px;
+color: #666;
+}
+
+input:focus {
+background-color: #e0e0e0;
+}
+
+#login input, #login textarea {
+display: block;
+width: 220px;
+color: #444;
+background-color: #ececec;
+}
+
+#login ul {
+list-style-type: none;
+padding: 0 0 0 15px;
+}
+
+#login li {
+padding-bottom: 5px; 
+}
+
+#addmore {
+display: block; 
+width: 740px; 
+height: 55px; 
+border-top: #ccc 4px solid; 
+margin: 10px auto 0 auto;
+}
+
+#addmore input {
+display: block; 
+width: 140px; 
+margin: 10px 0 0 0;
+float: right;
+}
+
+/* tables --------------- */
+
+table {
+border: none;
+padding: 2px;
+}
+
+tr.grey {
+background-color: #ccc;
+}
+
+
+/* misc --------------- */
+
+img {
+border: none;
+}

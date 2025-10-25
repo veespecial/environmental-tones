@@ -1,0 +1,30 @@
+/*--
+
+What's Playing Now - Pop Up
+
+--*/
+
+body {
+font-family: verdana, helvetica, arial, sans-serif;
+font-size: 12px;
+color: #333;
+background-color: #ccc;
+}
+
+
+#update {
+font-family: verdana, helvetica, arial, sans-serif;
+font-size: 10px;
+color: #999;
+text-align: center;
+}
+
+#titles {
+font-family: verdana, helvetica, arial, sans-serif;
+font-size: 12px;
+}
+
+#titles p {
+  margin: 0;      /* remove extra spacing from paragraphs */
+  line-height: 1; /* make spacing tight like your static HTML */
+}
