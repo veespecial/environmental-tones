@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wonderful Tonight",
-        "artist": "Daniel Ho"
+        "title": "Sugar Sugar",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Wonderful Tonight",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "DONE WITH BONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
