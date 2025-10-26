@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "THE LOOK OF LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Everybody's Talking",
-            "artist": "Harley Music"
         }
     ]
 }
