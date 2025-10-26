@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CREDIT",
-        "artist": "North Point"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "CREDIT",
+            "artist": "North Point"
+        },
         {
             "title": "I Want to Know What Love Is",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
