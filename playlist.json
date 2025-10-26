@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE LOOK OF LOVE",
-        "artist": "Tom Kellock"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "THE LOOK OF LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "A Love Song",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Way You Do the Things You Do",
-            "artist": "Harley Bros."
         }
     ]
 }
