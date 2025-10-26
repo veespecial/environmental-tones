@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TAKE FIVE",
-        "artist": "South Point"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "TAKE FIVE",
+            "artist": "South Point"
+        },
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "SLOW JAMS",
-            "artist": "Andy Suzuki"
         }
     ]
 }
