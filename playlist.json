@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILL YOU LOVE ME TOMORROW",
-        "artist": "MANSON LIVE"
+        "title": "Everybody's Talking",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "WILL YOU LOVE ME TOMORROW",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
