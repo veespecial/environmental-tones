@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "Hissing Of Summer Lawns",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "THE CLOSER I GET TO YOU",
-            "artist": "Nick Manson"
         }
     ]
 }
