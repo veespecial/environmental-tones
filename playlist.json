@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "ALL I WANNA DO",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Dreams",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHTBRIDGE",
             "artist": "Judy Erwin"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
