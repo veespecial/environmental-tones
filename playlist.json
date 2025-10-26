@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME GO WITH ME",
-        "artist": "North Point"
+        "title": "Fashionably Late",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "COME GO WITH ME",
+            "artist": "North Point"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "As",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I'LL NEVER FALL IN LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
