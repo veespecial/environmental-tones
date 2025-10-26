@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRYSTAL SHIP",
+        "title": "LEAVING ON A JET PLANE",
         "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "CRYSTAL SHIP",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I'LL NEVER STOP LOVING YOU",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
