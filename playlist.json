@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "Come See About Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
