@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tropic Of Capricorn",
-        "artist": "South Point"
+        "title": "FOLLOW YOU, FOLLOW ME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Tropic Of Capricorn",
+            "artist": "South Point"
+        },
         {
             "title": "My Guy",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
