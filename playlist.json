@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "As",
-        "artist": "Daniel Ho"
+        "title": "Always",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "As",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
