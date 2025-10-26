@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I've Been Loving You too Long",
-        "artist": "Harley Bros."
+        "title": "ANGEL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "I've Been Loving You too Long",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
