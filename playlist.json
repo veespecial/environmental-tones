@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "Candlelight",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "Together Again",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "FOOL #1",
             "artist": "David Patt"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
