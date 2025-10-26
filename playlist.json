@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "Thrill is Gone",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "MOONGLOW",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
