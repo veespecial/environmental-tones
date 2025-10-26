@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL CRIED OUT",
-        "artist": "LENNY MOORE"
+        "title": "Hissing Of Summer Lawns",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "ALL CRIED OUT",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
