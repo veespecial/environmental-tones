@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Things We Do For Love",
-        "artist": "Tom Politzer/S.F."
+        "title": "You Ought To Be With Me",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Things We Do For Love",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
