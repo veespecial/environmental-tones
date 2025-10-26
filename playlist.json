@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Want to Know What Love Is",
-        "artist": "Funtastic Music"
+        "title": "CREDIT",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I Want to Know What Love Is",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
