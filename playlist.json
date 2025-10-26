@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO YOU WANNA DANCE",
-        "artist": "Moro-Eden"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "DO YOU WANNA DANCE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER PARK, ANOTHER SUNDAY",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "Funtastic Music"
         }
     ]
 }
