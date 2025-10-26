@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SUMMER WIND",
-            "artist": "Harley"
         }
     ]
 }
