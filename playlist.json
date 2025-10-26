@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
