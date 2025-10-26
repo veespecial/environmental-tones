@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
-        },
-        {
-            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-            "artist": "Nick Manson"
         }
     ]
 }
