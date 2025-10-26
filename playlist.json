@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Don't Want To Spoil The Party",
-        "artist": "John Morton"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "I Don't Want To Spoil The Party",
+            "artist": "John Morton"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
