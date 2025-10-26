@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGEL",
-        "artist": "Politzer/Withycombe"
+        "title": "LEAVING ON A JET PLANE",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ANGEL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "I've Been Loving You too Long",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
