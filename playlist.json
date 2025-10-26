@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "ALL CRIED OUT",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Fall on Me",
-            "artist": "Harley Bros."
         }
     ]
 }
