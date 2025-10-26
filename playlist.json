@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everybody's Talking",
-        "artist": "Harley Music"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Everybody's Talking",
+            "artist": "Harley Music"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
-        },
-        {
-            "title": "DON'T LET THE SUN CATCH YOU CRYING",
-            "artist": "Curtis Brengle"
         }
     ]
 }
