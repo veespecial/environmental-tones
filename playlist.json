@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF YOU LEAVE ME NOW",
-        "artist": "Daniel Ho"
+        "title": "I Want to Know What Love Is",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "IF YOU LEAVE ME NOW",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "BLUE MOON",
-            "artist": "John Morton"
         }
     ]
 }
