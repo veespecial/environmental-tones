@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIKE TO GET TO KNOW YOU WELL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Sailing",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "LIKE TO GET TO KNOW YOU WELL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
