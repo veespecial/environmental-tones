@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "ROLL TO ME",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "Summer Breeze",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "FIELDS OF GOLD",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
