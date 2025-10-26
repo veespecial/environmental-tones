@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "I WON'T LET YOU DO THAT TO ME",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "CRAZY LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I NEED YOU",
-            "artist": "Funtastic Music"
         }
     ]
 }
