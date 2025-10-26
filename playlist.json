@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "DONE WITH BONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER GIRL",
             "artist": "John Morton"
-        },
-        {
-            "title": "Grant Park",
-            "artist": "Ray Kelley"
         }
     ]
 }
