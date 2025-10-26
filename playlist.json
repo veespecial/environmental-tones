@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Showed Me",
-        "artist": "Harley Bros."
+        "title": "Help Me",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "You Showed Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GOODBYE YELLOW BRICK ROAD",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
