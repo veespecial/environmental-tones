@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just in Time",
-        "artist": "Mirage Ensemble"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "Just in Time",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "BLACK BUTTERFLY",
-            "artist": "Manasus Strings"
         }
     ]
 }
