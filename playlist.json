@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "Then Came You",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "IF I CAN'T HAVE YOU",
-            "artist": "Devlin's Strings"
         }
     ]
 }
