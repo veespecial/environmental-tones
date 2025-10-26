@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "IT'S YOUR LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "FOLLOW YOU, FOLLOW ME",
-            "artist": "Nick Manson"
         }
     ]
 }
