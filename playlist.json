@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
