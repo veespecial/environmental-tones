@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love's In Need Of Love Today",
-        "artist": "Andy Suzuki"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Love's In Need Of Love Today",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "FOUR AND TWENTY",
-            "artist": "John Morton"
         }
     ]
 }
