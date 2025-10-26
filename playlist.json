@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
