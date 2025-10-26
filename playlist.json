@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "The Best is Yet to Come",
-        "artist": "Nashville Cats"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "The Best is Yet to Come",
+            "artist": "Nashville Cats"
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "My Guy",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
