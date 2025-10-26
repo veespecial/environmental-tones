@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DINDI",
-        "artist": "LENNY MOORE"
+        "title": "YOU DON'T KNOW ME",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "DINDI",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Cozy Cabin",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
