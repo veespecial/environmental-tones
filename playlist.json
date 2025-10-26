@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I FALL TO PIECES",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I FALL TO PIECES",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "MOONGLOW",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "The Best is Yet to Come",
-            "artist": "Nashville Cats"
         }
     ]
 }
