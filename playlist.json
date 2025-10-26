@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love's In Need Of Love Today",
-        "artist": "Andy Suzuki"
+        "title": "LET IT BE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Love's In Need Of Love Today",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
