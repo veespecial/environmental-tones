@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
