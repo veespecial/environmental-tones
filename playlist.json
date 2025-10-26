@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER STOP LOVING YOU",
-        "artist": "Tom Kellock"
+        "title": "CRYSTAL SHIP",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER STOP LOVING YOU",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
