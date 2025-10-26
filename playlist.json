@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wonderful Tonight",
-        "artist": "Daniel Ho"
+        "title": "I Don't Want To Spoil The Party",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "Wonderful Tonight",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "THE LOOK OF LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
