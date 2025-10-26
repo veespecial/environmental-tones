@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "DON'T LET THE SUN CATCH YOU CRYING",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "CREDIT",
-            "artist": "North Point"
         }
     ]
 }
