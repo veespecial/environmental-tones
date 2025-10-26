@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come See About Me",
-        "artist": "Harley Bros."
+        "title": "Grant Park",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Come See About Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I FALL TO PIECES",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
