@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LOVE",
-        "artist": "Frank Josephs"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "CRAZY LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
