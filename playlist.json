@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Indio",
-        "artist": "Ray Kelley"
+        "title": "Everybody's Talking",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Indio",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Always",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
