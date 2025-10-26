@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOLLOW YOU, FOLLOW ME",
-        "artist": "Nick Manson"
+        "title": "IT'S YOUR LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "FOLLOW YOU, FOLLOW ME",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "LET IT BE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
