@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "ANOTHER PARK, ANOTHER SUNDAY",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I'LL NEVER STOP LOVING YOU",
-            "artist": "Tom Kellock"
         }
     ]
 }
