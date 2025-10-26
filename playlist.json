@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cozy Cabin",
-        "artist": "Mirage Ensemble"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Cozy Cabin",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "SWEET HOME",
-            "artist": "Jerry Cortez"
         }
     ]
 }
