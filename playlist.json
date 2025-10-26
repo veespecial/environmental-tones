@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLOW JAMS",
-        "artist": "Andy Suzuki"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "SLOW JAMS",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "FOOL #1",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
