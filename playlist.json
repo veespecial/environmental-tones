@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE THERE",
-        "artist": "JIM BREDOUW"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "I'LL BE THERE",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HE'S MISTRA KNOW-IT-ALL",
             "artist": "North Point"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
