@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOTHER NATURE'S SON",
-        "artist": "DERRICK CHASE"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "MOTHER NATURE'S SON",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Way You Do the Things You Do",
-            "artist": "Harley Bros."
         }
     ]
 }
