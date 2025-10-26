@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "Fashionably Late",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "FOOL #1",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
