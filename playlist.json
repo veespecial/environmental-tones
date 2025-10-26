@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "Hello Stranger",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
