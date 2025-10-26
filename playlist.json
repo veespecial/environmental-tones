@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Whip Appeal",
-        "artist": "Nashville Cats"
+        "title": "Wonderful Tonight",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Whip Appeal",
+            "artist": "Nashville Cats"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
