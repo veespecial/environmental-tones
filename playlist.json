@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "It Makes Me Crazy",
-            "artist": "Nick Manson"
         }
     ]
 }
