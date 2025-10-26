@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LEAVING ON A JET PLANE",
-        "artist": "Curtis Brengle"
+        "title": "YOU DON'T KNOW ME",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "LEAVING ON A JET PLANE",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "GOODBYE YELLOW BRICK ROAD",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
