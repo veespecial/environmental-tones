@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Guy",
-        "artist": "Harley Bros."
+        "title": "Tropic Of Capricorn",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "My Guy",
+            "artist": "Harley Bros."
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
