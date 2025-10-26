@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GLAMOUR PROFESSION",
-        "artist": "North Point"
+        "title": "A Love Song",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "GLAMOUR PROFESSION",
+            "artist": "North Point"
+        },
         {
             "title": "Whip Appeal",
             "artist": "Nashville Cats"
@@ -39,10 +43,6 @@
         {
             "title": "Everybody's Talking",
             "artist": "Harley Music"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
