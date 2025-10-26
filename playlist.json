@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "NIGHTBRIDGE",
+        "artist": "Judy Erwin"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
