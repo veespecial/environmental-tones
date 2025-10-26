@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "Always Something There To Remind Me",
-            "artist": "Harley"
         }
     ]
 }
