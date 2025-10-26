@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE CLOSER I GET TO YOU",
-        "artist": "Nick Manson"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "THE CLOSER I GET TO YOU",
+            "artist": "Nick Manson"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "FOR ONCE IN OUR LIVES",
-            "artist": "Andre Mayeux"
         }
     ]
 }
