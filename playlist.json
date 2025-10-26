@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Someday, Someway",
-        "artist": "Harley Bros."
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Someday, Someway",
+            "artist": "Harley Bros."
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
