@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "HUNTER GETS CAPTURED (BY THE GAME)",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
