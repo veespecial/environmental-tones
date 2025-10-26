@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I NEED YOU",
-        "artist": "Funtastic Music"
+        "title": "PENNY LANE",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "I NEED YOU",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
