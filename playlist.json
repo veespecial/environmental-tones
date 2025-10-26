@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "ALL I WANNA DO",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
