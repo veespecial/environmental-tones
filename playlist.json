@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK TO LOVE",
-        "artist": "Nick Manson"
+        "title": "I FALL TO PIECES",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "BACK TO LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
