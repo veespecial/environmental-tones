@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Come See About Me",
-            "artist": "Harley Bros."
         }
     ]
 }
