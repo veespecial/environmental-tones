@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "CAPTAIN OF HER HEART",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Come Fly With Me",
-            "artist": "Ray Kelley"
         }
     ]
 }
