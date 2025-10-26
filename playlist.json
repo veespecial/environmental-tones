@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "BAND OF GOLD",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "I Don't Want To Spoil The Party",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
-        },
-        {
-            "title": "GLAMOUR PROFESSION",
-            "artist": "North Point"
         }
     ]
 }
