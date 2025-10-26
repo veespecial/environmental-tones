@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fashionably Late",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "One on One",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Fashionably Late",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "As",
-            "artist": "Daniel Ho"
         }
     ]
 }
