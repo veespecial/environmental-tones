@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Singalong Junk",
-        "artist": "Crescenta Valley Boys"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Singalong Junk",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "One on One",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
