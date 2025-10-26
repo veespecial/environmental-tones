@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heart Less One",
-        "artist": "Brian Withycombe"
+        "title": "How Deep is Your Love",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Heart Less One",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "I've Been Loving You too Long",
-            "artist": "Harley Bros."
         }
     ]
 }
