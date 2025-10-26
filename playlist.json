@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "Whip Appeal",
+        "artist": "Nashville Cats"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "I WON'T LET YOU DO THAT TO ME",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Everybody's Talking",
-            "artist": "Harley Music"
         }
     ]
 }
