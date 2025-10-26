@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Hissing Of Summer Lawns",
-        "artist": "Tom Politzer"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Hissing Of Summer Lawns",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
