@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
