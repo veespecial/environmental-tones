@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "Hello Stranger",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SHE RUNS AWAY",
-            "artist": "Harley Brothers"
         }
     ]
 }
