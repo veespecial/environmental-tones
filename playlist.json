@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancin' Shaggin On The Boulevard",
-        "artist": "Andre Mayeux"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "Dancin' Shaggin On The Boulevard",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER GIRL",
             "artist": "John Morton"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
