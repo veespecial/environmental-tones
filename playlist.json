@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "ANGEL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "AWAKENING",
-            "artist": "Jazz Pretenders"
         }
     ]
 }
