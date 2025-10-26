@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I FALL TO PIECES",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Together Again",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "I FALL TO PIECES",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
-        },
-        {
-            "title": "Leeward Side",
-            "artist": "Curtis Brengle"
         }
     ]
 }
