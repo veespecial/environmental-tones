@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "I'LL NEVER STOP LOVING YOU",
-            "artist": "Tom Kellock"
         }
     ]
 }
