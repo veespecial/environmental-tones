@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Best Is Yet To Come",
-        "artist": "Politzer/Withycombe"
+        "title": "Dancin' Shaggin On The Boulevard",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Best Is Yet To Come",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
