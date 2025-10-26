@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL FOLLOW THE SUN",
-        "artist": "North Point"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "I'LL FOLLOW THE SUN",
+            "artist": "North Point"
+        },
         {
             "title": "FOLLOW YOU, FOLLOW ME",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
