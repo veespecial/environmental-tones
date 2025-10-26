@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHTBRIDGE",
-        "artist": "Judy Erwin"
+        "title": "My Girl",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "NIGHTBRIDGE",
+            "artist": "Judy Erwin"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
