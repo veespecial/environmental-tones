@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Help Me",
-        "artist": "Harley Music"
+        "title": "CAPTAIN OF HER HEART",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Help Me",
+            "artist": "Harley Music"
+        },
         {
             "title": "You Showed Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
-        },
-        {
-            "title": "New Kid In Town",
-            "artist": "Harley Brothers"
         }
     ]
 }
