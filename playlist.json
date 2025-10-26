@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sometime Brazil",
-        "artist": "Andy Suzuki"
+        "title": "Singalong Junk",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Sometime Brazil",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "MOONGLOW",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
