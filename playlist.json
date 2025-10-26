@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHTBRIDGE",
-        "artist": "Judy Erwin"
+        "title": "Way You Do the Things You Do",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "NIGHTBRIDGE",
+            "artist": "Judy Erwin"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
