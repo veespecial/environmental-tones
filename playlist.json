@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Summer Breeze",
-        "artist": "Harley Music"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "Summer Breeze",
+            "artist": "Harley Music"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
