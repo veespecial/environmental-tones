@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WON'T LET YOU DO THAT TO ME",
-        "artist": "LENNY MOORE"
+        "title": "IF I CAN'T HAVE YOU",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "I WON'T LET YOU DO THAT TO ME",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "PENNY LANE",
-            "artist": "Daniel Ho"
         }
     ]
 }
