@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE CLOSER I GET TO YOU",
-        "artist": "Nick Manson"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "THE CLOSER I GET TO YOU",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
