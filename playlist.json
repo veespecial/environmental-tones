@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOONGLOW",
-        "artist": "MANASUS MUSIC"
+        "title": "I Never Know",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "MOONGLOW",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
