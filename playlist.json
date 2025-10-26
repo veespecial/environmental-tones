@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOTHER NATURE'S SON",
-        "artist": "DERRICK CHASE"
+        "title": "I BELIEVE IN YOU AND ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "MOTHER NATURE'S SON",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "I WON'T LET YOU DO THAT TO ME",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Sweet Blindness",
-            "artist": "Andre Mayeux"
         }
     ]
 }
