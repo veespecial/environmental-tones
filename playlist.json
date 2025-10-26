@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "FIELDS OF GOLD",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Someday, Someway",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "At the Fair",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
