@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Then Came You",
-            "artist": "Harley Brothers"
         }
     ]
 }
