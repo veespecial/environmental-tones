@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PLEASE",
-        "artist": "Frank Josephs Group"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "PLEASE",
+            "artist": "Frank Josephs Group"
+        },
         {
             "title": "Point Of Groove",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
