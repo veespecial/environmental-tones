@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "Whip Appeal",
-            "artist": "Nashville Cats"
         }
     ]
 }
