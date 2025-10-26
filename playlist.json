@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "Love's In Need Of Love Today",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "CREDIT",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
