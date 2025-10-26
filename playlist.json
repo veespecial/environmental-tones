@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN OUR LIVES",
-        "artist": "Andre Mayeux"
+        "title": "A WORLD WITHOUT LOVE",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN OUR LIVES",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "How Deep is Your Love",
-            "artist": "Harley Music"
         }
     ]
 }
