@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "GOODBYE YELLOW BRICK ROAD",
+        "artist": "BALIN/BLOM ORCHESTRA"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Whip Appeal",
-            "artist": "Nashville Cats"
         }
     ]
 }
