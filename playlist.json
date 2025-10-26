@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It Makes Me Crazy",
-        "artist": "Nick Manson"
+        "title": "SLOW JAMS",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "It Makes Me Crazy",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Dancin' Shaggin On The Boulevard",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Best Is Yet To Come",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
