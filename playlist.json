@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "THE CLOSER I GET TO YOU",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "LEAVING ON A JET PLANE",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Love's In Need Of Love Today",
-            "artist": "Andy Suzuki"
         }
     ]
 }
