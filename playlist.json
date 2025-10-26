@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "HUNTER GETS CAPTURED (BY THE GAME)",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
