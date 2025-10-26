@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "A WORLD WITHOUT LOVE",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "Hello Stranger",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
