@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tropic Of Capricorn",
-        "artist": "South Point"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "Tropic Of Capricorn",
+            "artist": "South Point"
+        },
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "THE CLOSER I GET TO YOU",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Jazz On The Beach",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
