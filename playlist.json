@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Queen Bee",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "WHO WILL SAVE YOUR SOUL",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Queen Bee",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
