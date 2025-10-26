@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN FRANCISCAN NIGHTS",
-        "artist": "Daniel Ho"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "SAN FRANCISCAN NIGHTS",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "Point Of Groove",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
