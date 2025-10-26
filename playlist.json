@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz On The Beach",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "THE CLOSER I GET TO YOU",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Jazz On The Beach",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "IF YOU LEAVE ME NOW",
-            "artist": "Daniel Ho"
         }
     ]
 }
