@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I BELIEVE IN YOU AND ME",
-        "artist": "Josephs Band"
+        "title": "Sweet Blindness",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "I BELIEVE IN YOU AND ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Next Event",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
