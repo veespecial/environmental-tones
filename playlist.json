@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DINDI",
-        "artist": "LENNY MOORE"
+        "title": "MOONGLOW",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "DINDI",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "I'LL FOLLOW THE SUN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "SAN FRANCISCAN NIGHTS",
-            "artist": "Daniel Ho"
         }
     ]
 }
