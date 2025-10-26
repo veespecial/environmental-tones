@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I HEARD IT THROUGH THE GRAPEVINE",
-        "artist": "It's Lenny Moore"
+        "title": "Wonderful Tonight",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "I HEARD IT THROUGH THE GRAPEVINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
