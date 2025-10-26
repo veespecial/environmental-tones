@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S YOUR LOVE",
-        "artist": "Andre Mayeux"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "IT'S YOUR LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
