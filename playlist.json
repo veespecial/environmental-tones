@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "GLAMOUR PROFESSION",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
