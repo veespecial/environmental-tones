@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Thrill is Gone",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
