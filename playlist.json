@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER GIRL",
-        "artist": "John Morton"
+        "title": "I'LL FOLLOW THE SUN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "ANOTHER GIRL",
+            "artist": "John Morton"
+        },
         {
             "title": "Grant Park",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
