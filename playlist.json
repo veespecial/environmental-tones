@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PENNY LANE",
-        "artist": "Daniel Ho"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "PENNY LANE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
