@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Breath You Take",
-        "artist": "Harley Music"
+        "title": "Come See About Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Every Breath You Take",
+            "artist": "Harley Music"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
