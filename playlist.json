@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE MOON",
-        "artist": "John Morton"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "BLUE MOON",
+            "artist": "John Morton"
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "As",
-            "artist": "Daniel Ho"
         }
     ]
 }
