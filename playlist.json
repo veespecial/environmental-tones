@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fashionably Late",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Fashionably Late",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "LIFE IN MONO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
