@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOONGLOW",
-        "artist": "MANASUS MUSIC"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "MOONGLOW",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "The Best is Yet to Come",
             "artist": "Nashville Cats"
@@ -39,10 +43,6 @@
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
