@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Grant Park",
-        "artist": "Ray Kelley"
+        "title": "ANOTHER GIRL",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "Grant Park",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Come See About Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
