@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "Heart Less One",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "WHO WILL SAVE YOUR SOUL",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "I've Been Loving You too Long",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Cathedral City",
-            "artist": "Ray Kelley"
         }
     ]
 }
