@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHO WILL SAVE YOUR SOUL",
-        "artist": "Moro-Eden"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "WHO WILL SAVE YOUR SOUL",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "LIFE IS BUT A DREAM",
-            "artist": "Devlin's Strings"
         }
     ]
 }
