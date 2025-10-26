@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A WORLD WITHOUT LOVE",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "A WORLD WITHOUT LOVE",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Soul Searchin'",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
