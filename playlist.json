@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Leeward Side",
-        "artist": "Curtis Brengle"
+        "title": "Cozy Cabin",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Leeward Side",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
