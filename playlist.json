@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LOOK DOWN",
-        "artist": "LENNY MOORE"
+        "title": "NIGHT IN PARIS",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "DON'T LOOK DOWN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
