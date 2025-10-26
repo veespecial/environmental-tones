@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUR AND TWENTY",
-        "artist": "John Morton"
+        "title": "I CAN LOVE YOU LIKE THAT",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "FOUR AND TWENTY",
+            "artist": "John Morton"
+        },
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
