@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "Whip Appeal",
+        "artist": "Nashville Cats"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "SUMMER WIND",
-            "artist": "Harley"
         }
     ]
 }
