@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
