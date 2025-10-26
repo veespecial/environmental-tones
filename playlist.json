@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": " AFTER THE LOVE HAS GONE",
-        "artist": "TOMMY/BRIAN"
+        "title": "CRAZY LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": " AFTER THE LOVE HAS GONE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "COME ON LET'S GO",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Hissing Of Summer Lawns",
-            "artist": "Tom Politzer"
         }
     ]
 }
