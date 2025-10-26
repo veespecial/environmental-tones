@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T YOU WORRY 'BOUT A THING",
-        "artist": "MANSON LIVE"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "DON'T YOU WORRY 'BOUT A THING",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "42nd And A Half Street",
-            "artist": "Brian Withycombe"
         }
     ]
 }
