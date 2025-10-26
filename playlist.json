@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-        "artist": "Nick Manson"
+        "title": "Always Something There To Remind Me",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
+            "artist": "Nick Manson"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
