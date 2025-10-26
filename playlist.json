@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHT IN PARIS",
-        "artist": "Ho Tones"
+        "title": "I OWE IT ALL TO YOU",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "NIGHT IN PARIS",
+            "artist": "Ho Tones"
+        },
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "NIGHTBRIDGE",
             "artist": "Judy Erwin"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
