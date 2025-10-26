@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A SONG FOR YOU",
-        "artist": "MANSON STRINGS"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "A SONG FOR YOU",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
