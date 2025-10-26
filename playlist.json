@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "Together Again",
-            "artist": "Harley Bros."
         }
     ]
 }
