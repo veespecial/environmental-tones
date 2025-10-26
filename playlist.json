@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Way You Do the Things You Do",
-        "artist": "Harley Bros."
+        "title": "It Makes Me Crazy",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Way You Do the Things You Do",
+            "artist": "Harley Bros."
+        },
         {
             "title": "NIGHTBRIDGE",
             "artist": "Judy Erwin"
@@ -39,10 +43,6 @@
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
