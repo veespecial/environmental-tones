@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LET THE SUN CATCH YOU CRYING",
-        "artist": "Curtis Brengle"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "DON'T LET THE SUN CATCH YOU CRYING",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
