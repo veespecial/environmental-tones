@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everybody's Talking",
-        "artist": "Harley Music"
+        "title": "I WON'T LET YOU DO THAT TO ME",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Everybody's Talking",
+            "artist": "Harley Music"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Next Event",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
