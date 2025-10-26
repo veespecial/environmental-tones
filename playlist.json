@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Hello Stranger",
-        "artist": "Harley Bros."
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "Hello Stranger",
+            "artist": "Harley Bros."
+        },
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
