@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GLAMOUR PROFESSION",
-        "artist": "North Point"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "GLAMOUR PROFESSION",
+            "artist": "North Point"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "MOTHER NATURE'S SON",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
