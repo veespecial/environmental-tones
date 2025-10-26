@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "I OWE IT ALL TO YOU",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "Whip Appeal",
             "artist": "Nashville Cats"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
