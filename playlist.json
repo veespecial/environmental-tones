@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "Cozy Cabin",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
