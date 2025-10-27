@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Something There To Remind Me",
-        "artist": "Harley"
+        "title": "DO YOU WANNA DANCE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Always Something There To Remind Me",
+            "artist": "Harley"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
