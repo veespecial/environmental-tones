@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Essence",
-        "artist": "Chris Ho"
+        "title": "Come See About Me",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Your Essence",
+            "artist": "Chris Ho"
+        },
         {
             "title": "ANOTHER GIRL",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "CALL ME",
-            "artist": "JON GOFORTH"
         }
     ]
 }
