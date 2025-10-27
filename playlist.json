@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "You Ought To Be With Me",
-            "artist": "Harley Brothers"
         }
     ]
 }
