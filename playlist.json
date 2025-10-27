@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IN MONO",
-        "artist": "Andy Suzuki"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "LIFE IN MONO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
