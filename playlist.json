@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONELY TOO LONG",
-        "artist": "South Point"
+        "title": "Just in Time",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "LONELY TOO LONG",
+            "artist": "South Point"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Jazz On The Beach",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
