@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HE'S MISTRA KNOW-IT-ALL",
-        "artist": "North Point"
+        "title": "Cozy Cabin",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "HE'S MISTRA KNOW-IT-ALL",
+            "artist": "North Point"
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "SOONER OR LATER",
-            "artist": "Harley Music"
         }
     ]
 }
