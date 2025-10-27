@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Just in Time",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
