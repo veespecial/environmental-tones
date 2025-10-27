@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAPTAIN OF HER HEART",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "CAPTAIN OF HER HEART",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
