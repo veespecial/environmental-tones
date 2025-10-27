@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRAZY LOVE",
-        "artist": "Frank Josephs"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "CRAZY LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Daniel",
-            "artist": "Harley Music"
         }
     ]
 }
