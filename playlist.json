@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "Tropic Of Capricorn",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "IF I CAN'T HAVE YOU",
-            "artist": "Devlin's Strings"
         }
     ]
 }
