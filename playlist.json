@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JOHNNY'S GARDEN",
-        "artist": "Harley Brothers"
+        "title": "AWAKENING",
+        "artist": "Jazz Pretenders"
     },
     "recent": [
+        {
+            "title": "JOHNNY'S GARDEN",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "I WANT TO KNOW WHAT LOVE IS",
-            "artist": "Funtastic Music"
         }
     ]
 }
