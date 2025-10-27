@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TELL ME",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": " AFTER THE LOVE HAS GONE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "DON'T TELL ME",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
