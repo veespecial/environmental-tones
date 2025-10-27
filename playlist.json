@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HELLO IT'S ME",
-        "artist": "MANASUS MUSIC"
+        "title": "Next Event",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "HELLO IT'S ME",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "Batata Bossa",
-            "artist": "Dave Keenan"
         }
     ]
 }
