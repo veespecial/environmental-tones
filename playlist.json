@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL FOLLOW THE SUN",
-        "artist": "North Point"
+        "title": "FIELDS OF GOLD",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I'LL FOLLOW THE SUN",
+            "artist": "North Point"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
