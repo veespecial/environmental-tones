@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I HEARD IT THROUGH THE GRAPEVINE",
-        "artist": "It's Lenny Moore"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "I HEARD IT THROUGH THE GRAPEVINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "Next Event",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Help Me",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
