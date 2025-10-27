@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
