@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "I'LL BE THERE",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
