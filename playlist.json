@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fourth In Four",
-        "artist": "Brian Withycombe"
+        "title": "Jazz On The Beach",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Fourth In Four",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Sweet Blindness",
-            "artist": "Andre Mayeux"
         }
     ]
 }
