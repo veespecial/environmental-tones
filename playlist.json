@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
