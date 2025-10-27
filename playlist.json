@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
