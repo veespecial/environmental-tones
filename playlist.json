@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "Take a Bow",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Love's In Need Of Love Today",
-            "artist": "Andy Suzuki"
         }
     ]
 }
