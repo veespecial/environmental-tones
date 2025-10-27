@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOTPRINTS",
-        "artist": "Melissa Siegel"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "FOOTPRINTS",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
