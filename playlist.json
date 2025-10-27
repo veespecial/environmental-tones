@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Take a Bow",
-        "artist": "MANASUS MUSIC"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Take a Bow",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "LET IT BE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
