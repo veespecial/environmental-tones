@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A SONG FOR YOU",
-        "artist": "MANSON STRINGS"
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "A SONG FOR YOU",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
