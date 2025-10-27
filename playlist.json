@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Singalong Junk",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "A WORLD WITHOUT LOVE",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
