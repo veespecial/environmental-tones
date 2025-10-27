@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TAKE FIVE",
-        "artist": "South Point"
+        "title": "LEAVING ON A JET PLANE",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "TAKE FIVE",
+            "artist": "South Point"
+        },
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Your Life Is Now",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Fashionably Late",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
