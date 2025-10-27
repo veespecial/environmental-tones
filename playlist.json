@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOTPRINTS",
-        "artist": "Melissa Siegel"
+        "title": "ROLL TO ME",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "FOOTPRINTS",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "We're in This Love Together",
-            "artist": "Harley Music"
         }
     ]
 }
