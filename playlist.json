@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heart Less One",
-        "artist": "Brian Withycombe"
+        "title": "I WON'T LET YOU DO THAT TO ME",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Heart Less One",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "ANOTHER PARK, ANOTHER SUNDAY",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
