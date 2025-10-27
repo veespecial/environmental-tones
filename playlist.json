@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GLAMOUR PROFESSION",
-        "artist": "North Point"
+        "title": "Wrong Again",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "GLAMOUR PROFESSION",
+            "artist": "North Point"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Together Again",
-            "artist": "Harley Bros."
         }
     ]
 }
