@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paradise",
-        "artist": "Daniel Ho"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Paradise",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "KEEP ON PUSHING LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
