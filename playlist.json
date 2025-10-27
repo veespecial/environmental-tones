@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "DO RIGHT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "JULIA",
-            "artist": "North Point"
         }
     ]
 }
