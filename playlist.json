@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "Crystal Blue Persuasion",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
