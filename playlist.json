@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Blindness",
-        "artist": "Andre Mayeux"
+        "title": "After Hours",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Sweet Blindness",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "DONE WITH BONAPARTE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "A Love Song",
-            "artist": "John Morton"
         }
     ]
 }
