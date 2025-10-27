@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOODBYE YELLOW BRICK ROAD",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "GOODBYE YELLOW BRICK ROAD",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
