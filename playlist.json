@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wrong Again",
-        "artist": "Frank Josephs"
+        "title": "Paradise",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Wrong Again",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
