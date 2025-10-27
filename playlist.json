@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "FOR THE COOL IN YOU",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
