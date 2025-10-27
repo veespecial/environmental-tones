@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUNNY CAME HOME",
-        "artist": "MOORE and BRENGLE"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "SUNNY CAME HOME",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Run",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
