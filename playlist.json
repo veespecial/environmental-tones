@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Give In",
-        "artist": "Andy Suzuki"
+        "title": "BLESSED",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I Give In",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
-        },
-        {
-            "title": " AFTER THE LOVE HAS GONE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
