@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
