@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOONER OR LATER",
-        "artist": "Harley Music"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "SOONER OR LATER",
+            "artist": "Harley Music"
+        },
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "WORLD I KNOW",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Paradise",
-            "artist": "Daniel Ho"
         }
     ]
 }
