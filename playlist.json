@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Something There To Remind Me",
-        "artist": "Harley"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "Always Something There To Remind Me",
+            "artist": "Harley"
+        },
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "BLUE MOON",
-            "artist": "John Morton"
         }
     ]
 }
