@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Indio",
-        "artist": "Ray Kelley"
+        "title": "Fashionably Late",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Indio",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
