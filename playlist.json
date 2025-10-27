@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "FOUR AND TWENTY",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Beautiful Morning",
-            "artist": "Harley Music"
         }
     ]
 }
