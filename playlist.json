@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "After Hours",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "CHECK IT OUT",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
