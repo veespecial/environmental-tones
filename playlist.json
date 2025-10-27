@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART WILL GO ON",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "MY HEART WILL GO ON",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
