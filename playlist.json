@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fashionably Late",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Your Life Is Now",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Fashionably Late",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "ALL FOUR SEASONS",
-            "artist": "Moro-Eden"
         }
     ]
 }
