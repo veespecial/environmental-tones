@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE THERE",
-        "artist": "JIM BREDOUW"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "I'LL BE THERE",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
