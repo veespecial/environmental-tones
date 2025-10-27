@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz On The Beach",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Jazz On The Beach",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
