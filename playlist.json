@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER PARK, ANOTHER SUNDAY",
-        "artist": "Andre Mayeux"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "ANOTHER PARK, ANOTHER SUNDAY",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
-        },
-        {
-            "title": "Cathedral City",
-            "artist": "Ray Kelley"
         }
     ]
 }
