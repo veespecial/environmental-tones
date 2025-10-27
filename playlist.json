@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUR AND TWENTY",
-        "artist": "John Morton"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "FOUR AND TWENTY",
+            "artist": "John Morton"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "RHYTHM OF THE NIGHT",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Candlelight",
-            "artist": "Ray Kelley"
         }
     ]
 }
