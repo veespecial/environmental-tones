@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "Your Life Is Now",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Groovin'",
             "artist": "Harley Music"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
