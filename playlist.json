@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "AWAKENING",
-            "artist": "Jazz Pretenders"
         }
     ]
 }
