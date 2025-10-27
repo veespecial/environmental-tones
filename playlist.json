@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "San Francisco (Be Sure To Wear...)",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
