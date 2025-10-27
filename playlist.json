@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "CRAZY LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "IF YOU LEAVE ME NOW",
-            "artist": "Daniel Ho"
         }
     ]
 }
