@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paradise",
-        "artist": "Daniel Ho"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Paradise",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Wrong Again",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "42nd And A Half Street",
-            "artist": "Brian Withycombe"
         }
     ]
 }
