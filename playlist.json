@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL CRIED OUT",
-        "artist": "LENNY MOORE"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "ALL CRIED OUT",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
