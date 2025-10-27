@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "I Wish",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Whip Appeal",
             "artist": "Nashville Cats"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
