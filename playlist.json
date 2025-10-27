@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAPTAIN OF HER HEART",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "CAPTAIN OF HER HEART",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "FOLLOW YOU, FOLLOW ME",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
