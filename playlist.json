@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sleeping Cat Dance",
-        "artist": "Nick Manson"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Sleeping Cat Dance",
+            "artist": "Nick Manson"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Always Something There To Remind Me",
-            "artist": "Harley"
         }
     ]
 }
