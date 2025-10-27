@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-        "artist": "Nick Manson"
+        "title": "BLACK BUTTERFLY",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "RHYTHM OF THE NIGHT",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
