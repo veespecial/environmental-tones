@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHECK IT OUT",
-        "artist": "Andre Mayeux"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "CHECK IT OUT",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "LEAVING ON A JET PLANE",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "TAKE FIVE",
-            "artist": "South Point"
         }
     ]
 }
