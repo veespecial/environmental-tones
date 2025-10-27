@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Whip Appeal",
-        "artist": "Nashville Cats"
+        "title": "THE LOOK OF LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Whip Appeal",
+            "artist": "Nashville Cats"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "My Girl",
             "artist": "Harley Music"
-        },
-        {
-            "title": "MOTHER NATURE'S SON",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
