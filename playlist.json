@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE LETTERS",
-        "artist": "MANSON LIVE"
+        "title": "Cathedral City",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "LOVE LETTERS",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
-        },
-        {
-            "title": "Can't Take My Eyes Off You",
-            "artist": "Harley Bros."
         }
     ]
 }
