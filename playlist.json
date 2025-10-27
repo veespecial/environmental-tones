@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "500 Days",
-            "artist": "Manson Music"
         }
     ]
 }
