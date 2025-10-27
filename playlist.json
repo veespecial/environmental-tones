@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF I CAN'T HAVE YOU",
-        "artist": "Devlin's Strings"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "IF I CAN'T HAVE YOU",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
