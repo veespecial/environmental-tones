@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "It's Only Love",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
