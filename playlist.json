@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "After the Love Has Gone",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
