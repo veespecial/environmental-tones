@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(The Angels Wanna Wear My) Red Shoe",
-        "artist": "Harley Bros."
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "(The Angels Wanna Wear My) Red Shoe",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Sweet Blindness",
-            "artist": "Andre Mayeux"
         }
     ]
 }
