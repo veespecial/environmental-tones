@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It Makes Me Crazy",
-        "artist": "Nick Manson"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "It Makes Me Crazy",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "500 Days",
             "artist": "Manson Music"
-        },
-        {
-            "title": "THE LOOK OF LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
