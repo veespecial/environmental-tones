@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "JULIA",
             "artist": "North Point"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
