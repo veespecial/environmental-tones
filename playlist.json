@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO RIGHT",
-        "artist": "Curtis Brengle"
+        "title": "IF I CAN'T HAVE YOU",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "DO RIGHT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
