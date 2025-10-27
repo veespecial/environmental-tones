@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Girl",
-        "artist": "Harley Music"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "My Girl",
+            "artist": "Harley Music"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
