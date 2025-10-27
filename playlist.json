@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sometime Brazil",
-        "artist": "Andy Suzuki"
+        "title": "Michelle",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Sometime Brazil",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Say What's In My Heart",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "DO RIGHT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
