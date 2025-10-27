@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TELL ME",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "DON'T TELL ME",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "As",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
