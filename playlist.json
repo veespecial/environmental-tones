@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come Fly With Me",
-        "artist": "Ray Kelley"
+        "title": "BUS STOP",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Come Fly With Me",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "FIELDS OF GOLD",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
