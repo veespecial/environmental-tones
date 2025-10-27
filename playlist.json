@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN LOVE YOU LIKE THAT",
-        "artist": "TOMMY/BRIAN"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "I CAN LOVE YOU LIKE THAT",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
