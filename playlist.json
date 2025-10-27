@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "BACK STABBERS",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "TAKE FIVE",
-            "artist": "South Point"
         }
     ]
 }
