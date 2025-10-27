@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOODBYE YELLOW BRICK ROAD",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "GOODBYE YELLOW BRICK ROAD",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I Wish",
-            "artist": "Harley Bros."
         }
     ]
 }
