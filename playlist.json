@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
