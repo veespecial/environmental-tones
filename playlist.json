@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAND OF GOLD",
-        "artist": "Moro-Eden"
+        "title": "PLEASE",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "BAND OF GOLD",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
@@ -39,10 +43,6 @@
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
