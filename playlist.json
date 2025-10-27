@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET ME GET TO KNOW YOU",
-        "artist": "Jim Devlin"
+        "title": "Ever Changing Times",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "LET ME GET TO KNOW YOU",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
