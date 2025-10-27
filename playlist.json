@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "Just in Time",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
