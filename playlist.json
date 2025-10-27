@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE LOOK OF LOVE",
-        "artist": "Tom Kellock"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "THE LOOK OF LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Whip Appeal",
             "artist": "Nashville Cats"
@@ -39,10 +43,6 @@
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "My Girl",
-            "artist": "Harley Music"
         }
     ]
 }
