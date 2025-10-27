@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGEL",
-        "artist": "Politzer/Withycombe"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "ANGEL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
