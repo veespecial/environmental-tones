@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "NIGHTBRIDGE",
+        "artist": "Judy Erwin"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "(The Angels Wanna Wear My) Red Shoe",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "After Hours",
-            "artist": "Ray Kelley"
         }
     ]
 }
