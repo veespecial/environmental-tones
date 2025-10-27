@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Beautiful Morning",
-        "artist": "Harley Music"
+        "title": "Candlelight",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Beautiful Morning",
+            "artist": "Harley Music"
+        },
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "LIFE IN MONO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
