@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLESSED",
-        "artist": "Tom Kellock"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "BLESSED",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
