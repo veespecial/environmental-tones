@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tropic Of Capricorn",
-        "artist": "South Point"
+        "title": "You Ought To Be With Me",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Tropic Of Capricorn",
+            "artist": "South Point"
+        },
         {
             "title": "Michelle",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
