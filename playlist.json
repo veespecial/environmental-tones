@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK TO LOVE",
-        "artist": "Nick Manson"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "BACK TO LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "PEACEFUL EASY FEELING",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
