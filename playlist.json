@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "42nd And A Half Street",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
