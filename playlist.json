@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Run",
-        "artist": "Los Devlin Strings"
+        "title": "BAND OF GOLD",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Run",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
