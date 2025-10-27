@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF YOU LEAVE ME NOW",
-        "artist": "Daniel Ho"
+        "title": "Let's Love Again (Lovers)",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "IF YOU LEAVE ME NOW",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Daniel",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "Bisbee",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
