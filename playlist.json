@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRYSTAL SHIP",
-        "artist": "Curtis Brengle"
+        "title": "DO YOU WANNA DANCE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "CRYSTAL SHIP",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
