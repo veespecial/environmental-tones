@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE LOOK OF LOVE",
-        "artist": "Tom Kellock"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "THE LOOK OF LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
