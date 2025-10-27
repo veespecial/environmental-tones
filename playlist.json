@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "More Than Just A Life",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
