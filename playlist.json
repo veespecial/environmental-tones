@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "I Don't Want To Spoil The Party",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
