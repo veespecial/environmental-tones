@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Daniel",
-        "artist": "Harley Music"
+        "title": "IF YOU LEAVE ME NOW",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Daniel",
+            "artist": "Harley Music"
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
