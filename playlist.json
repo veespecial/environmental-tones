@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Next Event",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Next Event",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
