@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "FAMILY AFFAIR",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
