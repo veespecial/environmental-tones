@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "Always Something There To Remind Me",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "ANOTHER PARK, ANOTHER SUNDAY",
-            "artist": "Andre Mayeux"
         }
     ]
 }
