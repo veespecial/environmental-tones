@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After Hours",
-        "artist": "Ray Kelley"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "After Hours",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
