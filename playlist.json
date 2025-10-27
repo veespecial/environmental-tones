@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Ought To Be With Me",
-        "artist": "Harley Brothers"
+        "title": "A WORLD WITHOUT LOVE",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "You Ought To Be With Me",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
