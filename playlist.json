@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RHYTHM OF THE NIGHT",
-        "artist": "MANASUS MUSIC"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "RHYTHM OF THE NIGHT",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "At the Fair",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
