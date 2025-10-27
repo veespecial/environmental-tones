@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOTHER NATURE'S SON",
-        "artist": "DERRICK CHASE"
+        "title": "Sweet Blindness",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "MOTHER NATURE'S SON",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "IF YOU LEAVE ME NOW",
-            "artist": "Daniel Ho"
         }
     ]
 }
