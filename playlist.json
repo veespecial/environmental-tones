@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGEL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "EARTH ANGEL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Just in Time",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
