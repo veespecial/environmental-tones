@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Beautiful Morning",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Soul Searchin'",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
