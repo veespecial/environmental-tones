@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE MOON",
-        "artist": "John Morton"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "BLUE MOON",
+            "artist": "John Morton"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
