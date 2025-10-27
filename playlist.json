@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It's Only Love",
-        "artist": "San Francisco"
+        "title": "Everybody's Talking",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "It's Only Love",
+            "artist": "San Francisco"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
