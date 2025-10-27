@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just in Time",
-        "artist": "Mirage Ensemble"
+        "title": "Fashionably Late",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Just in Time",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "FOR THE COOL IN YOU",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
