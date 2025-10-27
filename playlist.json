@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "42nd And A Half Street",
-        "artist": "Brian Withycombe"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "42nd And A Half Street",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
