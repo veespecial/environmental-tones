@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH BONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "Sweet Blindness",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "DONE WITH BONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "Can't Take My Eyes Off You",
-            "artist": "Harley Bros."
         }
     ]
 }
