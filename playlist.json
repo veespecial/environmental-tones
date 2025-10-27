@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KEEP ON PUSHING LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "KEEP ON PUSHING LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "ANOTHER GIRL",
-            "artist": "John Morton"
         }
     ]
 }
