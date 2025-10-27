@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PEACEFUL EASY FEELING",
-        "artist": "MIRAGE BAND"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "PEACEFUL EASY FEELING",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
