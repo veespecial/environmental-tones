@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FIELDS OF GOLD",
-        "artist": "MANASUS MUSIC"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "FIELDS OF GOLD",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER PARK, ANOTHER SUNDAY",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "LA-LA MEANS I LOVE YOU",
-            "artist": "Andy Suzuki"
         }
     ]
 }
