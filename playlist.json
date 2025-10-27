@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Life Is Now",
-        "artist": "Harley Brothers"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Your Life Is Now",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
