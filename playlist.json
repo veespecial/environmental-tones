@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
