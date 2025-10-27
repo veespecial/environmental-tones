@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "I Give In",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "RHYTHM OF THE NIGHT",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "DON'T TELL ME",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
