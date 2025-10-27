@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soul Searchin'",
-        "artist": "STANDING PATT MUSIC"
+        "title": "(The Angels Wanna Wear My) Red Shoe",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Soul Searchin'",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "MOONGLOW",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "DONE WITH BONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
