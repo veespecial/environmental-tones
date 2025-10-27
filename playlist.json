@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "RHYTHM OF THE NIGHT",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Beautiful Morning",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
