@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "We're in This Love Together",
-        "artist": "Harley Music"
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "We're in This Love Together",
+            "artist": "Harley Music"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
