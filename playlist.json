@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
