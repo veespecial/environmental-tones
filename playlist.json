@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just in Time",
-        "artist": "Mirage Ensemble"
+        "title": "MY HEART WILL GO ON",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Just in Time",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
