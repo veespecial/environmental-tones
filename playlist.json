@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "AFTER ALL",
-            "artist": "Nick Manson"
         }
     ]
 }
