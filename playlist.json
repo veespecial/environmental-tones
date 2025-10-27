@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "Jazz Man",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "BAND OF GOLD",
-            "artist": "Moro-Eden"
         }
     ]
 }
