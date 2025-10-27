@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
