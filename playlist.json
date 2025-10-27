@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Purple Passion",
-        "artist": "Ho Tones"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Purple Passion",
+            "artist": "Ho Tones"
+        },
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Dancing Queen",
-            "artist": "Harley Brothers"
         }
     ]
 }
