@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "SUMMER WIND",
-            "artist": "Harley"
         }
     ]
 }
