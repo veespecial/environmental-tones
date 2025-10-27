@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "PLEASE",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Groovin'",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "As",
-            "artist": "Daniel Ho"
         }
     ]
 }
