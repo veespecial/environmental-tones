@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER GIRL",
-        "artist": "John Morton"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "ANOTHER GIRL",
+            "artist": "John Morton"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "I'LL NEVER STOP LOVING YOU",
-            "artist": "Tom Kellock"
         }
     ]
 }
