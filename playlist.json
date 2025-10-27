@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE LETTERS",
-        "artist": "MANSON LIVE"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "LOVE LETTERS",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
