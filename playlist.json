@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET IT BE ME",
-        "artist": "Josephs Band"
+        "title": "Purple Passion",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "LET IT BE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Dancing Queen",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
