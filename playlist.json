@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
-        },
-        {
-            "title": "SHE'S NO LADY",
-            "artist": "North Point"
         }
     ]
 }
