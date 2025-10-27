@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHO WILL SAVE YOUR SOUL",
-        "artist": "Moro-Eden"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "WHO WILL SAVE YOUR SOUL",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "I WILL",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHTBRIDGE",
             "artist": "Judy Erwin"
-        },
-        {
-            "title": "CAMILLA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
