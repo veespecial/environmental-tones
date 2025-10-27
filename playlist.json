@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PLEASE",
-        "artist": "Frank Josephs Group"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "PLEASE",
+            "artist": "Frank Josephs Group"
+        },
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "COME GO WITH ME",
-            "artist": "North Point"
         }
     ]
 }
