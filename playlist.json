@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LONELY TOO LONG",
-        "artist": "South Point"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "LONELY TOO LONG",
+            "artist": "South Point"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "DO YOU WANNA DANCE",
-            "artist": "Moro-Eden"
         }
     ]
 }
