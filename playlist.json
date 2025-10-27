@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAD SNEAKERS",
-        "artist": "LENNY MOORE"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "BAD SNEAKERS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "Jazz Man",
-            "artist": "Harley Music"
         }
     ]
 }
