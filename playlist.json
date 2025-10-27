@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "I'LL BE THERE",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
