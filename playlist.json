@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cathedral City",
-        "artist": "Ray Kelley"
+        "title": "Always Something There To Remind Me",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Cathedral City",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
