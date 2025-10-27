@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "BACK TO LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Come See About Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "I JUST CAN'T LET GO",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
