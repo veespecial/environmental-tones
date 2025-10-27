@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAY YOU LOVE ME",
-        "artist": "Josephs Band"
+        "title": "SOONER OR LATER",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "SAY YOU LOVE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "BACK TO LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
