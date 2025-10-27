@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO YOU WANNA DANCE",
-        "artist": "Moro-Eden"
+        "title": "Fourth In Four",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "DO YOU WANNA DANCE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "MOTHER NATURE'S SON",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
