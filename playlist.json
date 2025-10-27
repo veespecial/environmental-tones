@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "Way You Do the Things You Do",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
