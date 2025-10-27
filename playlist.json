@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Paradise",
-            "artist": "Daniel Ho"
         }
     ]
 }
