@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PEACEFUL EASY FEELING",
-        "artist": "MIRAGE BAND"
+        "title": "HELLO IT'S ME",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "PEACEFUL EASY FEELING",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "I OWE IT ALL TO YOU",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
