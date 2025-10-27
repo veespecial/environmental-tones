@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
