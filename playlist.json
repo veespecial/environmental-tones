@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART WILL GO ON",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "MY HEART WILL GO ON",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
