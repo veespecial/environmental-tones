@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
