@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE'S NO LADY",
-        "artist": "North Point"
+        "title": "AWAKENING",
+        "artist": "Jazz Pretenders"
     },
     "recent": [
+        {
+            "title": "SHE'S NO LADY",
+            "artist": "North Point"
+        },
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
