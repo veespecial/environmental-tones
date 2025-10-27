@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE THERE",
-        "artist": "JIM BREDOUW"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I'LL BE THERE",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
