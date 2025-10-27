@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "After the Love Has Gone",
-            "artist": "Harley Music"
         }
     ]
 }
