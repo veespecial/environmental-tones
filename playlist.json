@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DINDI",
-        "artist": "LENNY MOORE"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "DINDI",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "It Makes Me Crazy",
-            "artist": "Nick Manson"
         }
     ]
 }
