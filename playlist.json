@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RHYTHM OF THE NIGHT",
-        "artist": "MANASUS MUSIC"
+        "title": " AFTER THE LOVE HAS GONE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "RHYTHM OF THE NIGHT",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
