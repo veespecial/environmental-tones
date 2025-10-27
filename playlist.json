@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET HOME",
-        "artist": "Jerry Cortez"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "SWEET HOME",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Can't Take My Eyes Off You",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
