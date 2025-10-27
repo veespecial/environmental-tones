@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "SOONER OR LATER",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "MOONGLOW",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Call Me A Fool",
-            "artist": "Andy Suzuki"
         }
     ]
 }
