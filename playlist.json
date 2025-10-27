@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "More Than Just A Life",
-        "artist": "Brian Withycombe"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "More Than Just A Life",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "ANOTHER GIRL",
-            "artist": "John Morton"
         }
     ]
 }
