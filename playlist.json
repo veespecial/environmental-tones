@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "GOODBYE YELLOW BRICK ROAD",
+        "artist": "BALIN/BLOM ORCHESTRA"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
