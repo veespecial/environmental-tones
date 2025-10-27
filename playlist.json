@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sometime Brazil",
-        "artist": "Andy Suzuki"
+        "title": "Come Fly With Me",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Sometime Brazil",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
