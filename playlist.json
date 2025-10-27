@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID IN TOWN",
-        "artist": "MIRAGE BAND"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "NEW KID IN TOWN",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
