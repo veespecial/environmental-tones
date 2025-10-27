@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Say What's In My Heart",
-        "artist": "Andre Mayeux"
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Say What's In My Heart",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
