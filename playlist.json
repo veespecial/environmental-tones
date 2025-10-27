@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOONGLOW",
-        "artist": "MANASUS MUSIC"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "MOONGLOW",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "CREDIT",
-            "artist": "North Point"
         }
     ]
 }
