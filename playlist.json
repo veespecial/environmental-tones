@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "MY HEART WILL GO ON",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
