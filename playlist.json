@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Singalong Junk",
-        "artist": "Crescenta Valley Boys"
+        "title": "FOUR AND TWENTY",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "Singalong Junk",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
-        },
-        {
-            "title": "JOHNNY'S GARDEN",
-            "artist": "Harley Brothers"
         }
     ]
 }
