@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAND OF GOLD",
-        "artist": "Moro-Eden"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "BAND OF GOLD",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
