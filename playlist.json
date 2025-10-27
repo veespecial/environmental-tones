@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "Daniel",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "COME ON LET'S GO",
-            "artist": "North Point"
         }
     ]
 }
