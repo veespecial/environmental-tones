@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Breath You Take",
-        "artist": "Harley Music"
+        "title": "Always",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Every Breath You Take",
+            "artist": "Harley Music"
+        },
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "CREDIT",
             "artist": "North Point"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
