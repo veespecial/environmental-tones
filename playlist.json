@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CREDIT",
-        "artist": "North Point"
+        "title": "Call Me A Fool",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "CREDIT",
+            "artist": "North Point"
+        },
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
