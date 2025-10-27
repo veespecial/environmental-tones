@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LITTLE MORE TIME WITH YOU",
-        "artist": "Andre Mayeux"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "LITTLE MORE TIME WITH YOU",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
