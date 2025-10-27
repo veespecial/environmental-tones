@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Together Again",
-        "artist": "Harley Bros."
+        "title": "DON'T GO BREAKIN' MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Together Again",
+            "artist": "Harley Bros."
+        },
         {
             "title": "IT'S YOUR LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
