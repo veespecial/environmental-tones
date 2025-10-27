@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I OWE IT ALL TO YOU",
-        "artist": "TOMMY/BRIAN"
+        "title": "Batata Bossa",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "I OWE IT ALL TO YOU",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Tropic Of Capricorn",
-            "artist": "South Point"
         }
     ]
 }
