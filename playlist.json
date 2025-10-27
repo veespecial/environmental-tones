@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Blindness",
-        "artist": "Andre Mayeux"
+        "title": "Every Breath You Take",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Sweet Blindness",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "KEEP ON PUSHING LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
