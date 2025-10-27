@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "As",
-        "artist": "Daniel Ho"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "As",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "Next Event",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
