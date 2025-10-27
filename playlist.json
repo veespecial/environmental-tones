@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIVING YOU THE BEST THAT I GOT",
-        "artist": "Curtis Brengle"
+        "title": "Sleeping Cat Dance",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "GIVING YOU THE BEST THAT I GOT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
-        },
-        {
-            "title": "SHE RUNS AWAY",
-            "artist": "Harley Brothers"
         }
     ]
 }
