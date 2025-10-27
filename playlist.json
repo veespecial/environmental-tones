@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "Let's Love Again (Lovers)",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "SHE'S NO LADY",
             "artist": "North Point"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
