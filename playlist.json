@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come See About Me",
-        "artist": "Harley Bros."
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Come See About Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
