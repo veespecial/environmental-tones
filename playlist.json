@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOONGLOW",
-        "artist": "MANASUS MUSIC"
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "MOONGLOW",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH BONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "THE LOOK OF LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
