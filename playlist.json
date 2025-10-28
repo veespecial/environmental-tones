@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I BELIEVE IN YOU AND ME",
-        "artist": "Josephs Band"
+        "title": "BLUE MOON",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "I BELIEVE IN YOU AND ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Thrill is Gone",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
