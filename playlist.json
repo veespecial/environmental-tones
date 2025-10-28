@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SURE KNOW SOMETHING",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "SURE KNOW SOMETHING",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
-            "artist": "Jerry Cortez"
         }
     ]
 }
