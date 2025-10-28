@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "I Don't Want To Spoil The Party",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
@@ -39,10 +43,6 @@
         {
             "title": "WONDERING ALOUD",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
