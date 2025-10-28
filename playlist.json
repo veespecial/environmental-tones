@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "Don't Let Me be Lonely Tonight",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "Point Of Groove",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
