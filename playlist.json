@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "West Again",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "West Again",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
