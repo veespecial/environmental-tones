@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LOOK DOWN",
-        "artist": "LENNY MOORE"
+        "title": "Jazz On The Beach",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "DON'T LOOK DOWN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "My Guy",
-            "artist": "Harley Bros."
         }
     ]
 }
