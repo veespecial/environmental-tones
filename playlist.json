@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "DON'T GO BREAKIN' MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "DON'T LOOK DOWN",
-            "artist": "LENNY MOORE"
         }
     ]
 }
