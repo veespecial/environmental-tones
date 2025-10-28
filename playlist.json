@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Way You Do the Things You Do",
-        "artist": "Harley Bros."
+        "title": "GOODBYE YELLOW BRICK ROAD",
+        "artist": "BALIN/BLOM ORCHESTRA"
     },
     "recent": [
+        {
+            "title": "Way You Do the Things You Do",
+            "artist": "Harley Bros."
+        },
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "IF I CAN'T HAVE YOU",
-            "artist": "Devlin's Strings"
         }
     ]
 }
