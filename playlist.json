@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A WORLD WITHOUT LOVE",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "A WORLD WITHOUT LOVE",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
