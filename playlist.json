@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "West Again",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "LA-LA MEANS I LOVE YOU",
-            "artist": "Andy Suzuki"
         }
     ]
 }
