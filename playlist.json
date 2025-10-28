@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sometime Brazil",
-        "artist": "Andy Suzuki"
+        "title": "YOUR'E NO GOOD",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Sometime Brazil",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
