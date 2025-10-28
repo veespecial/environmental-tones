@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cozy Cabin",
-        "artist": "Mirage Ensemble"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Cozy Cabin",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Call Me A Fool",
-            "artist": "Andy Suzuki"
         }
     ]
 }
