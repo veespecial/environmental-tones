@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Ought To Be With Me",
-        "artist": "Harley Brothers"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "You Ought To Be With Me",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
