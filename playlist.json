@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I FALL TO PIECES",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "SHE'S NO LADY",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I FALL TO PIECES",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
