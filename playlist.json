@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHT IN PARIS",
-        "artist": "Ho Tones"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "NIGHT IN PARIS",
+            "artist": "Ho Tones"
+        },
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
