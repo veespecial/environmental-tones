@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RHYTHM OF THE NIGHT",
-        "artist": "MANASUS MUSIC"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "RHYTHM OF THE NIGHT",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "GIMME LITTLE SIGN",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
