@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Don't Let Me be Lonely Tonight",
-        "artist": "Harley Brothers"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Don't Let Me be Lonely Tonight",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
