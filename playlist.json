@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "We're in This Love Together",
-        "artist": "Harley Music"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "We're in This Love Together",
+            "artist": "Harley Music"
+        },
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Bisbee",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
