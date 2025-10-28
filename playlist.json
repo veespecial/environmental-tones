@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF YOU LEAVE ME NOW",
-        "artist": "Daniel Ho"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "IF YOU LEAVE ME NOW",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "You Ought To Be With Me",
-            "artist": "Harley Brothers"
         }
     ]
 }
