@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "I Give In",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "I Miss You",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "ANGEL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
