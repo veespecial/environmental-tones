@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLESSED",
-        "artist": "Tom Kellock"
+        "title": "Sweet Blindness",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BLESSED",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "FOLLOW YOU, FOLLOW ME",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
