@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRY ME A RIVER",
-        "artist": "LENNY MOORE"
+        "title": "FAMILY AFFAIR",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "CRY ME A RIVER",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Everybody's Talking",
-            "artist": "Harley Music"
         }
     ]
 }
