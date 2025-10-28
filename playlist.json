@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOTHER NATURE'S SON",
-        "artist": "DERRICK CHASE"
+        "title": "Sleeping Cat Dance",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "MOTHER NATURE'S SON",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
