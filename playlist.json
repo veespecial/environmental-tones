@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME ON LET'S GO",
-        "artist": "North Point"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "COME ON LET'S GO",
+            "artist": "North Point"
+        },
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Bisbee",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
