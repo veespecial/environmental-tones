@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF I CAN'T HAVE YOU",
-        "artist": "Devlin's Strings"
+        "title": "LIFE IN MONO",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "IF I CAN'T HAVE YOU",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Cathedral City",
-            "artist": "Ray Kelley"
         }
     ]
 }
