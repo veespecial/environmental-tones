@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz On The Beach",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Jazz On The Beach",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DON'T LOOK DOWN",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "ANGEL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
