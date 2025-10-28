@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAND OF GOLD",
-        "artist": "Moro-Eden"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "BAND OF GOLD",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "Beautiful Morning",
-            "artist": "Harley Music"
         }
     ]
 }
