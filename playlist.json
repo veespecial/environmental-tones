@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "BUCKETS OF RAIN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "Rock Your Baby",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "GEORGIA ON MY MIND",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
