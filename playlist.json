@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "CRY ME A RIVER",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
