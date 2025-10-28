@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
-        "artist": "Jerry Cortez"
+        "title": "THE SWEETEST DAYS",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "NEW YORK STATE OF MIND",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
