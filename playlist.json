@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JOHNNY'S GARDEN",
-        "artist": "Harley Brothers"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "JOHNNY'S GARDEN",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
