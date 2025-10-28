@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After Hours",
-        "artist": "Ray Kelley"
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "After Hours",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
