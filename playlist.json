@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wrong Again",
-        "artist": "Frank Josephs"
+        "title": "HAKUNA MATATA",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Wrong Again",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "COME ON LET'S GO",
             "artist": "North Point"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
