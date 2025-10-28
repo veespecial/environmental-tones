@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "I CAN'T MAKE YOU LOVE ME",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
