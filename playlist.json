@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "LA-LA MEANS I LOVE YOU",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
