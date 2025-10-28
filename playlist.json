@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I HEARD IT THROUGH THE GRAPEVINE",
-        "artist": "It's Lenny Moore"
+        "title": "IF WE FALL IN LOVE AGAIN",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I HEARD IT THROUGH THE GRAPEVINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
