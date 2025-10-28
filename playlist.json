@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STUBBORN KIND OF FELLOW",
-        "artist": "Crescenta Valley Boys"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "STUBBORN KIND OF FELLOW",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
