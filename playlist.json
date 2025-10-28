@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD MORNING HEARTACHE",
-        "artist": "Nick Manson"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "GOOD MORNING HEARTACHE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
