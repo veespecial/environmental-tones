@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always",
-        "artist": "Harley Bros."
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Always",
+            "artist": "Harley Bros."
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-            "artist": "Nick Manson"
         }
     ]
 }
