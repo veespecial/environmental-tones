@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DINDI",
-        "artist": "LENNY MOORE"
+        "title": "FOUR AND TWENTY",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "DINDI",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "Wonderful Tonight",
-            "artist": "Daniel Ho"
         }
     ]
 }
