@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE MOON",
-        "artist": "John Morton"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "BLUE MOON",
+            "artist": "John Morton"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL FOLLOW THE SUN",
             "artist": "North Point"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
