@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Blindness",
-        "artist": "Andre Mayeux"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Sweet Blindness",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "FOLLOW YOU, FOLLOW ME",
-            "artist": "Nick Manson"
         }
     ]
 }
