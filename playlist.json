@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz Man",
-        "artist": "Harley Music"
+        "title": "I Never Know",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "Jazz Man",
+            "artist": "Harley Music"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
