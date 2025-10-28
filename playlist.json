@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
-        "artist": "Jerry Cortez"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "Take a Bow",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
