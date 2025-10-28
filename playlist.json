@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
