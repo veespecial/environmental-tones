@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "Everybody's Talking",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I Don't Want To Spoil The Party",
-            "artist": "John Morton"
         }
     ]
 }
