@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "Paramour",
-            "artist": "Dave Keenan"
         }
     ]
 }
