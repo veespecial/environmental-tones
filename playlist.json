@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
