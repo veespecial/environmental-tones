@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "CRY ME A RIVER",
-            "artist": "LENNY MOORE"
         }
     ]
 }
