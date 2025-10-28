@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GEORGIA ON MY MIND",
-        "artist": "Tom Kellock"
+        "title": "Cathedral City",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "GEORGIA ON MY MIND",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Always Something There To Remind Me",
-            "artist": "Harley"
         }
     ]
 }
