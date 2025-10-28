@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "DON'T LOOK DOWN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
-        },
-        {
-            "title": "I BELIEVE IN YOU AND ME",
-            "artist": "Josephs Band"
         }
     ]
 }
