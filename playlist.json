@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF YOU LEAVE ME NOW",
-        "artist": "Daniel Ho"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "IF YOU LEAVE ME NOW",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
-        },
-        {
-            "title": "WHAT'S GOIN ON",
-            "artist": "Josephs Band"
         }
     ]
 }
