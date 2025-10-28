@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "After Hours",
-            "artist": "Ray Kelley"
         }
     ]
 }
