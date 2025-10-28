@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Together Again",
-        "artist": "Harley Bros."
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Together Again",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "New Kid In Town",
-            "artist": "Harley Brothers"
         }
     ]
 }
