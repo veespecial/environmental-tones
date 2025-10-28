@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "GOOD MORNING HEARTACHE",
-            "artist": "Nick Manson"
         }
     ]
 }
