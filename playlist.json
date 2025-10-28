@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "WHO WILL SAVE YOUR SOUL",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "SWEET HOME",
-            "artist": "Jerry Cortez"
         }
     ]
 }
