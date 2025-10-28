@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T GO BREAKIN' MY HEART",
-        "artist": "Devlin's Strings"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "DON'T GO BREAKIN' MY HEART",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Jazz On The Beach",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
