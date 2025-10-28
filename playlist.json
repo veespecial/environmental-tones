@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wild And Free",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Wild And Free",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "LAUGHTER IN THE RAIN",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "I'LL NEVER STOP LOVING YOU",
-            "artist": "Tom Kellock"
         }
     ]
 }
