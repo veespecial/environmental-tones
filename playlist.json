@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Say What's In My Heart",
-        "artist": "Andre Mayeux"
+        "title": "Wonderful Tonight",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Say What's In My Heart",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "LEAVING ON A JET PLANE",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "MOTHER NATURE'S SON",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
