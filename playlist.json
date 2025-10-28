@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "RHYTHM OF THE NIGHT",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
