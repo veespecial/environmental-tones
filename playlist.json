@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sailing",
-        "artist": "Harley Brothers"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Sailing",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Wild And Free",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
