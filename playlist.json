@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fashionably Late",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "New Kid In Town",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Fashionably Late",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "I'LL FOLLOW THE SUN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
