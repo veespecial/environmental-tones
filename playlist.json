@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WON'T LET YOU DO THAT TO ME",
-        "artist": "LENNY MOORE"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "I WON'T LET YOU DO THAT TO ME",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
