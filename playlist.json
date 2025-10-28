@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL FOLLOW THE SUN",
-        "artist": "North Point"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "I'LL FOLLOW THE SUN",
+            "artist": "North Point"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "IT'S YOUR LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
