@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOOD MORNING HEARTACHE",
-        "artist": "Nick Manson"
+        "title": "MY HEART WILL GO ON",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "GOOD MORNING HEARTACHE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
