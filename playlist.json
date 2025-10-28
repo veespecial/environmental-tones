@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I've Been Loving You too Long",
-        "artist": "Harley Bros."
+        "title": "I FALL TO PIECES",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "I've Been Loving You too Long",
+            "artist": "Harley Bros."
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
