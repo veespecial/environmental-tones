@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Way You Do the Things You Do",
-        "artist": "Harley Bros."
+        "title": "GOOD MORNING HEARTACHE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Way You Do the Things You Do",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
