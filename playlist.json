@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
