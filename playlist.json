@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLOW JAMS",
-        "artist": "Andy Suzuki"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "SLOW JAMS",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
