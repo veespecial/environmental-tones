@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIKE TO GET TO KNOW YOU WELL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "LIKE TO GET TO KNOW YOU WELL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "New Kid In Town",
-            "artist": "Harley Brothers"
         }
     ]
 }
