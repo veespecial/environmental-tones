@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF NOT FOR YOU",
-        "artist": "Alberto Moro"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "IF NOT FOR YOU",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "DON'T TELL ME",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
