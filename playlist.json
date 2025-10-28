@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "When a Man Loves a Woman",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "New Kid Around",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
