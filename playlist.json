@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "ANGEL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "SHE'S NO LADY",
-            "artist": "North Point"
         }
     ]
 }
