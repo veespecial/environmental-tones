@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fashionably Late",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Fashionably Late",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "DO RIGHT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
