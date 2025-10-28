@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love's In Need Of Love Today",
-        "artist": "Andy Suzuki"
+        "title": "We're in This Love Together",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Love's In Need Of Love Today",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Together Again",
-            "artist": "Harley Bros."
         }
     ]
 }
