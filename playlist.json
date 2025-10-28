@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WONDERING ALOUD",
-        "artist": "Harley Brothers"
+        "title": "LIKE TO GET TO KNOW YOU WELL",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "WONDERING ALOUD",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
-        },
-        {
-            "title": "Say What's In My Heart",
-            "artist": "Andre Mayeux"
         }
     ]
 }
