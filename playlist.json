@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GLAMOUR PROFESSION",
-        "artist": "North Point"
+        "title": "Cathedral City",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "GLAMOUR PROFESSION",
+            "artist": "North Point"
+        },
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "BACK TO LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Groovin'",
-            "artist": "Harley Music"
         }
     ]
 }
