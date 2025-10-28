@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "SHE RUNS AWAY",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "A WORLD WITHOUT LOVE",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
