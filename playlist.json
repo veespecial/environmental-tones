@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
