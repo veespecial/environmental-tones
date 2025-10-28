@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILL YOU LOVE ME TOMORROW",
-        "artist": "MANSON LIVE"
+        "title": "Thrill is Gone",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "WILL YOU LOVE ME TOMORROW",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
