@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Point Of Groove",
-        "artist": "Chatsworth Acoustic Band"
+        "title": " AFTER THE LOVE HAS GONE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "Point Of Groove",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "BUS STOP",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Way You Do the Things You Do",
-            "artist": "Harley Bros."
         }
     ]
 }
