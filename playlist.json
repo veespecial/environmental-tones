@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soul Searchin'",
-        "artist": "STANDING PATT MUSIC"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Soul Searchin'",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "Can't Take My Eyes Off You",
-            "artist": "Harley Bros."
         }
     ]
 }
