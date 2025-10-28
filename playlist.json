@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "LA-LA MEANS I LOVE YOU",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK DOWN",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Ever Changing Times",
-            "artist": "Tom Politzer"
         }
     ]
 }
