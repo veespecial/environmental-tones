@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sleeping Cat Dance",
-        "artist": "Nick Manson"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "Sleeping Cat Dance",
+            "artist": "Nick Manson"
+        },
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
