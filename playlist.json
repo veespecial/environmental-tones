@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET HOME",
-        "artist": "Jerry Cortez"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "SWEET HOME",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "HAKUNA MATATA",
-            "artist": "Josephs Band"
         }
     ]
 }
