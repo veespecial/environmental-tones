@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IT'S YOUR LOVE",
-        "artist": "Andre Mayeux"
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "IT'S YOUR LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
