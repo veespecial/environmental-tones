@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER STOP LOVING YOU",
-        "artist": "Tom Kellock"
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER STOP LOVING YOU",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "ALL FOUR SEASONS",
-            "artist": "Moro-Eden"
         }
     ]
 }
