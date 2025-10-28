@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sleeping Cat Dance",
-        "artist": "Nick Manson"
+        "title": "Together Again",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Sleeping Cat Dance",
+            "artist": "Nick Manson"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Fashionably Late",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
