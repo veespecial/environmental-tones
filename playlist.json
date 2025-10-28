@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET ME GET TO KNOW YOU",
-        "artist": "Jim Devlin"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "LET ME GET TO KNOW YOU",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
