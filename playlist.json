@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Miss You",
-        "artist": "Harley Brothers"
+        "title": "IT'S YOUR LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "I Miss You",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
