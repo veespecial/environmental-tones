@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "CHECK IT OUT",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "IF YOU LEAVE ME NOW",
-            "artist": "Daniel Ho"
         }
     ]
 }
