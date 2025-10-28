@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "RHYTHM OF THE NIGHT",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
