@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "New Kid Around",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "BLESSED",
-            "artist": "Tom Kellock"
         }
     ]
 }
