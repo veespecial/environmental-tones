@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "When a Man Loves a Woman",
-        "artist": "Harley Bros."
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "When a Man Loves a Woman",
+            "artist": "Harley Bros."
+        },
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
