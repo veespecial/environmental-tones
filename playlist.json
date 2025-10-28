@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "Way You Do the Things You Do",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
