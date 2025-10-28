@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LET THE SUN CATCH YOU CRYING",
-        "artist": "Curtis Brengle"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "DON'T LET THE SUN CATCH YOU CRYING",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
