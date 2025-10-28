@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "IF I CAN'T HAVE YOU",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "Say What's In My Heart",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "GLAMOUR PROFESSION",
-            "artist": "North Point"
         }
     ]
 }
