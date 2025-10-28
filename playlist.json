@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "FIELDS OF GOLD",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
