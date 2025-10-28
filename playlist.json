@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILL YOU LOVE ME TOMORROW",
-        "artist": "MANSON LIVE"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "WILL YOU LOVE ME TOMORROW",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
