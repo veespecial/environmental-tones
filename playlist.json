@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid In Town",
-        "artist": "Harley Brothers"
+        "title": "IF YOU LEAVE ME NOW",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "New Kid In Town",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "West Again",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "GLAMOUR PROFESSION",
-            "artist": "North Point"
         }
     ]
 }
