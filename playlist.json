@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
