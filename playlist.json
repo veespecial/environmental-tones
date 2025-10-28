@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUCKETS OF RAIN",
-        "artist": "LENNY MOORE"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "BUCKETS OF RAIN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "GEORGIA ON MY MIND",
-            "artist": "Tom Kellock"
         }
     ]
 }
