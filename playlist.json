@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "Groovin'",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Rock Your Baby",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "WHO WILL SAVE YOUR SOUL",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
