@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "Can't Take My Eyes Off You",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
