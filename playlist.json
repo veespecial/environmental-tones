@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "CRY ME A RIVER",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
