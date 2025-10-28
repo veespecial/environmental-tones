@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paradise",
-        "artist": "Daniel Ho"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Paradise",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
