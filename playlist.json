@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Rock Your Baby",
-        "artist": "Harley Bros."
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Rock Your Baby",
+            "artist": "Harley Bros."
+        },
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
