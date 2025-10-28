@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU'RE THE INSPIRATION",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "I CAN LOVE YOU LIKE THAT",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "YOU'RE THE INSPIRATION",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
