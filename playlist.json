@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PEACEFUL EASY FEELING",
-        "artist": "MIRAGE BAND"
+        "title": "Best Is Yet To Come",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "PEACEFUL EASY FEELING",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
