@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "DON'T LET THE SUN CATCH YOU CRYING",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "I've Been Loving You too Long",
-            "artist": "Harley Bros."
         }
     ]
 }
