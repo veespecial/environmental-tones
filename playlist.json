@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "FOUR AND TWENTY",
-            "artist": "John Morton"
         }
     ]
 }
