@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "I WANT TO KNOW WHAT LOVE IS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
