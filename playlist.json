@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Don't Want To Spoil The Party",
-        "artist": "John Morton"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "I Don't Want To Spoil The Party",
+            "artist": "John Morton"
+        },
         {
             "title": "FOOL #1",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Best Is Yet To Come",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
