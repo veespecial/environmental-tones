@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Leeward Side",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "DO YOU WANNA DANCE",
-            "artist": "Moro-Eden"
         }
     ]
 }
