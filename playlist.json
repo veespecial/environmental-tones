@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "Way You Do the Things You Do",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Tropic Of Capricorn",
-            "artist": "South Point"
         }
     ]
 }
