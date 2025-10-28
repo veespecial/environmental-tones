@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
