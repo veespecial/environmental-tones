@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Don't Let Me be Lonely Tonight",
-        "artist": "Harley Brothers"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Don't Let Me be Lonely Tonight",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": " AFTER THE LOVE HAS GONE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
