@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid Around",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "When a Man Loves a Woman",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "New Kid Around",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "Sweet Blindness",
-            "artist": "Andre Mayeux"
         }
     ]
 }
