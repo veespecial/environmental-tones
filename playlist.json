@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGEL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "FOLLOW YOU, FOLLOW ME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "EARTH ANGEL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "I'LL FOLLOW THE SUN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
