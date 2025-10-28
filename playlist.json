@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "DON'T GO BREAKIN' MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
