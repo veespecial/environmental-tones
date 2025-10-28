@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It's Only Love",
-        "artist": "San Francisco"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "It's Only Love",
+            "artist": "San Francisco"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Jazz Man",
-            "artist": "Harley Music"
         }
     ]
 }
