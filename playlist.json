@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Run",
-        "artist": "Los Devlin Strings"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Run",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "MY HEART WILL GO ON",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
