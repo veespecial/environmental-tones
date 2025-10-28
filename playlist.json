@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid In Town",
-        "artist": "Harley Brothers"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "New Kid In Town",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "RED PEPPER RUSH",
-            "artist": "Ho Tones"
         }
     ]
 }
