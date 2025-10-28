@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE LETTERS",
-        "artist": "MANSON LIVE"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "LOVE LETTERS",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "Walk On By",
-            "artist": "Manson Music"
         }
     ]
 }
