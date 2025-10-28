@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET IT BE ME",
-        "artist": "Josephs Band"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "LET IT BE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "BAD SNEAKERS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
