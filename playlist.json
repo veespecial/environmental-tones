@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid Around",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "New Kid Around",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Rock Your Baby",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "IT'S YOUR LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
