@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "How Deep is Your Love",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "IT'S YOUR LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
