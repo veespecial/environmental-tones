@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "After Hours",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
