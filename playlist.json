@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Best Is Yet To Come",
-        "artist": "Politzer/Withycombe"
+        "title": "GLAMOUR PROFESSION",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Best Is Yet To Come",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Groovin'",
             "artist": "Harley Music"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
