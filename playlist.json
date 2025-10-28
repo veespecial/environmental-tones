@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOTPRINTS",
-        "artist": "Melissa Siegel"
+        "title": "HELLO IT'S ME",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "FOOTPRINTS",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
