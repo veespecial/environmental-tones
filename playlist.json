@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Take a Bow",
-        "artist": "MANASUS MUSIC"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Take a Bow",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "DON'T TELL ME",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
