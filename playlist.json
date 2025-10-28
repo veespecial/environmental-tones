@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Guy",
-        "artist": "Harley Bros."
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "My Guy",
+            "artist": "Harley Bros."
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
