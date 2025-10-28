@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everybody's Talking",
-        "artist": "Harley Music"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Everybody's Talking",
+            "artist": "Harley Music"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "I BELIEVE IN YOU AND ME",
-            "artist": "Josephs Band"
         }
     ]
 }
