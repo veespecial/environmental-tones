@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "IF NOT FOR YOU",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "PEACEFUL EASY FEELING",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
