@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Queen Bee",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "IF YOU LEAVE ME NOW",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Queen Bee",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
