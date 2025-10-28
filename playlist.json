@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Turn Turn Turn",
-        "artist": "John Morton"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Turn Turn Turn",
+            "artist": "John Morton"
+        },
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
