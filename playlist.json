@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
