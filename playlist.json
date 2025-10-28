@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tropic Of Capricorn",
-        "artist": "South Point"
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Tropic Of Capricorn",
+            "artist": "South Point"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
