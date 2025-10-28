@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I OWE IT ALL TO YOU",
-        "artist": "TOMMY/BRIAN"
+        "title": "ALL FOUR SEASONS",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "I OWE IT ALL TO YOU",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK DOWN",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "FOR ONCE IN OUR LIVES",
-            "artist": "Andre Mayeux"
         }
     ]
 }
