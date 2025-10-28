@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "Rock Your Baby",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "SLOW JAMS",
-            "artist": "Andy Suzuki"
         }
     ]
 }
