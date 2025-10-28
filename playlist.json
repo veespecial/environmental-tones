@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART WILL GO ON",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "MY HEART WILL GO ON",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
