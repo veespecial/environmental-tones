@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I've Been Loving You too Long",
-        "artist": "Harley Bros."
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "I've Been Loving You too Long",
+            "artist": "Harley Bros."
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
