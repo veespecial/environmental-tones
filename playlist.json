@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE SWEETEST DAYS",
-        "artist": "Manasus Strings"
+        "title": "Beautiful Morning",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "THE SWEETEST DAYS",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "BRIGHT DAY IN A TRANQUIL HARBOR",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
