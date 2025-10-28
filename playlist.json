@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "Can't Take My Eyes Off You",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
