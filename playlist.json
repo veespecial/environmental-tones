@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "42nd And A Half Street",
-        "artist": "Brian Withycombe"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "42nd And A Half Street",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "How Deep is Your Love",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
