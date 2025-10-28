@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Grant Park",
-        "artist": "Ray Kelley"
+        "title": "My Guy",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Grant Park",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "West Again",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
