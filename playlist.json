@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Something There To Remind Me",
-        "artist": "Harley"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Always Something There To Remind Me",
+            "artist": "Harley"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Groovin'",
-            "artist": "Harley Music"
         }
     ]
 }
