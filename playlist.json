@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everybody's Talking",
-        "artist": "Harley Music"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Everybody's Talking",
+            "artist": "Harley Music"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
