@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After Hours",
-        "artist": "Ray Kelley"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "After Hours",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "JULIA",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "A Love Song",
-            "artist": "John Morton"
         }
     ]
 }
