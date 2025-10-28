@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "PEACEFUL EASY FEELING",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
