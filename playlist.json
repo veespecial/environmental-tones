@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soul Searchin'",
-        "artist": "STANDING PATT MUSIC"
+        "title": "FIELDS OF GOLD",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Soul Searchin'",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Cozy Cabin",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
