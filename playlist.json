@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Essence",
-        "artist": "Chris Ho"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Your Essence",
+            "artist": "Chris Ho"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
