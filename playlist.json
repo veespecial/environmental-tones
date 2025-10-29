@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LET THE SUN CATCH YOU CRYING",
-        "artist": "Curtis Brengle"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "DON'T LET THE SUN CATCH YOU CRYING",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
