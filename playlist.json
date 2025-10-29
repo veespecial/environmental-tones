@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I FALL TO PIECES",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "FEEL LIKE MAKIN' LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "I FALL TO PIECES",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
