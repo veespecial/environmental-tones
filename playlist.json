@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "DO YOU WANNA DANCE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "LEAVING ON A JET PLANE",
-            "artist": "Curtis Brengle"
         }
     ]
 }
