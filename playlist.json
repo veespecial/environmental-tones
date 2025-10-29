@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "I FEEL THE EARTH MOVE",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "I HEARD IT THROUGH THE GRAPEVINE",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
