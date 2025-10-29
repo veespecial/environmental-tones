@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Singalong Junk",
-        "artist": "Crescenta Valley Boys"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "Singalong Junk",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Be Thankful for What You've Got",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
