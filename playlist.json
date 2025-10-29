@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "COME GO WITH ME",
-            "artist": "North Point"
         }
     ]
 }
