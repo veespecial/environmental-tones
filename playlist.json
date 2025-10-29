@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Summer Breeze",
-        "artist": "Harley Music"
+        "title": "Let's Love Again (Lovers)",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Summer Breeze",
+            "artist": "Harley Music"
+        },
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "WHO WILL SAVE YOUR SOUL",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
