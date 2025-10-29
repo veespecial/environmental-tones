@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "ANOTHER PARK, ANOTHER SUNDAY",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "SLOW JAMS",
-            "artist": "Andy Suzuki"
         }
     ]
 }
