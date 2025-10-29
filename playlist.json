@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF WE FALL IN LOVE AGAIN",
-        "artist": "Tom Kellock"
+        "title": "AWAKENING",
+        "artist": "Jazz Pretenders"
     },
     "recent": [
+        {
+            "title": "IF WE FALL IN LOVE AGAIN",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "LEAVING ON A JET PLANE",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "You Ought To Be With Me",
-            "artist": "Harley Brothers"
         }
     ]
 }
