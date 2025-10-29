@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "I WON'T LET YOU DO THAT TO ME",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "IF I CAN'T HAVE YOU",
-            "artist": "Devlin's Strings"
         }
     ]
 }
