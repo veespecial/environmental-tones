@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF YOU LEAVE ME NOW",
-        "artist": "Daniel Ho"
+        "title": "I'LL FOLLOW THE SUN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "IF YOU LEAVE ME NOW",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
