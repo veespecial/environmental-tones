@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sailing",
-        "artist": "Harley Brothers"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Sailing",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Grant Park",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
-        },
-        {
-            "title": "We're in This Love Together",
-            "artist": "Harley Music"
         }
     ]
 }
