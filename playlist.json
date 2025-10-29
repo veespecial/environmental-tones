@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Grant Park",
-        "artist": "Ray Kelley"
+        "title": "Sailing",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Grant Park",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
