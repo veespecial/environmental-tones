@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAY YOU LOVE ME",
-        "artist": "Josephs Band"
+        "title": "CRYSTAL SHIP",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "SAY YOU LOVE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
