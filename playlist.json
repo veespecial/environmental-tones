@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come Fly With Me",
-        "artist": "Ray Kelley"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Come Fly With Me",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
