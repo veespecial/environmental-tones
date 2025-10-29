@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Wrong Again",
-            "artist": "Frank Josephs"
         }
     ]
 }
