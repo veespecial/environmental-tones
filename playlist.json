@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FEEL LIKE MAKIN' LOVE",
-        "artist": "Nick Manson"
+        "title": "THE LOOK OF LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "FEEL LIKE MAKIN' LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Come Fly With Me",
-            "artist": "Ray Kelley"
         }
     ]
 }
