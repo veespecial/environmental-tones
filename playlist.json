@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE LOOK OF LOVE",
-        "artist": "Tom Kellock"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "THE LOOK OF LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Together Again",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
-        },
-        {
-            "title": "I JUST CAN'T LET GO",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
