@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER PARK, ANOTHER SUNDAY",
-        "artist": "Andre Mayeux"
+        "title": "I FEEL THE EARTH MOVE",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "ANOTHER PARK, ANOTHER SUNDAY",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
