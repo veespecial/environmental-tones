@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "NIGHT IN PARIS",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "At the Fair",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
