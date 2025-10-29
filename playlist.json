@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "42nd And A Half Street",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
