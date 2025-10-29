@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid In Town",
-        "artist": "Harley Brothers"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "New Kid In Town",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
