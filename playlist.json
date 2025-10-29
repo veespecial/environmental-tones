@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "We're in This Love Together",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
