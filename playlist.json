@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "LONELY TOO LONG",
-            "artist": "South Point"
         }
     ]
 }
