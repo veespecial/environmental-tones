@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET ME GET TO KNOW YOU",
-        "artist": "Jim Devlin"
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "LET ME GET TO KNOW YOU",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
