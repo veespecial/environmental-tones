@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGEL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "EARTH ANGEL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "Michelle",
-            "artist": "Harley Bros."
         }
     ]
 }
