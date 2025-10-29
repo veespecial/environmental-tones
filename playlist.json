@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "42nd And A Half Street",
-        "artist": "Brian Withycombe"
+        "title": "CALL ME",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "42nd And A Half Street",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "HELLO IT'S ME",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
