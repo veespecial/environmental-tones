@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Give In",
-        "artist": "Andy Suzuki"
+        "title": "SUNNY CAME HOME",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "I Give In",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Sing a Song",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
