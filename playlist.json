@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "The Way You Look Tonight",
-        "artist": "Harley"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "The Way You Look Tonight",
+            "artist": "Harley"
+        },
         {
             "title": "FOUND OUT ABOUT YOU",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "GEORGIA ON MY MIND",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I JUST CAN'T LET GO",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
