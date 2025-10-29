@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "ALL CRIED OUT",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
