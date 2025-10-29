@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL FOLLOW THE SUN",
-        "artist": "North Point"
+        "title": "SLOW JAMS",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I'LL FOLLOW THE SUN",
+            "artist": "North Point"
+        },
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "COULD I HAVE THIS DANCE",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
