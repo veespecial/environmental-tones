@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
