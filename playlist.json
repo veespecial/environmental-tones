@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I FEEL THE EARTH MOVE",
-        "artist": "North Point"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "I FEEL THE EARTH MOVE",
+            "artist": "North Point"
+        },
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Summer Breeze",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Thrill is Gone",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
