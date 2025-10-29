@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz Man",
-        "artist": "Harley Music"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "Jazz Man",
+            "artist": "Harley Music"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
