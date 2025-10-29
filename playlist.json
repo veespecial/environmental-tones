@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR ONCE IN OUR LIVES",
-        "artist": "Andre Mayeux"
+        "title": "A SONG FOR YOU",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "FOR ONCE IN OUR LIVES",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
