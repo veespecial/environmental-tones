@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JOHNNY'S GARDEN",
-        "artist": "Harley Brothers"
+        "title": "FAMILY AFFAIR",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "JOHNNY'S GARDEN",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "Fall on Me",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "West Again",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
