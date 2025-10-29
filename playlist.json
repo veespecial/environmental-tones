@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR THE COOL IN YOU",
-        "artist": "Politzer/Withycombe"
+        "title": "Jazz Man",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "FOR THE COOL IN YOU",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
