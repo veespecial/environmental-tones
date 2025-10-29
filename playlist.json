@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN'T MAKE YOU LOVE ME",
-        "artist": "MIRAGE BAND"
+        "title": "Take a Bow",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I CAN'T MAKE YOU LOVE ME",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "DO YOU WANNA DANCE",
-            "artist": "Moro-Eden"
         }
     ]
 }
