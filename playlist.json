@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MY HEART WILL GO ON",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "MY HEART WILL GO ON",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "Dancing Queen",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
