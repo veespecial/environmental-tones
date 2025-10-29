@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Forever",
-        "artist": "Brian Withycombe"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Forever",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
