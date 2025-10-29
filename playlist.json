@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paramour",
-        "artist": "Dave Keenan"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "Paramour",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Ever Changing Times",
-            "artist": "Tom Politzer"
         }
     ]
 }
