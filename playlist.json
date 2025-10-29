@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PENNY LANE",
-        "artist": "Daniel Ho"
+        "title": "Always",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "PENNY LANE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
-        },
-        {
-            "title": "PLEASE",
-            "artist": "Frank Josephs Group"
         }
     ]
 }
