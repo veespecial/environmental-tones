@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PLEASE",
-        "artist": "Frank Josephs Group"
+        "title": "Tropic Of Capricorn",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "PLEASE",
+            "artist": "Frank Josephs Group"
+        },
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
