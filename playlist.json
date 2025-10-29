@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Essence",
-        "artist": "Chris Ho"
+        "title": "Ever Changing Times",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Your Essence",
+            "artist": "Chris Ho"
+        },
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Sing a Song",
-            "artist": "Harley Bros."
         }
     ]
 }
