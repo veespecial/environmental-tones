@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOODBYE YELLOW BRICK ROAD",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "Hissing Of Summer Lawns",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "GOODBYE YELLOW BRICK ROAD",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
