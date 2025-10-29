@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Rock Your Baby",
-        "artist": "Harley Bros."
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Rock Your Baby",
+            "artist": "Harley Bros."
+        },
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Misty",
             "artist": "Harley"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
