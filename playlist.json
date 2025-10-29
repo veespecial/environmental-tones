@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancing Queen",
-        "artist": "Harley Brothers"
+        "title": "MY HEART WILL GO ON",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Dancing Queen",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
