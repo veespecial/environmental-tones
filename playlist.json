@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAINY NIGHT IN GEORGIA",
-        "artist": "Devlin's Strings"
+        "title": "CHECK IT OUT",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "RAINY NIGHT IN GEORGIA",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "SHE'S NO LADY",
             "artist": "North Point"
-        },
-        {
-            "title": "Wild And Free",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
