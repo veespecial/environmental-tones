@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T YOU WORRY 'BOUT A THING",
-        "artist": "MANSON LIVE"
+        "title": "Indio",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "DON'T YOU WORRY 'BOUT A THING",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Everybody's Talking",
             "artist": "Harley Music"
-        },
-        {
-            "title": "AFTER ALL",
-            "artist": "Nick Manson"
         }
     ]
 }
