@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "Funtastic Music"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "The Way You Look Tonight",
             "artist": "Harley"
-        },
-        {
-            "title": "FOUND OUT ABOUT YOU",
-            "artist": "Alberto Moro"
         }
     ]
 }
