@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Chicago",
             "artist": "Harley"
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
