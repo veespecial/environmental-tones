@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "Forever",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "Sailing",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "It's Only Love",
-            "artist": "San Francisco"
         }
     ]
 }
