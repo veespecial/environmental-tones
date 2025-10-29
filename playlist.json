@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "AWAKENING",
+        "artist": "Jazz Pretenders"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Come See About Me",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Love's In Need Of Love Today",
-            "artist": "Andy Suzuki"
         }
     ]
 }
