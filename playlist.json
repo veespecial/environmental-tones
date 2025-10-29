@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE THERE",
-        "artist": "JIM BREDOUW"
+        "title": "More Than Just A Life",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "I'LL BE THERE",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "A Love Song",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
-        },
-        {
-            "title": "GLAMOUR PROFESSION",
-            "artist": "North Point"
         }
     ]
 }
