@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cozy Cabin",
-        "artist": "Mirage Ensemble"
+        "title": "DON'T YOU WORRY 'BOUT A THING",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "Cozy Cabin",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "More Than Just A Life",
-            "artist": "Brian Withycombe"
         }
     ]
 }
