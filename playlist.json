@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "We're in This Love Together",
-        "artist": "Harley Music"
+        "title": "It's Only Love",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "We're in This Love Together",
+            "artist": "Harley Music"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
