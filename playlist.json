@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It's Only Love",
-        "artist": "San Francisco"
+        "title": "LET IT BE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "It's Only Love",
+            "artist": "San Francisco"
+        },
         {
             "title": "LEAVING ON A JET PLANE",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Batata Bossa",
-            "artist": "Dave Keenan"
         }
     ]
 }
