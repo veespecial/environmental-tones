@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "WHAT'S GOIN ON",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "JOHNNY'S GARDEN",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Help Me",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Fall on Me",
-            "artist": "Harley Bros."
         }
     ]
 }
