@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Things We Do For Love",
-        "artist": "Tom Politzer/S.F."
+        "title": "Chicago",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Things We Do For Love",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
