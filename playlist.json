@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wrong Again",
-        "artist": "Frank Josephs"
+        "title": "SAN FRANCISCAN NIGHTS",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Wrong Again",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
