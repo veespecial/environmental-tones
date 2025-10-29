@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Misty",
-        "artist": "Harley"
+        "title": "I CAN LOVE YOU LIKE THAT",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "Misty",
+            "artist": "Harley"
+        },
         {
             "title": "I WON'T LET YOU DO THAT TO ME",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Love's In Need Of Love Today",
-            "artist": "Andy Suzuki"
         }
     ]
 }
