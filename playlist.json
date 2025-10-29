@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "Cozy Cabin",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
