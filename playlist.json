@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dreams",
-        "artist": "Harley Music"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "Dreams",
+            "artist": "Harley Music"
+        },
         {
             "title": "ANOTHER PARK, ANOTHER SUNDAY",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Best Is Yet To Come",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
