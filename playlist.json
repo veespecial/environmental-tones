@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come See About Me",
-        "artist": "Harley Bros."
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Come See About Me",
+            "artist": "Harley Bros."
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "PEACEFUL EASY FEELING",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
