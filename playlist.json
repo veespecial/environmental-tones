@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sleeping Cat Dance",
-        "artist": "Nick Manson"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Sleeping Cat Dance",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Next Event",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "FOR THE COOL IN YOU",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
