@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLACK BUTTERFLY",
-        "artist": "Manasus Strings"
+        "title": "A HOUSE IS NOT A HOME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "BLACK BUTTERFLY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
-        },
-        {
-            "title": "ANOTHER PARK, ANOTHER SUNDAY",
-            "artist": "Andre Mayeux"
         }
     ]
 }
