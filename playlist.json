@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF I CAN'T HAVE YOU",
-        "artist": "Devlin's Strings"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "IF I CAN'T HAVE YOU",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
