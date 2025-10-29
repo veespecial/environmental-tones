@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One Dance",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I WON'T LET YOU DO THAT TO ME",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "One Dance",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Say What's In My Heart",
-            "artist": "Andre Mayeux"
         }
     ]
 }
