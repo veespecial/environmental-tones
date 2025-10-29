@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "San Francisco (Be Sure To Wear...)",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "You've Got a Friend",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "HELLO IT'S ME",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
