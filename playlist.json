@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KEEP ON PUSHING LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "FOLLOW YOU, FOLLOW ME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "KEEP ON PUSHING LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Together Again",
-            "artist": "Harley Bros."
         }
     ]
 }
