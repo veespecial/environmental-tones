@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "I CAN'T MAKE YOU LOVE ME",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "AWAKENING",
-            "artist": "Jazz Pretenders"
         }
     ]
 }
