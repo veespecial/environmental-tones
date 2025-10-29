@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "FEEL LIKE MAKIN' LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "I Don't Want To Spoil The Party",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Forever",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
