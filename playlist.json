@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LEAVING ON A JET PLANE",
-        "artist": "Curtis Brengle"
+        "title": "It's Only Love",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "LEAVING ON A JET PLANE",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
