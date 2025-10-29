@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "GEORGIA ON MY MIND",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
