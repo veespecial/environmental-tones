@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO YOU WANNA DANCE",
-        "artist": "Moro-Eden"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "DO YOU WANNA DANCE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "Wrong Again",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
