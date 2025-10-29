@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Way You Do the Things You Do",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
