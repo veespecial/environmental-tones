@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PEACEFUL EASY FEELING",
-        "artist": "MIRAGE BAND"
+        "title": "LET IT BE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "PEACEFUL EASY FEELING",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
