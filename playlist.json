@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "A Love Song",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "I OWE IT ALL TO YOU",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
