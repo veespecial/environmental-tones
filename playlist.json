@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUCKETS OF RAIN",
-        "artist": "LENNY MOORE"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "BUCKETS OF RAIN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "SUNNY CAME HOME",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "TAKE FIVE",
-            "artist": "South Point"
         }
     ]
 }
