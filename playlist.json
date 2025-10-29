@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Things We Do For Love",
-        "artist": "Tom Politzer/S.F."
+        "title": "Sing a Song",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Things We Do For Love",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "SOONER OR LATER",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "BAND OF GOLD",
-            "artist": "Moro-Eden"
         }
     ]
 }
