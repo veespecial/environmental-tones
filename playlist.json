@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Next Event",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Sleeping Cat Dance",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Next Event",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Candlelight",
-            "artist": "Ray Kelley"
         }
     ]
 }
