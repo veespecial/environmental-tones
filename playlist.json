@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLEANING WINDOWS",
-        "artist": "LENNY MOORE"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "CLEANING WINDOWS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "FOOL #1",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "DON'T WANNA LOSE YOU",
-            "artist": "Curtis Brengle"
         }
     ]
 }
