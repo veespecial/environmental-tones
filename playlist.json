@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "QUEEN OF HEARTS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "DON'T YOU WORRY 'BOUT A THING",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "QUEEN OF HEARTS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Rock Your Baby",
-            "artist": "Harley Bros."
         }
     ]
 }
