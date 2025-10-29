@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LEAVING ON A JET PLANE",
-        "artist": "Curtis Brengle"
+        "title": "Turn Turn Turn",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "LEAVING ON A JET PLANE",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "IN A DAYDREAM",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
