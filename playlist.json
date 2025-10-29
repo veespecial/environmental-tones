@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Dreams",
             "artist": "Harley Music"
-        },
-        {
-            "title": "ANOTHER PARK, ANOTHER SUNDAY",
-            "artist": "Andre Mayeux"
         }
     ]
 }
