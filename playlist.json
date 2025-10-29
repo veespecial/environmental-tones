@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Run",
-        "artist": "Los Devlin Strings"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Run",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
