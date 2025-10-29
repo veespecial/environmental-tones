@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "RAINY NIGHT IN GEORGIA",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Run",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
