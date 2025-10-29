@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK STABBERS",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "BACK STABBERS",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "PENNY LANE",
-            "artist": "Daniel Ho"
         }
     ]
 }
