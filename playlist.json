@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "You Ought To Be With Me",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "Fashionably Late",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "LET IT BE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
