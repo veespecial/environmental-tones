@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IN MONO",
-        "artist": "Andy Suzuki"
+        "title": "BACK TO LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "LIFE IN MONO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "FOOL #1",
             "artist": "David Patt"
-        },
-        {
-            "title": "MY HEART WILL GO ON",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
