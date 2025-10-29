@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Ought To Be With Me",
-        "artist": "Harley Brothers"
+        "title": "LEAVING ON A JET PLANE",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "You Ought To Be With Me",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "HUNTER GETS CAPTURED (BY THE GAME)",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
