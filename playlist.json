@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KEEP ON PUSHING LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "KEEP ON PUSHING LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "Sing a Song",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
