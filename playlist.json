@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "Batata Bossa",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
