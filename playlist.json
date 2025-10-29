@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T YOU WORRY 'BOUT A THING",
-        "artist": "MANSON LIVE"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "DON'T YOU WORRY 'BOUT A THING",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "PENNY LANE",
-            "artist": "Daniel Ho"
         }
     ]
 }
