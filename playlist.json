@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "West Again",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "LAUGHTER IN THE RAIN",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "West Again",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "Take a Bow",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
