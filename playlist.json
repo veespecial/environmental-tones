@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "BUCKETS OF RAIN",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SUNNY CAME HOME",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
