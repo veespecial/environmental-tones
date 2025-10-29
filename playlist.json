@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "I\u2019LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
