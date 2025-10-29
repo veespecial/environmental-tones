@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SURE KNOW SOMETHING",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "PLEASE",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "SURE KNOW SOMETHING",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
