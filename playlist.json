@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Give In",
-        "artist": "Andy Suzuki"
+        "title": "A WORLD WITHOUT LOVE",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "I Give In",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Next Event",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "Funtastic Music"
         }
     ]
 }
