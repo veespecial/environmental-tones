@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "West Again",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "LIKE TO GET TO KNOW YOU WELL",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
