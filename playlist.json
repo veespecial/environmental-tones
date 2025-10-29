@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD IT BE I'M FALLING IN LOVE",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "A Love Song",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "COULD IT BE I'M FALLING IN LOVE",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "LAUGHTER IN THE RAIN",
-            "artist": "Nick Manson"
         }
     ]
 }
