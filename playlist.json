@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Indio",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
