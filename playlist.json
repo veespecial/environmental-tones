@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAINY NIGHT IN GEORGIA",
-        "artist": "Devlin's Strings"
+        "title": "Michelle",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "RAINY NIGHT IN GEORGIA",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
