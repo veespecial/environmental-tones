@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Be Thankful for What You've Got",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
