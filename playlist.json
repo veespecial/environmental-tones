@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLESSED",
-        "artist": "Tom Kellock"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "BLESSED",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "I Don't Want To Spoil The Party",
             "artist": "John Morton"
-        },
-        {
-            "title": "BUS STOP",
-            "artist": "Josephs Band"
         }
     ]
 }
