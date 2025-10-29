@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cozy Cabin",
-        "artist": "Mirage Ensemble"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Cozy Cabin",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "FOOTPRINTS",
-            "artist": "Melissa Siegel"
         }
     ]
 }
