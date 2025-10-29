@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fourth In Four",
-        "artist": "Brian Withycombe"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Fourth In Four",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Grant Park",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Queen Bee",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
