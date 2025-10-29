@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANOTHER PARK, ANOTHER SUNDAY",
-        "artist": "Andre Mayeux"
+        "title": "Dreams",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "ANOTHER PARK, ANOTHER SUNDAY",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Michelle",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
