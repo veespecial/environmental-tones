@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LOOK DOWN",
-        "artist": "LENNY MOORE"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "DON'T LOOK DOWN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "More Than Just A Life",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "KEEP ON PUSHING LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
