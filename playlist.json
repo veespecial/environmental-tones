@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Take a Bow",
-        "artist": "MANASUS MUSIC"
+        "title": "GOOD MORNING HEARTACHE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Take a Bow",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
