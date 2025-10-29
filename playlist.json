@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUR AND TWENTY",
-        "artist": "John Morton"
+        "title": "Candlelight",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "FOUR AND TWENTY",
+            "artist": "John Morton"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "A HOUSE IS NOT A HOME",
-            "artist": "Nick Manson"
         }
     ]
 }
