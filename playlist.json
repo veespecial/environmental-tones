@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "CRYSTAL SHIP",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "DON'T LOOK DOWN",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
