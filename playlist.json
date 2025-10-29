@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Queen Bee",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Queen Bee",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Jazz Man",
-            "artist": "Harley Music"
         }
     ]
 }
