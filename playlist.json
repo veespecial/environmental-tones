@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Breath You Take",
-        "artist": "Harley Music"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Every Breath You Take",
+            "artist": "Harley Music"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "A Love Song",
-            "artist": "John Morton"
         }
     ]
 }
