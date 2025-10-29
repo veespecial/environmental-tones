@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK TO LOVE",
-        "artist": "Nick Manson"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "BACK TO LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "CLEANING WINDOWS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
