@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I HEARD IT THROUGH THE GRAPEVINE",
-        "artist": "It's Lenny Moore"
+        "title": "I CAN'T MAKE YOU LOVE ME",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I HEARD IT THROUGH THE GRAPEVINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "The Way You Look Tonight",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "GEORGIA ON MY MIND",
-            "artist": "Tom Kellock"
         }
     ]
 }
