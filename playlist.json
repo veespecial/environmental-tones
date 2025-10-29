@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sometime Brazil",
-        "artist": "Andy Suzuki"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Sometime Brazil",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Crystal Blue Persuasion",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
