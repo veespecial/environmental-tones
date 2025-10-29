@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I NEED YOU",
-        "artist": "Funtastic Music"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "I NEED YOU",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Let's Love Again (Lovers)",
-            "artist": "Curtis Brengle"
         }
     ]
 }
