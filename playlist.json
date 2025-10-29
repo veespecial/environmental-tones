@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR THE COOL IN YOU",
-        "artist": "Politzer/Withycombe"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "FOR THE COOL IN YOU",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "DON'T LOOK DOWN",
-            "artist": "LENNY MOORE"
         }
     ]
 }
