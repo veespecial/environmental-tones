@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Chicago",
-        "artist": "Harley"
+        "title": "NEW YORK STATE OF MIND",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Chicago",
+            "artist": "Harley"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
