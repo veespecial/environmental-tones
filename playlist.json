@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "Singalong Junk",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "Funtastic Music"
         }
     ]
 }
