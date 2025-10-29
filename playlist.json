@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGEL",
-        "artist": "Politzer/Withycombe"
+        "title": "Take a Bow",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "ANGEL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "Grant Park",
-            "artist": "Ray Kelley"
         }
     ]
 }
