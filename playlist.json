@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Purple Passion",
-        "artist": "Ho Tones"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Purple Passion",
+            "artist": "Ho Tones"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "BABY NOW THAT I'VE FOUND YOU",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
