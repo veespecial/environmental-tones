@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "San Francisco (Be Sure To Wear...)",
-        "artist": "Harley Brothers"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "San Francisco (Be Sure To Wear...)",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "You've Got a Friend",
-            "artist": "Harley Bros."
         }
     ]
 }
