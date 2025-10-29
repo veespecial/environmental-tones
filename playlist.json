@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "BLACK BUTTERFLY",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
