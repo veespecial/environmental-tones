@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAPTAIN OF HER HEART",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "Michelle",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "CAPTAIN OF HER HEART",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Cathedral City",
-            "artist": "Ray Kelley"
         }
     ]
 }
