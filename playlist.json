@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FEEL LIKE MAKIN' LOVE",
-        "artist": "Nick Manson"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "FEEL LIKE MAKIN' LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
