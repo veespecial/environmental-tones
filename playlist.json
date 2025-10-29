@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FIELDS OF GOLD",
-        "artist": "MANASUS MUSIC"
+        "title": "THE WARMTH OF THE SUN",
+        "artist": "MANASUS/KEEFER"
     },
     "recent": [
+        {
+            "title": "FIELDS OF GOLD",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "BACK TO LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "LIFE IN MONO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
