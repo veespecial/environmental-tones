@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WON'T LET YOU DO THAT TO ME",
-        "artist": "LENNY MOORE"
+        "title": "Ever Changing Times",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "I WON'T LET YOU DO THAT TO ME",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
