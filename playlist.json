@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "Rock Your Baby",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "CHECK IT OUT",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
