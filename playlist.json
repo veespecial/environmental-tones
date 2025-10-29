@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Best Is Yet To Come",
-        "artist": "Politzer/Withycombe"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Best Is Yet To Come",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
