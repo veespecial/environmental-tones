@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "FOR THE COOL IN YOU",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LOOK DOWN",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "More Than Just A Life",
-            "artist": "Brian Withycombe"
         }
     ]
 }
