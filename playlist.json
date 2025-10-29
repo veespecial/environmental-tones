@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Be Thankful for What You've Got",
-            "artist": "Harley Bros."
         }
     ]
 }
