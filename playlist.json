@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "More Than Just A Life",
-        "artist": "Brian Withycombe"
+        "title": "DON'T LOOK DOWN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "More Than Just A Life",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
