@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK STABBERS",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "BACK STABBERS",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "SWEET HOME",
-            "artist": "Jerry Cortez"
         }
     ]
 }
