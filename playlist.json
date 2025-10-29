@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHECK IT OUT",
-        "artist": "Andre Mayeux"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "CHECK IT OUT",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "FOLLOW YOU, FOLLOW ME",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
