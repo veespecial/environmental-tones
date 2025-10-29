@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "PENNY LANE",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
