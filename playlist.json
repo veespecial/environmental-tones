@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Crystal Blue Persuasion",
-        "artist": "Harley Bros."
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Crystal Blue Persuasion",
+            "artist": "Harley Bros."
+        },
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
