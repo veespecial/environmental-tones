@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "Best Is Yet To Come",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "JOHNNY'S GARDEN",
-            "artist": "Harley Brothers"
         }
     ]
 }
