@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIVING YOU THE BEST THAT I GOT",
-        "artist": "Curtis Brengle"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "GIVING YOU THE BEST THAT I GOT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Chicago",
-            "artist": "Harley"
         }
     ]
 }
