@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "BACK TO LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
