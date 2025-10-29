@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "CLEANING WINDOWS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "MY HEART WILL GO ON",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "A Love Song",
-            "artist": "John Morton"
         }
     ]
 }
