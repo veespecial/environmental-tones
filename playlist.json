@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "I'LL BE THERE",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
