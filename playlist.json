@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
