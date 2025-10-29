@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "JULIA",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
