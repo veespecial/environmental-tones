@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AFTER ALL",
-        "artist": "Nick Manson"
+        "title": "Everybody's Talking",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "AFTER ALL",
+            "artist": "Nick Manson"
+        },
         {
             "title": "More Than Just A Life",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
-        },
-        {
-            "title": "500 Days",
-            "artist": "Manson Music"
         }
     ]
 }
