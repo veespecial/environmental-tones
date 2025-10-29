@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "More Than Just A Life",
-        "artist": "Brian Withycombe"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "More Than Just A Life",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "500 Days",
             "artist": "Manson Music"
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
