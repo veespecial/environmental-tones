@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "DON'T LET THE SUN CATCH YOU CRYING",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "GEORGIA ON MY MIND",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
