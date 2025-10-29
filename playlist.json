@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "Harvest for the World",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "DON'T LET THE SUN CATCH YOU CRYING",
-            "artist": "Curtis Brengle"
         }
     ]
 }
