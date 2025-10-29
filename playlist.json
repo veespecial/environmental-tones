@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRY ME A RIVER",
-        "artist": "LENNY MOORE"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "CRY ME A RIVER",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Always",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "HE'S MISTRA KNOW-IT-ALL",
             "artist": "North Point"
-        },
-        {
-            "title": "I BELIEVE IN YOU AND ME",
-            "artist": "Josephs Band"
         }
     ]
 }
