@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN'T MAKE YOU LOVE ME",
-        "artist": "MIRAGE BAND"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "I CAN'T MAKE YOU LOVE ME",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "HALF A MINUTE",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
