@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "FIELDS OF GOLD",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "CAMILLA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
