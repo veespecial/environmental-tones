@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "Summer Breeze",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
