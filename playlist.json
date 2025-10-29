@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Don't Want To Spoil The Party",
-        "artist": "John Morton"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "I Don't Want To Spoil The Party",
+            "artist": "John Morton"
+        },
         {
             "title": "BUS STOP",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Sailing",
-            "artist": "Harley Brothers"
         }
     ]
 }
