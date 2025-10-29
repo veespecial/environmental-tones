@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "Everybody's Talking",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
