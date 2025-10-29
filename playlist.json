@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Something There To Remind Me",
-        "artist": "Harley"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Always Something There To Remind Me",
+            "artist": "Harley"
+        },
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Ooh Baby Baby",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Cozy Cabin",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
