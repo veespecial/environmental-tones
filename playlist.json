@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "BACK TO LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
