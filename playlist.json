@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOU DON'T KNOW ME",
-        "artist": "Manasus Strings"
+        "title": "Sing a Song",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "YOU DON'T KNOW ME",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "WHO WILL SAVE YOUR SOUL",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
