@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "New Kid In Town",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "BLESSED",
-            "artist": "Tom Kellock"
         }
     ]
 }
