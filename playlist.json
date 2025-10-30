@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "Funtastic Music"
+        "title": "SLOW JAMS",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Grant Park",
-            "artist": "Ray Kelley"
         }
     ]
 }
