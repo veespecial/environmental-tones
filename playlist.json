@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RAINY NIGHT IN GEORGIA",
-        "artist": "Devlin's Strings"
+        "title": "Sweet Blindness",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "RAINY NIGHT IN GEORGIA",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "CRY ME A RIVER",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "For Elfi",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
