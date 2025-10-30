@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "CAPTAIN OF HER HEART",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "BACK TO LOVE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Groovin'",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Point Of Groove",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
