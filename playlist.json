@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancing Queen",
-        "artist": "Harley Brothers"
+        "title": "I BELIEVE IN YOU AND ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "Dancing Queen",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
