@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST WANNA STOP",
-        "artist": "MANASUS MUSIC"
+        "title": "Leeward Side",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I JUST WANNA STOP",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "GEORGIA ON MY MIND",
-            "artist": "Tom Kellock"
         }
     ]
 }
