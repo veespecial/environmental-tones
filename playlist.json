@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CALL ME",
-        "artist": "JON GOFORTH"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "CALL ME",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "RED PEPPER RUSH",
-            "artist": "Ho Tones"
         }
     ]
 }
