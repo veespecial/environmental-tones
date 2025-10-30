@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "GOLDEN EARRINGS",
+        "artist": "MARROW GROUP"
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "My Girl",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "THE SWEETEST DAYS",
-            "artist": "Manasus Strings"
         }
     ]
 }
