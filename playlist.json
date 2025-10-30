@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLUE MOON",
-        "artist": "John Morton"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BLUE MOON",
+            "artist": "John Morton"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
