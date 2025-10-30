@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "SHE'S NO LADY",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "TAKE FIVE",
-            "artist": "South Point"
         }
     ]
 }
