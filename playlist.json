@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
