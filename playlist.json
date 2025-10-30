@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "Batata Bossa",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "GOLDEN EARRINGS",
             "artist": "MARROW GROUP"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
