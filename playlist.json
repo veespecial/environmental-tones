@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": " AFTER THE LOVE HAS GONE",
-        "artist": "TOMMY/BRIAN"
+        "title": "BLESSED",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": " AFTER THE LOVE HAS GONE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "Misty",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Michelle",
-            "artist": "Harley Bros."
         }
     ]
 }
