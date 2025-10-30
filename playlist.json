@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOLLOW YOU, FOLLOW ME",
-        "artist": "Nick Manson"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "FOLLOW YOU, FOLLOW ME",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Dancin' Shaggin On The Boulevard",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
