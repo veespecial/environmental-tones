@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
