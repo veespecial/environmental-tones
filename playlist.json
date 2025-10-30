@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "West Again",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "SOONER OR LATER",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "West Again",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
