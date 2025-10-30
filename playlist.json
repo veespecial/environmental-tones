@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "After Hours",
-        "artist": "Ray Kelley"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "After Hours",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
