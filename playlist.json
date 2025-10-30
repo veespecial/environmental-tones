@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL CRIED OUT",
-        "artist": "LENNY MOORE"
+        "title": "Jazz Man",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "ALL CRIED OUT",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "It's Only Love",
-            "artist": "San Francisco"
         }
     ]
 }
