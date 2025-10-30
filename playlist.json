@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sun King",
-        "artist": "San Francisco"
+        "title": "A WORLD WITHOUT LOVE",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "Sun King",
+            "artist": "San Francisco"
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Sir Duke",
-            "artist": "Harley Bros."
         }
     ]
 }
