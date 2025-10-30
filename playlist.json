@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Say a Little Prayer",
-        "artist": "Harley Music"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "I Say a Little Prayer",
+            "artist": "Harley Music"
+        },
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T YOU WORRY 'BOUT A THING",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
