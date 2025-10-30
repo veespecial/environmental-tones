@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IN MONO",
-        "artist": "Andy Suzuki"
+        "title": "Grant Park",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "LIFE IN MONO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
