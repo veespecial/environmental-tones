@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
