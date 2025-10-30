@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancin' Shaggin On The Boulevard",
-        "artist": "Andre Mayeux"
+        "title": "FOLLOW YOU, FOLLOW ME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Dancin' Shaggin On The Boulevard",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "IF NOT FOR YOU",
-            "artist": "Alberto Moro"
         }
     ]
 }
