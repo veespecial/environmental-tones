@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
