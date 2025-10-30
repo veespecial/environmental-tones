@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "Queen Bee",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
-        },
-        {
-            "title": "WHO WILL SAVE YOUR SOUL",
-            "artist": "Moro-Eden"
         }
     ]
 }
