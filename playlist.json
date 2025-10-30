@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Leeward Side",
-        "artist": "Curtis Brengle"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "Leeward Side",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "SAN FRANCISCAN NIGHTS",
-            "artist": "Daniel Ho"
         }
     ]
 }
