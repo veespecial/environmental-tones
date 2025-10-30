@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PENNY LANE",
-        "artist": "Daniel Ho"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "PENNY LANE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Everybody's Talking",
-            "artist": "Harley Music"
         }
     ]
 }
