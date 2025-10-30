@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "ANGEL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "WONDERING ALOUD",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
