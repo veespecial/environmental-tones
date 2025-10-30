@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I BELIEVE IN YOU AND ME",
-        "artist": "Josephs Band"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "I BELIEVE IN YOU AND ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
