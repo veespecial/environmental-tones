@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "More Than Just A Life",
-        "artist": "Brian Withycombe"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "More Than Just A Life",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "I GOTTA RUN",
-            "artist": "John Morton"
         }
     ]
 }
