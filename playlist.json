@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paradise",
-        "artist": "Daniel Ho"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Paradise",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-            "artist": "Nick Manson"
         }
     ]
 }
