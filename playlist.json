@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN'T MAKE YOU LOVE ME",
-        "artist": "MIRAGE BAND"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "I CAN'T MAKE YOU LOVE ME",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Candlelight",
-            "artist": "Ray Kelley"
         }
     ]
 }
