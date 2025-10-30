@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heart Less One",
-        "artist": "Brian Withycombe"
+        "title": "WHO WILL SAVE YOUR SOUL",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Heart Less One",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
