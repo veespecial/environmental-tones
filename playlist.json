@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLESSED",
-        "artist": "Tom Kellock"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "BLESSED",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "My Girl",
-            "artist": "Harley Music"
         }
     ]
 }
