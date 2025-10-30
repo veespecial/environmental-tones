@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Everybody's Talking",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "(YOU'RE THE) BIGGEST PART OF ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
