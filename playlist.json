@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW YORK STATE OF MIND",
-        "artist": "DERRICK CHASE"
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "NEW YORK STATE OF MIND",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "HERE COMES A MAN",
-            "artist": "Alberto Moro"
         }
     ]
 }
