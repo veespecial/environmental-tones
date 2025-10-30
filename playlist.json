@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGEL",
-        "artist": "Politzer/Withycombe"
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "ANGEL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "WONDERING ALOUD",
-            "artist": "Harley Brothers"
         }
     ]
 }
