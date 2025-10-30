@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "PLEASE",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "HERE COMES A MAN",
-            "artist": "Alberto Moro"
         }
     ]
 }
