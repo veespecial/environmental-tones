@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just in Time",
-        "artist": "Mirage Ensemble"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "Just in Time",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "More Than Just A Life",
-            "artist": "Brian Withycombe"
         }
     ]
 }
