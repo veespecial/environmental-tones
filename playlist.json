@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "HUNTER GETS CAPTURED (BY THE GAME)",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "CRY ME A RIVER",
-            "artist": "LENNY MOORE"
         }
     ]
 }
