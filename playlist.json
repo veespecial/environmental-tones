@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "I NEED YOU",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
