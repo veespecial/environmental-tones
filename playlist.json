@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz On The Beach",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I Miss You",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Jazz On The Beach",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Soulful Strut",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Leeward Side",
-            "artist": "Curtis Brengle"
         }
     ]
 }
