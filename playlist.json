@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LA-LA MEANS I LOVE YOU",
-        "artist": "Andy Suzuki"
+        "title": "WHENEVER YOU'RE ON MY MIND",
+        "artist": "Clair Marlo"
     },
     "recent": [
+        {
+            "title": "LA-LA MEANS I LOVE YOU",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I'LL NEVER FALL IN LOVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
