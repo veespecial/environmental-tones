@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE SWEETEST DAYS",
-        "artist": "Manasus Strings"
+        "title": "WHO WILL SAVE YOUR SOUL",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "THE SWEETEST DAYS",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "Daniel",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Let's Love Again (Lovers)",
-            "artist": "Curtis Brengle"
         }
     ]
 }
