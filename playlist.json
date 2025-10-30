@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One Dance",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "One Dance",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
@@ -39,10 +43,6 @@
         {
             "title": "HE'S MISTRA KNOW-IT-ALL",
             "artist": "North Point"
-        },
-        {
-            "title": "GOODBYE YELLOW BRICK ROAD",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
