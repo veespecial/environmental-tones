@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUS STOP",
-        "artist": "Josephs Band"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "BUS STOP",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Heartbreak Hotel",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "NEW KID IN TOWN",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
