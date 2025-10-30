@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE LETTERS",
-        "artist": "MANSON LIVE"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "LOVE LETTERS",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
