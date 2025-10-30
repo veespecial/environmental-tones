@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T YOU WORRY 'BOUT A THING",
-        "artist": "MANSON LIVE"
+        "title": "Tropic Of Capricorn",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "DON'T YOU WORRY 'BOUT A THING",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "BUS STOP",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
