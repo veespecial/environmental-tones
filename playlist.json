@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fourth In Four",
-        "artist": "Brian Withycombe"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "Fourth In Four",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
