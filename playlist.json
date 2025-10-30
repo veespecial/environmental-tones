@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLACK BUTTERFLY",
-        "artist": "Manasus Strings"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "BLACK BUTTERFLY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
