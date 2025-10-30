@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CHECK IT OUT",
-        "artist": "Andre Mayeux"
+        "title": "I Don't Want To Spoil The Party",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "CHECK IT OUT",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Always",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
