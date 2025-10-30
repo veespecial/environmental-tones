@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I SOLD MY HEART TO THE JUNKMAN",
-        "artist": "Jim Devlin"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "I SOLD MY HEART TO THE JUNKMAN",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
-        },
-        {
-            "title": "DO YOU WANNA DANCE",
-            "artist": "Moro-Eden"
         }
     ]
 }
