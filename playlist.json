@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE COMES A MAN",
-        "artist": "Alberto Moro"
+        "title": "CRYSTAL SHIP",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "HERE COMES A MAN",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
