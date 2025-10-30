@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Singalong Junk",
-        "artist": "Crescenta Valley Boys"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Singalong Junk",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
-        },
-        {
-            "title": "BLESSED",
-            "artist": "Tom Kellock"
         }
     ]
 }
