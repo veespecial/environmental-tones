@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE FINER THINGS",
-        "artist": "DAVE DYSART"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "THE FINER THINGS",
+            "artist": "DAVE DYSART"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
