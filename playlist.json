@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILL YOU LOVE ME TOMORROW",
-        "artist": "MANSON LIVE"
+        "title": "My Girl",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "WILL YOU LOVE ME TOMORROW",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "You Ought To Be With Me",
-            "artist": "Harley Brothers"
         }
     ]
 }
