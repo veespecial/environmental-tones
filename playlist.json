@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "THE SWEETEST DAYS",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
