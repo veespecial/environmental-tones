@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "CAMILLA",
-            "artist": "Jerry Cortez"
         }
     ]
 }
