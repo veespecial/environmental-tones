@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "San Francisco (Be Sure To Wear...)",
-        "artist": "Harley Brothers"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "San Francisco (Be Sure To Wear...)",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "I Don't Want To Spoil The Party",
-            "artist": "John Morton"
         }
     ]
 }
