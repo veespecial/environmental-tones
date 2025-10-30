@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LEAVING ON A JET PLANE",
-        "artist": "Curtis Brengle"
+        "title": "A HOUSE IS NOT A HOME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "LEAVING ON A JET PLANE",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Sing a Song",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Jazz Man",
-            "artist": "Harley Music"
         }
     ]
 }
