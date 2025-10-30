@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
