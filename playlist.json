@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME GO WITH ME",
-        "artist": "North Point"
+        "title": "DARK EYED CAJUN WOMAN",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "COME GO WITH ME",
+            "artist": "North Point"
+        },
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "My Guy",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "BABY NOW THAT I'VE FOUND YOU",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
