@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "I Never Know",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "Point Of Groove",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "BACK STABBERS",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
