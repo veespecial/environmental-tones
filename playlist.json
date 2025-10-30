@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "I JUST CAN'T LET GO",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "FOOL #1",
             "artist": "David Patt"
-        },
-        {
-            "title": "SWEET HOME",
-            "artist": "Jerry Cortez"
         }
     ]
 }
