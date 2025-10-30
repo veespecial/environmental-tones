@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "Daniel",
-            "artist": "Harley Music"
         }
     ]
 }
