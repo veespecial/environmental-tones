@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET HOME",
-        "artist": "Jerry Cortez"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "SWEET HOME",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "When a Man Loves a Woman",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "HE'S MISTRA KNOW-IT-ALL",
-            "artist": "North Point"
         }
     ]
 }
