@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAY YOU LOVE ME",
-        "artist": "Josephs Band"
+        "title": "DON'T YOU WORRY 'BOUT A THING",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "SAY YOU LOVE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "I Miss You",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "DONE WITH BONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
