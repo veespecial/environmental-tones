@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MIDNIGHT TRAIN TO GEORGIA",
-        "artist": "Daniel Ho"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "MIDNIGHT TRAIN TO GEORGIA",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
