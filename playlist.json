@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "That Old Feeling",
-        "artist": "Harley"
+        "title": "Let's Love Again (Lovers)",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "That Old Feeling",
+            "artist": "Harley"
+        },
         {
             "title": "Can't Take My Eyes Off You",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "SLOW JAMS",
-            "artist": "Andy Suzuki"
         }
     ]
 }
