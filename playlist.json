@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "PENNY LANE",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Everybody's Talking",
             "artist": "Harley Music"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
