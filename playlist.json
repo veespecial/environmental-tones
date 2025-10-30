@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHT IN PARIS",
-        "artist": "Ho Tones"
+        "title": "YOUR'E NO GOOD",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "NIGHT IN PARIS",
+            "artist": "Ho Tones"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
