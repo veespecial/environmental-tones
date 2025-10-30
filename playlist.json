@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cozy Cabin",
-        "artist": "Mirage Ensemble"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Cozy Cabin",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
-        },
-        {
-            "title": "FOLLOW YOU, FOLLOW ME",
-            "artist": "Nick Manson"
         }
     ]
 }
