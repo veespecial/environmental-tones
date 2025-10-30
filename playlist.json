@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK TO LOVE",
-        "artist": "Nick Manson"
+        "title": "MIDNIGHT TRAIN TO GEORGIA",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "BACK TO LOVE",
+            "artist": "Nick Manson"
+        },
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "Point Of Groove",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "KEEP ON PUSHING LOVE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
