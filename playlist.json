@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A WORLD WITHOUT LOVE",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "A WORLD WITHOUT LOVE",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "Sun King",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
