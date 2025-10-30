@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "When a Man Loves a Woman",
-        "artist": "Harley Bros."
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "When a Man Loves a Woman",
+            "artist": "Harley Bros."
+        },
         {
             "title": "HE'S MISTRA KNOW-IT-ALL",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "My Girl",
             "artist": "Harley Music"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
