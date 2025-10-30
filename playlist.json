@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOTPRINTS",
-        "artist": "Melissa Siegel"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "FOOTPRINTS",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "CHECK IT OUT",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Always",
-            "artist": "Harley Bros."
         }
     ]
 }
