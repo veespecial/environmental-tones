@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soulful Strut",
-        "artist": "Harley Bros."
+        "title": "Every Breath You Take",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Soulful Strut",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Next Event",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
