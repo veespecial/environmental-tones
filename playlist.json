@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always",
-        "artist": "Harley Bros."
+        "title": "CHECK IT OUT",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Always",
+            "artist": "Harley Bros."
+        },
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
