@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "AFTER ALL",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "FOOL #1",
             "artist": "David Patt"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
