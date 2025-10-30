@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
