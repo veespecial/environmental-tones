@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Don't Want To Spoil The Party",
-        "artist": "John Morton"
+        "title": "BAND OF GOLD",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "I Don't Want To Spoil The Party",
+            "artist": "John Morton"
+        },
         {
             "title": "CHECK IT OUT",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Cozy Cabin",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
