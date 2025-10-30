@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Paradise",
-        "artist": "Daniel Ho"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "Paradise",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Michelle",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
