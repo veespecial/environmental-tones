@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
