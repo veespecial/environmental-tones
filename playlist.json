@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sing a Song",
-        "artist": "Harley Bros."
+        "title": "I\u2019LL BE OVER YOU",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Sing a Song",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
