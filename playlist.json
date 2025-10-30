@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "42nd And A Half Street",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "Point Of Groove",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "BAND OF GOLD",
-            "artist": "Moro-Eden"
         }
     ]
 }
