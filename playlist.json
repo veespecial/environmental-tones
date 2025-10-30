@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sweet Blindness",
-        "artist": "Andre Mayeux"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "Sweet Blindness",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Can't Take My Eyes Off You",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "For Elfi",
-            "artist": "Nick Manson"
         }
     ]
 }
