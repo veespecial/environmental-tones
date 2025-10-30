@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "Paradise",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "BABYLON SISTERS",
-            "artist": "Tom Politzer"
         }
     ]
 }
