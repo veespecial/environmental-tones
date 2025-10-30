@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KEEP ON PUSHING LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "Point Of Groove",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "KEEP ON PUSHING LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
