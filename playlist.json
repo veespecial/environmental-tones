@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GEORGIA ON MY MIND",
-        "artist": "Tom Kellock"
+        "title": "SAN FRANCISCAN NIGHTS",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "GEORGIA ON MY MIND",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "Fashionably Late",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
