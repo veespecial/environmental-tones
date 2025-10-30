@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Essence",
-        "artist": "Chris Ho"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "Your Essence",
+            "artist": "Chris Ho"
+        },
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "DARK EYED CAJUN WOMAN",
-            "artist": "Manasus Strings"
         }
     ]
 }
