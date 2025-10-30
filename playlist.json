@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PENNY LANE",
-        "artist": "Daniel Ho"
+        "title": "Dancin' Shaggin On The Boulevard",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "PENNY LANE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "IF NOT FOR YOU",
             "artist": "Alberto Moro"
-        },
-        {
-            "title": "Thrill is Gone",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
