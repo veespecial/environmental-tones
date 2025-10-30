@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Wonderful Tonight",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Sweet Blindness",
-            "artist": "Andre Mayeux"
         }
     ]
 }
