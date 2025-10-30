@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "DONE WITH BONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
