@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HELLO IT'S ME",
-        "artist": "MANASUS MUSIC"
+        "title": "LEAVING ON A JET PLANE",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "HELLO IT'S ME",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
