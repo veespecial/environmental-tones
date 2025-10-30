@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tropic Of Capricorn",
-        "artist": "South Point"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "Tropic Of Capricorn",
+            "artist": "South Point"
+        },
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "LET'S STAY TOGETHER",
             "artist": "POLIZER/WITHYCOMBE"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
