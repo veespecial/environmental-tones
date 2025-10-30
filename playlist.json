@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WONDERING ALOUD",
-        "artist": "Harley Brothers"
+        "title": "Sleeping Cat Dance",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "WONDERING ALOUD",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "SOONER OR LATER",
             "artist": "Harley Music"
-        },
-        {
-            "title": "West Again",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
