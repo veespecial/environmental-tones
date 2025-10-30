@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO YOU WANNA DANCE",
-        "artist": "Moro-Eden"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "DO YOU WANNA DANCE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "A HOUSE IS NOT A HOME",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "LEAVING ON A JET PLANE",
-            "artist": "Curtis Brengle"
         }
     ]
 }
