@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DARK EYED CAJUN WOMAN",
-        "artist": "Manasus Strings"
+        "title": "Every Kinda People",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "DARK EYED CAJUN WOMAN",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Indio",
-            "artist": "Ray Kelley"
         }
     ]
 }
