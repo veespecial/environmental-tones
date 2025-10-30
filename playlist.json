@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Breath You Take",
-        "artist": "Harley Music"
+        "title": "Always Something There To Remind Me",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Every Breath You Take",
+            "artist": "Harley Music"
+        },
         {
             "title": "Soulful Strut",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Next Event",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
