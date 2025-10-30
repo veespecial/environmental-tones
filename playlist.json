@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRY ME A RIVER",
-        "artist": "LENNY MOORE"
+        "title": "RAINY NIGHT IN GEORGIA",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "CRY ME A RIVER",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "BLESSED",
-            "artist": "Tom Kellock"
         }
     ]
 }
