@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR'E NO GOOD",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "YOUR'E NO GOOD",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Grant Park",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "NEW KID IN TOWN",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
