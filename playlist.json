@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
