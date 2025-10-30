@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRYSTAL SHIP",
-        "artist": "Curtis Brengle"
+        "title": "KEEP ON PUSHING LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "CRYSTAL SHIP",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "My Guy",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "THE SWEETEST DAYS",
-            "artist": "Manasus Strings"
         }
     ]
 }
