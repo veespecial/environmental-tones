@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancin' Shaggin On The Boulevard",
-        "artist": "Andre Mayeux"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "Dancin' Shaggin On The Boulevard",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
