@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRYSTAL SHIP",
-        "artist": "Curtis Brengle"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "CRYSTAL SHIP",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "HERE COMES A MAN",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Nobody Does It Better",
-            "artist": "Tom Politzer"
         }
     ]
 }
