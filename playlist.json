@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "Daniel",
-            "artist": "Harley Music"
         }
     ]
 }
