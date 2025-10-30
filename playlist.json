@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I HEARD IT THROUGH THE GRAPEVINE",
-        "artist": "It's Lenny Moore"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I HEARD IT THROUGH THE GRAPEVINE",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH BONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "WHERE IS THE LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
