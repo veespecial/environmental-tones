@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid In Town",
-        "artist": "Harley Brothers"
+        "title": "SHE'S NO LADY",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "New Kid In Town",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "Grant Park",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "LIFE IN MONO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
