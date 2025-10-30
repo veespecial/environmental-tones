@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HE'S MISTRA KNOW-IT-ALL",
-        "artist": "North Point"
+        "title": "When a Man Loves a Woman",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "HE'S MISTRA KNOW-IT-ALL",
+            "artist": "North Point"
+        },
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
