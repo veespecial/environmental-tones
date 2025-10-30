@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SURE KNOW SOMETHING",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Fourth In Four",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "SURE KNOW SOMETHING",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
