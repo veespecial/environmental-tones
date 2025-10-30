@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "That Old Feeling",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "FOREVER MORE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
