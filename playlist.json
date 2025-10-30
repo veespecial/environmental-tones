@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET HOME",
-        "artist": "Jerry Cortez"
+        "title": "Sailing",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "SWEET HOME",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
