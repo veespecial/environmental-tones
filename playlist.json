@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Call Me A Fool",
-        "artist": "Andy Suzuki"
+        "title": "RUBY BABY",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "Call Me A Fool",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
-        },
-        {
-            "title": "DON'T LET THE SUN CATCH YOU CRYING",
-            "artist": "Curtis Brengle"
         }
     ]
 }
