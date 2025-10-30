@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SURE KNOW SOMETHING",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Always",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SURE KNOW SOMETHING",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
