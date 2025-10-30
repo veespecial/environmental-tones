@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET ME GET TO KNOW YOU",
-        "artist": "Jim Devlin"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "LET ME GET TO KNOW YOU",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
