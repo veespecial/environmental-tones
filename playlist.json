@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "Say What's In My Heart",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "After Hours",
-            "artist": "Ray Kelley"
         }
     ]
 }
