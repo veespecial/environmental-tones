@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fourth In Four",
-        "artist": "Brian Withycombe"
+        "title": "Michelle",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Fourth In Four",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "BLACK BUTTERFLY",
-            "artist": "Manasus Strings"
         }
     ]
 }
