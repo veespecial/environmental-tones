@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "CRY ME A RIVER",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "LIKE TO GET TO KNOW YOU WELL",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
