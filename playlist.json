@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH BONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "I Miss You",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "DONE WITH BONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Always Something There To Remind Me",
-            "artist": "Harley"
         }
     ]
 }
