@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Let's Love Again (Lovers)",
-            "artist": "Curtis Brengle"
         }
     ]
 }
