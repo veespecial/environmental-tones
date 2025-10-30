@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Point Of Groove",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Groovin'",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Point Of Groove",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "FOUND OUT ABOUT YOU",
             "artist": "Alberto Moro"
-        },
-        {
-            "title": "At the Fair",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
