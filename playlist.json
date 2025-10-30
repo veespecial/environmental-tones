@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "LONELY TOO LONG",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "PEACEFUL EASY FEELING",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
