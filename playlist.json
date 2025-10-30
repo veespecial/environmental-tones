@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "Tropic Of Capricorn",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Sun King",
-            "artist": "San Francisco"
         }
     ]
 }
