@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "HELLO IT'S ME",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "IN A DAYDREAM",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
