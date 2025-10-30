@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Your Essence",
-        "artist": "Chris Ho"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "Your Essence",
+            "artist": "Chris Ho"
+        },
         {
             "title": "Paradise",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Bisbee",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
