@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOLDEN EARRINGS",
-        "artist": "MARROW GROUP"
+        "title": "Thrill is Gone",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "GOLDEN EARRINGS",
+            "artist": "MARROW GROUP"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "FOR ONCE IN OUR LIVES",
-            "artist": "Andre Mayeux"
         }
     ]
 }
