@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIXIE MOON",
-        "artist": "LENNY MOORE"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "DIXIE MOON",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
