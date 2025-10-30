@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Point Of Groove",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "Point Of Groove",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "FAIR TOMORROW",
-            "artist": "Jerry Cortez"
         }
     ]
 }
