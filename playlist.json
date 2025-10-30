@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Kinda People",
-        "artist": "Harley Bros."
+        "title": "QUEEN OF HEARTS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Every Kinda People",
+            "artist": "Harley Bros."
+        },
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
