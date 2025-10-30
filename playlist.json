@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE SWEETEST DAYS",
-        "artist": "Manasus Strings"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "THE SWEETEST DAYS",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Run",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
