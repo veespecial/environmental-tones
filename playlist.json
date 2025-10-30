@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PROMISE AIN'T ENOUGH",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "For Elfi",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "PROMISE AIN'T ENOUGH",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "New Kid Around",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
