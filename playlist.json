@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABY NOW THAT I'VE FOUND YOU",
-        "artist": "STANDING PATT MUSIC"
+        "title": "Fourth In Four",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "BABY NOW THAT I'VE FOUND YOU",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "I BELIEVE IN YOU AND ME",
-            "artist": "Josephs Band"
         }
     ]
 }
