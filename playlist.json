@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "For Elfi",
-        "artist": "Nick Manson"
+        "title": "Can't Take My Eyes Off You",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "For Elfi",
+            "artist": "Nick Manson"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
