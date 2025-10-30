@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID IN TOWN",
-        "artist": "MIRAGE BAND"
+        "title": "Grant Park",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "NEW KID IN TOWN",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
