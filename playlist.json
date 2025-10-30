@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Midnight And Beyond",
-        "artist": "Patrick Yandall"
+        "title": "SLOW JAMS",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Midnight And Beyond",
+            "artist": "Patrick Yandall"
+        },
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "Every Kinda People",
-            "artist": "Harley Bros."
         }
     ]
 }
