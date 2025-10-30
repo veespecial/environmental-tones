@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everytime We Say Goodbye",
-        "artist": "Harley"
+        "title": "(YOU'RE THE) BIGGEST PART OF ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "Everytime We Say Goodbye",
+            "artist": "Harley"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "500 Days",
-            "artist": "Manson Music"
         }
     ]
 }
