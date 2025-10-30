@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
