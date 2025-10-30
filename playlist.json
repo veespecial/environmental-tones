@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Ought To Be With Me",
-        "artist": "Harley Brothers"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "You Ought To Be With Me",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
