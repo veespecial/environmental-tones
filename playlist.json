@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIKE TO GET TO KNOW YOU WELL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "LIKE TO GET TO KNOW YOU WELL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "QUEEN OF HEARTS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
