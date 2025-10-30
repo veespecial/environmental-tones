@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "SOONER OR LATER",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
