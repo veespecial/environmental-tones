@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Girl",
-        "artist": "Harley Music"
+        "title": "I Never Know",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "My Girl",
+            "artist": "Harley Music"
+        },
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
