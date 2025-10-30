@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLOW JAMS",
-        "artist": "Andy Suzuki"
+        "title": "ROLL TO ME",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "SLOW JAMS",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Midnight And Beyond",
             "artist": "Patrick Yandall"
@@ -39,10 +43,6 @@
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
