@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE COMES A MAN",
-        "artist": "Alberto Moro"
+        "title": "IF I CAN'T HAVE YOU",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "HERE COMES A MAN",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Beautiful Morning",
             "artist": "Harley Music"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
