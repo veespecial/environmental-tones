@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "LOVE LETTERS",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
