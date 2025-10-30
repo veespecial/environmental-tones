@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Misty",
-        "artist": "Harley"
+        "title": " AFTER THE LOVE HAS GONE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "Misty",
+            "artist": "Harley"
+        },
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
