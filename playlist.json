@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Run",
-        "artist": "Los Devlin Strings"
+        "title": "CAMILLA",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "Run",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Help Me",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": " AFTER THE LOVE HAS GONE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
