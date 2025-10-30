@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Miss You",
-        "artist": "Harley Brothers"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "I Miss You",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "YOU'RE THE INSPIRATION",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
