@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Singalong Junk",
-        "artist": "Crescenta Valley Boys"
+        "title": "Misty",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Singalong Junk",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Fourth In Four",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "Things We Do For Love",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
