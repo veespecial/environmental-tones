@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "COME GO WITH ME",
-            "artist": "North Point"
         }
     ]
 }
