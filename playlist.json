@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "When a Man Loves a Woman",
-            "artist": "Harley Bros."
         }
     ]
 }
