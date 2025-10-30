@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "My Girl",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Michelle",
-            "artist": "Harley Bros."
         }
     ]
 }
