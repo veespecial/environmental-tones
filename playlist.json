@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF NOT FOR YOU",
-        "artist": "Alberto Moro"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "IF NOT FOR YOU",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "IF WE FALL IN LOVE AGAIN",
-            "artist": "Tom Kellock"
         }
     ]
 }
