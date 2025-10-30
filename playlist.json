@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
-        },
-        {
-            "title": "SOONER OR LATER",
-            "artist": "Harley Music"
         }
     ]
 }
