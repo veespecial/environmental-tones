@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Say What's In My Heart",
-        "artist": "Andre Mayeux"
+        "title": "CALL ME",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "Say What's In My Heart",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
