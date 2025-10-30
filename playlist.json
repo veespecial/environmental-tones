@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR THE COOL IN YOU",
-        "artist": "Politzer/Withycombe"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "FOR THE COOL IN YOU",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
