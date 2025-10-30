@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "SWAY",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "I\u2019LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "HEAVEN",
             "artist": "North Point"
-        },
-        {
-            "title": "Jazz On The Beach",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
