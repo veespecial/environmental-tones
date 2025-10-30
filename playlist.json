@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soulful Strut",
-        "artist": "Harley Bros."
+        "title": "Jazz On The Beach",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Soulful Strut",
+            "artist": "Harley Bros."
+        },
         {
             "title": "500 Days",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I JUST WANNA STOP",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
