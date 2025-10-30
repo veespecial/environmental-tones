@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TAKE FIVE",
-        "artist": "South Point"
+        "title": "NIGHT IN PARIS",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "TAKE FIVE",
+            "artist": "South Point"
+        },
         {
             "title": "WHO WILL SAVE YOUR SOUL",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Candlelight",
-            "artist": "Ray Kelley"
         }
     ]
 }
