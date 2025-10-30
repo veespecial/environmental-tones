@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEAVEN",
-        "artist": "North Point"
+        "title": "BLUE MOON",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "HEAVEN",
+            "artist": "North Point"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "Come Fly With Me",
-            "artist": "Ray Kelley"
         }
     ]
 }
