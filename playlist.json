@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "Daniel",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "Sweet Blindness",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "That Old Feeling",
             "artist": "Harley"
-        },
-        {
-            "title": "Can't Take My Eyes Off You",
-            "artist": "Harley Bros."
         }
     ]
 }
