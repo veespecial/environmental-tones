@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "Soulful Strut",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST WANNA STOP",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
