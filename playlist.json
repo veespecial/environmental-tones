@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HIGHER AND HIGHER",
-        "artist": "MANASUS MUSIC"
+        "title": "A SONG FOR YOU",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "HIGHER AND HIGHER",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "BACK TO LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
