@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "Candlelight",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Wonderful Tonight",
-            "artist": "Daniel Ho"
         }
     ]
 }
