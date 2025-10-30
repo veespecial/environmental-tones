@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HAKUNA MATATA",
-        "artist": "Josephs Band"
+        "title": "ENDLESS LOVE",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "HAKUNA MATATA",
+            "artist": "Josephs Band"
+        },
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "500 Days",
-            "artist": "Manson Music"
         }
     ]
 }
