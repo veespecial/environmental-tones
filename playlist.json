@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heart Less One",
-        "artist": "Brian Withycombe"
+        "title": "LIKE TO GET TO KNOW YOU WELL",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "Heart Less One",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "Batata Bossa",
-            "artist": "Dave Keenan"
         }
     ]
 }
