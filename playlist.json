@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just in Time",
-        "artist": "Mirage Ensemble"
+        "title": "LIKE TO GET TO KNOW YOU WELL",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "Just in Time",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
