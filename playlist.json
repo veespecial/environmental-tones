@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID IN TOWN",
-        "artist": "MIRAGE BAND"
+        "title": "GOOD MORNING HEARTACHE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "NEW KID IN TOWN",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
