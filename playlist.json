@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
