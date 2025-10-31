@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Harvest for the World",
-        "artist": "Harley Brothers"
+        "title": "Every Breath You Take",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Harvest for the World",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Indio",
-            "artist": "Ray Kelley"
         }
     ]
 }
