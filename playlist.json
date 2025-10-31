@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER STOP LOVING YOU",
-        "artist": "Tom Kellock"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER STOP LOVING YOU",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "Can't Take My Eyes Off You",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "Hissing Of Summer Lawns",
-            "artist": "Tom Politzer"
         }
     ]
 }
