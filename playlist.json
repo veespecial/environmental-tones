@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "We're in This Love Together",
-        "artist": "Harley Music"
+        "title": "FOREVER MORE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "We're in This Love Together",
+            "artist": "Harley Music"
+        },
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "(YOU'RE THE) BIGGEST PART OF ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
