@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Ever Changing Moods",
-        "artist": "Jim Devlin"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "My Ever Changing Moods",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
