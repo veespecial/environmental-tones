@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(YOU'RE THE) BIGGEST PART OF ME",
-        "artist": "Tom Kellock"
+        "title": "DON'T ASK MY NEIGHBOR",
+        "artist": "STRINGS BY ANDY"
     },
     "recent": [
+        {
+            "title": "(YOU'RE THE) BIGGEST PART OF ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
