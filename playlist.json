@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I BELIEVE IN YOU AND ME",
-        "artist": "Josephs Band"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "I BELIEVE IN YOU AND ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I\u2019LL BE OVER YOU",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": " AFTER THE LOVE HAS GONE",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
