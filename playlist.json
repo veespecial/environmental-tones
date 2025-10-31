@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "It Makes Me Crazy",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
@@ -39,10 +43,6 @@
         {
             "title": "ANOTHER GIRL",
             "artist": "John Morton"
-        },
-        {
-            "title": "Say What's In My Heart",
-            "artist": "Andre Mayeux"
         }
     ]
 }
