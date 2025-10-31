@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "YOU'RE THE INSPIRATION",
+        "artist": "FRANK JOSEPHS BAND"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "I WANT TO KNOW WHAT LOVE IS",
-            "artist": "Funtastic Music"
         }
     ]
 }
