@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CREDIT",
-        "artist": "North Point"
+        "title": "PLEASE",
+        "artist": "Frank Josephs Group"
     },
     "recent": [
+        {
+            "title": "CREDIT",
+            "artist": "North Point"
+        },
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "More Than Just A Life",
-            "artist": "Brian Withycombe"
         }
     ]
 }
