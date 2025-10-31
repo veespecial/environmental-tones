@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOREVER MORE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Dancing Queen",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "FOREVER MORE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "(YOU'RE THE) BIGGEST PART OF ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
