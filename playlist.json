@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T YOU WORRY 'BOUT A THING",
-        "artist": "MANSON LIVE"
+        "title": "FOUR AND TWENTY",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "DON'T YOU WORRY 'BOUT A THING",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "IF NOT FOR YOU",
             "artist": "Alberto Moro"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
