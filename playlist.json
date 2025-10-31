@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Changes",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Terpsichore",
-            "artist": "Dave Keenan"
         }
     ]
 }
