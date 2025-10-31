@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "Always Something There To Remind Me",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "My Girl",
             "artist": "Harley Music"
-        },
-        {
-            "title": "I SOLD MY HEART TO THE JUNKMAN",
-            "artist": "Jim Devlin"
         }
     ]
 }
