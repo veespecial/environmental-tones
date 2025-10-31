@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "SOMEWHERE IN THE WORLD",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
