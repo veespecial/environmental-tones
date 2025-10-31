@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A HOUSE IS NOT A HOME",
-        "artist": "Nick Manson"
+        "title": "DO YOU WANNA DANCE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "A HOUSE IS NOT A HOME",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "DARK EYED CAJUN WOMAN",
-            "artist": "Manasus Strings"
         }
     ]
 }
