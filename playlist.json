@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A HOUSE IS NOT A HOME",
-        "artist": "Nick Manson"
+        "title": "THE GAMBLER",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "A HOUSE IS NOT A HOME",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
