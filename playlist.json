@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Can't Take My Eyes Off You",
-        "artist": "Harley Bros."
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "Can't Take My Eyes Off You",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Hissing Of Summer Lawns",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "Samsonite Waltz",
-            "artist": "Dave Keenan"
         }
     ]
 }
