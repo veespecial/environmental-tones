@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOMEWHERE IN THE WORLD",
-        "artist": "David Patt"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "SOMEWHERE IN THE WORLD",
+            "artist": "David Patt"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
