@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heart Less One",
-        "artist": "Brian Withycombe"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Heart Less One",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
