@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You've Got a Friend",
-        "artist": "Harley Bros."
+        "title": "Every Breath You Take",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "You've Got a Friend",
+            "artist": "Harley Bros."
+        },
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "I Never Know",
-            "artist": "Frank Josephs"
         }
     ]
 }
