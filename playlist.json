@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "ALL CRIED OUT",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "About Tonight",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
