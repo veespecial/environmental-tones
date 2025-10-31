@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOTPRINTS",
-        "artist": "Melissa Siegel"
+        "title": "New Kid Around",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "FOOTPRINTS",
+            "artist": "Melissa Siegel"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
