@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BACK STABBERS",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "DON'T TURN ON THE LIGHT",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "BACK STABBERS",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "A Love Song",
             "artist": "John Morton"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
