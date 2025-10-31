@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER STOP LOVING YOU",
-        "artist": "Tom Kellock"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER STOP LOVING YOU",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Your Essence",
-            "artist": "Chris Ho"
         }
     ]
 }
