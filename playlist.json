@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "LITTLE MORE TIME WITH YOU",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "The Way You Look Tonight",
             "artist": "Harley"
-        },
-        {
-            "title": "It Makes Me Crazy",
-            "artist": "Nick Manson"
         }
     ]
 }
