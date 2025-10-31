@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LA-LA MEANS I LOVE YOU",
-        "artist": "Andy Suzuki"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "LA-LA MEANS I LOVE YOU",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "CRY ME A RIVER",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
