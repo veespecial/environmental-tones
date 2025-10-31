@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "Sir Duke",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "That's All",
             "artist": "Harley"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
