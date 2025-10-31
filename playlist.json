@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T ASK MY NEIGHBOR",
-        "artist": "STRINGS BY ANDY"
+        "title": "Cozy Cabin",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "DON'T ASK MY NEIGHBOR",
+            "artist": "STRINGS BY ANDY"
+        },
         {
             "title": "More Than Just A Life",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
