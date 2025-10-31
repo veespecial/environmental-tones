@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Together Again",
-        "artist": "Harley Bros."
+        "title": "STUBBORN KIND OF FELLOW",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Together Again",
+            "artist": "Harley Bros."
+        },
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "(YOU'RE THE) BIGGEST PART OF ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "I JUST CAN'T LET GO",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
