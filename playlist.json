@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLESSED",
-        "artist": "Tom Kellock"
+        "title": "Sun King",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "BLESSED",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
