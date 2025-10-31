@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Wonderful Tonight",
-        "artist": "Daniel Ho"
+        "title": "Black Cow",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "Wonderful Tonight",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "HE'S MISTRA KNOW-IT-ALL",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "42nd And A Half Street",
-            "artist": "Brian Withycombe"
         }
     ]
 }
