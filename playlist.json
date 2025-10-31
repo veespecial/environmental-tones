@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL CRIED OUT",
-        "artist": "LENNY MOORE"
+        "title": "BLESSED",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "ALL CRIED OUT",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "I Say a Little Prayer",
-            "artist": "Harley Music"
         }
     ]
 }
