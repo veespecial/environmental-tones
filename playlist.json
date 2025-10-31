@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Summer Breeze",
-        "artist": "Harley Music"
+        "title": "A SONG FOR YOU",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Summer Breeze",
+            "artist": "Harley Music"
+        },
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "DARK EYED CAJUN WOMAN",
-            "artist": "Manasus Strings"
         }
     ]
 }
