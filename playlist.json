@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A SONG FOR YOU",
-        "artist": "MANSON STRINGS"
+        "title": "Always",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "A SONG FOR YOU",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Summer Breeze",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
