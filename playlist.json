@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DARK EYED CAJUN WOMAN",
-        "artist": "Manasus Strings"
+        "title": "SLOW JAMS",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "DARK EYED CAJUN WOMAN",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
