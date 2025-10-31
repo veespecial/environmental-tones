@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHENEVER YOU'RE ON MY MIND",
-        "artist": "Clair Marlo"
+        "title": "NEW KID IN TOWN",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "WHENEVER YOU'RE ON MY MIND",
+            "artist": "Clair Marlo"
+        },
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Summer Breeze",
-            "artist": "Harley Music"
         }
     ]
 }
