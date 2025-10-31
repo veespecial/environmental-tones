@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I NEED YOU",
-        "artist": "Funtastic Music"
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "I NEED YOU",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "A HOUSE IS NOT A HOME",
-            "artist": "Nick Manson"
         }
     ]
 }
