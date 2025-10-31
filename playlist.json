@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CREDIT",
-        "artist": "North Point"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "CREDIT",
+            "artist": "North Point"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "YOU DON'T KNOW ME",
-            "artist": "Manasus Strings"
         }
     ]
 }
