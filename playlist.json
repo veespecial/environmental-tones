@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD IT BE I'M FALLING IN LOVE",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "KEEP ON PUSHING LOVE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "COULD IT BE I'M FALLING IN LOVE",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "RHYTHM OF THE NIGHT",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Let's Love Again (Lovers)",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "HERE COMES A MAN",
-            "artist": "Alberto Moro"
         }
     ]
 }
