@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOR THE COOL IN YOU",
-        "artist": "Politzer/Withycombe"
+        "title": "Grant Park",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "FOR THE COOL IN YOU",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "CLEANING WINDOWS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "PLEASE",
-            "artist": "Frank Josephs Group"
         }
     ]
 }
