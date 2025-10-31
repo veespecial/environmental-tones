@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Purple Passion",
-        "artist": "Ho Tones"
+        "title": "A SONG FOR YOU",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Purple Passion",
+            "artist": "Ho Tones"
+        },
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "Point Of Groove",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
