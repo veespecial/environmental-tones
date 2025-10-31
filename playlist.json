@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "That's All",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "After Hours",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "San Francisco (Be Sure To Wear...)",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
