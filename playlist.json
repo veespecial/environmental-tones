@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "BABYLON SISTERS",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
-        },
-        {
-            "title": "San Francisco (Be Sure To Wear...)",
-            "artist": "Harley Brothers"
         }
     ]
 }
