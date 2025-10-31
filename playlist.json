@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TURN ON THE LIGHT",
-        "artist": "JIM BREDOUW"
+        "title": "SURE KNOW SOMETHING",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "DON'T TURN ON THE LIGHT",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "PENNY LANE",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "GIVING YOU THE BEST THAT I GOT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
