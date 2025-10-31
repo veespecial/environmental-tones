@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ENDLESS LOVE",
-        "artist": "Daniel Ho"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "ENDLESS LOVE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Sir Duke",
-            "artist": "Harley Bros."
         }
     ]
 }
