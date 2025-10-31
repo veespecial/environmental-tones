@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "Jazz Man",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "CREDIT",
             "artist": "North Point"
-        },
-        {
-            "title": "LET ME GET TO KNOW YOU",
-            "artist": "Jim Devlin"
         }
     ]
 }
