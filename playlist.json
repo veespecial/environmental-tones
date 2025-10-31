@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE'S NO LADY",
-        "artist": "North Point"
+        "title": "FOOL #1",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "SHE'S NO LADY",
+            "artist": "North Point"
+        },
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Take a Bow",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
