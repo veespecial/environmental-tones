@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "That's All",
-        "artist": "Harley"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "That's All",
+            "artist": "Harley"
+        },
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "I'LL BE THERE",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
