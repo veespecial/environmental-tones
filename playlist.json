@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T WANNA LOSE YOU",
-        "artist": "Curtis Brengle"
+        "title": "HELLO IT'S ME",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "DON'T WANNA LOSE YOU",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Harvest for the World",
-            "artist": "Harley Brothers"
         }
     ]
 }
