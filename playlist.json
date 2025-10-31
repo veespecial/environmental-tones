@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIKE TO GET TO KNOW YOU WELL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Dancing Queen",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "LIKE TO GET TO KNOW YOU WELL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "THE STRANGER",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "Love's In Need Of Love Today",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "Indio",
-            "artist": "Ray Kelley"
         }
     ]
 }
