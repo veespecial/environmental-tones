@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TAKE FIVE",
-        "artist": "South Point"
+        "title": "FAMILY AFFAIR",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "TAKE FIVE",
+            "artist": "South Point"
+        },
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "I WILL",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
