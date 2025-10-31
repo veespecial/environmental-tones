@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Queen Bee",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "AWAKENING",
+        "artist": "Jazz Pretenders"
     },
     "recent": [
+        {
+            "title": "Queen Bee",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "I GOTTA RUN",
             "artist": "John Morton"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
