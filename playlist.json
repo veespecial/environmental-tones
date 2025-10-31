@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "BLUE MOON",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "500 Days",
             "artist": "Manson Music"
-        },
-        {
-            "title": "PLEASE",
-            "artist": "Frank Josephs Group"
         }
     ]
 }
