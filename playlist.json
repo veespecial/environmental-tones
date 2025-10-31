@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Wish",
-        "artist": "Harley Bros."
+        "title": "Leeward Side",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I Wish",
+            "artist": "Harley Bros."
+        },
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "DONE WITH BONAPARTE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "FOUR AND TWENTY",
-            "artist": "John Morton"
         }
     ]
 }
