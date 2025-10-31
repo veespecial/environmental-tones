@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "KEEP ON PUSHING LOVE",
-        "artist": "TOMMY/BRIAN"
+        "title": "Indio",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "KEEP ON PUSHING LOVE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "Let's Love Again (Lovers)",
-            "artist": "Curtis Brengle"
         }
     ]
 }
