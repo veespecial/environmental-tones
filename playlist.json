@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PENNY LANE",
-        "artist": "Daniel Ho"
+        "title": "Batata Bossa",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "PENNY LANE",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "DIAMOND DUST",
-            "artist": "ANDY SUZUKI STRINGS"
         }
     ]
 }
