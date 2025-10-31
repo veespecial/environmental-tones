@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "LET'S STAY TOGETHER",
+        "artist": "POLIZER/WITHYCOMBE"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Everytime We Say Goodbye",
-            "artist": "Harley"
         }
     ]
 }
