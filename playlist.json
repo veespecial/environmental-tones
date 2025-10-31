@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET ME GET TO KNOW YOU",
-        "artist": "Jim Devlin"
+        "title": "CREDIT",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "LET ME GET TO KNOW YOU",
+            "artist": "Jim Devlin"
+        },
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "More Than Just A Life",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "Misty",
-            "artist": "Harley"
         }
     ]
 }
