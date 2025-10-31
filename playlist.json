@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "SOMEWHERE IN THE WORLD",
             "artist": "David Patt"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
