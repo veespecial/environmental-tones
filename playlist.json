@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "Dreams",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "BUCKETS OF RAIN",
-            "artist": "LENNY MOORE"
         }
     ]
 }
