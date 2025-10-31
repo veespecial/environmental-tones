@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "TAKE FIVE",
-        "artist": "South Point"
+        "title": "Midnight And Beyond",
+        "artist": "Patrick Yandall"
     },
     "recent": [
+        {
+            "title": "TAKE FIVE",
+            "artist": "South Point"
+        },
         {
             "title": "GIVING YOU THE BEST THAT I GOT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "FOOL #1",
-            "artist": "David Patt"
         }
     ]
 }
