@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz Man",
-        "artist": "Harley Music"
+        "title": "DINDI",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Jazz Man",
+            "artist": "Harley Music"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "For Elfi",
-            "artist": "Nick Manson"
         }
     ]
 }
