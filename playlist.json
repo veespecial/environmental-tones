@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dreams",
-        "artist": "Harley Music"
+        "title": "GOLDEN EARRINGS",
+        "artist": "MARROW GROUP"
     },
     "recent": [
+        {
+            "title": "Dreams",
+            "artist": "Harley Music"
+        },
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
@@ -39,10 +43,6 @@
         {
             "title": "Thrill is Gone",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "Call Me A Fool",
-            "artist": "Andy Suzuki"
         }
     ]
 }
