@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ever Changing Times",
-        "artist": "Tom Politzer"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Ever Changing Times",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Dancing Queen",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I HEARD IT THROUGH THE GRAPEVINE",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
