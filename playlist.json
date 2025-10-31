@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAY YOU LOVE ME",
-        "artist": "Josephs Band"
+        "title": "I Never Know",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "SAY YOU LOVE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
