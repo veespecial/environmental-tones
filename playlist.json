@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Take a Bow",
-        "artist": "MANASUS MUSIC"
+        "title": "I HEARD IT THROUGH THE GRAPEVINE",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "Take a Bow",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "THE GAMBLER",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
