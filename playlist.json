@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL FOUR SEASONS",
-        "artist": "Moro-Eden"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "ALL FOUR SEASONS",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "BLUE MOON",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
