@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BLACK BUTTERFLY",
-        "artist": "Manasus Strings"
+        "title": "FOUR AND TWENTY",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "BLACK BUTTERFLY",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "BLESSED",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
