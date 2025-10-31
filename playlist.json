@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOODBYE YELLOW BRICK ROAD",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "Summer Breeze",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "GOODBYE YELLOW BRICK ROAD",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "DON'T LET THE SUN CATCH YOU CRYING",
-            "artist": "Curtis Brengle"
         }
     ]
 }
