@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOLDEN EARRINGS",
-        "artist": "MARROW GROUP"
+        "title": "HUNTER GETS CAPTURED (BY THE GAME)",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "GOLDEN EARRINGS",
+            "artist": "MARROW GROUP"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Poor Side Of Town",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "FAMILY AFFAIR",
-            "artist": "Tom Politzer/S.F."
         }
     ]
 }
