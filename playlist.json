@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOLDEN EARRINGS",
-        "artist": "MARROW GROUP"
+        "title": "You Ought To Be With Me",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "GOLDEN EARRINGS",
+            "artist": "MARROW GROUP"
+        },
         {
             "title": "Dreams",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Thrill is Gone",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
