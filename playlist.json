@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "FOUND OUT ABOUT YOU",
+        "artist": "Alberto Moro"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "IF I CAN'T HAVE YOU",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
