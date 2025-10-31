@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Crystal Blue Persuasion",
-        "artist": "Harley Bros."
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Crystal Blue Persuasion",
+            "artist": "Harley Bros."
+        },
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
