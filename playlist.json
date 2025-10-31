@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Are My Destiny",
-        "artist": "Los Devlin Strings"
+        "title": "FIELDS OF GOLD",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "You Are My Destiny",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I Wish",
-            "artist": "Harley Bros."
         }
     ]
 }
