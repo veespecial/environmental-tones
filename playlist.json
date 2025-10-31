@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "RAINY NIGHT IN GEORGIA",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "More Than Just A Life",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
