@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
@@ -39,10 +43,6 @@
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
-        },
-        {
-            "title": "It Makes Me Crazy",
-            "artist": "Nick Manson"
         }
     ]
 }
