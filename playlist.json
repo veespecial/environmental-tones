@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Queen Bee",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "Queen Bee",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Way You Do the Things You Do",
-            "artist": "Harley Bros."
         }
     ]
 }
