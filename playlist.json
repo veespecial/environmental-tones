@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE COMES A MAN",
-        "artist": "Alberto Moro"
+        "title": "Let's Love Again (Lovers)",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "HERE COMES A MAN",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "ENDLESS LOVE",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
-        },
-        {
-            "title": "DINDI",
-            "artist": "LENNY MOORE"
         }
     ]
 }
