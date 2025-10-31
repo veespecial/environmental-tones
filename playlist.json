@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Indio",
-        "artist": "Ray Kelley"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "Indio",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "A Love Song",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Everytime We Say Goodbye",
             "artist": "Harley"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
