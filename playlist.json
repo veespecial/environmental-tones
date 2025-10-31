@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Things We Do For Love",
-        "artist": "Tom Politzer/S.F."
+        "title": "DONE WITH BONAPARTE",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Things We Do For Love",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "DON'T TELL ME",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
