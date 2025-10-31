@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "Sir Duke",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "BUS STOP",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "BLACK BUTTERFLY",
-            "artist": "Manasus Strings"
         }
     ]
 }
