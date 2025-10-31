@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "Sir Duke",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "You Ought To Be With Me",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "GOLDEN EARRINGS",
-            "artist": "MARROW GROUP"
         }
     ]
 }
