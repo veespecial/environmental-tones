@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It Makes Me Crazy",
-        "artist": "Nick Manson"
+        "title": "The Way You Look Tonight",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "It Makes Me Crazy",
+            "artist": "Nick Manson"
+        },
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "IF WE FALL IN LOVE AGAIN",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "ANOTHER GIRL",
-            "artist": "John Morton"
         }
     ]
 }
