@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE COMES A MAN",
-        "artist": "Alberto Moro"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "HERE COMES A MAN",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
@@ -39,10 +43,6 @@
         {
             "title": "BACK STABBERS",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "Wild And Free",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
