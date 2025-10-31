@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love's In Need Of Love Today",
-        "artist": "Andy Suzuki"
+        "title": "Ooh Baby Baby",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Love's In Need Of Love Today",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Heart Less One",
-            "artist": "Brian Withycombe"
         }
     ]
 }
