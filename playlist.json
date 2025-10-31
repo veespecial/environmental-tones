@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "ANOTHER PARK, ANOTHER SUNDAY",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "THE STRANGER",
             "artist": "North Point"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
