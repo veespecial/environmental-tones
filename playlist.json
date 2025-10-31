@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Midnight And Beyond",
-        "artist": "Patrick Yandall"
+        "title": "SUMMER WIND",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "Midnight And Beyond",
+            "artist": "Patrick Yandall"
+        },
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Poor Side Of Town",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
