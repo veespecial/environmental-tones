@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH BONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "I BELIEVE IN YOU AND ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "DONE WITH BONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "JULIA",
             "artist": "North Point"
-        },
-        {
-            "title": "ALL CRIED OUT",
-            "artist": "LENNY MOORE"
         }
     ]
 }
