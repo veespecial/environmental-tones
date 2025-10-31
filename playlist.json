@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Leeward Side",
-        "artist": "Curtis Brengle"
+        "title": "Your Essence",
+        "artist": "Chris Ho"
     },
     "recent": [
+        {
+            "title": "Leeward Side",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I Wish",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "DONE WITH BONAPARTE",
-            "artist": "Moro-Eden"
         }
     ]
 }
