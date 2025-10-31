@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "BACK TO LOVE",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "Sometime Brazil",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "JOHNNY'S GARDEN",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Always Something There To Remind Me",
-            "artist": "Harley"
         }
     ]
 }
