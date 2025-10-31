@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ALL CRIED OUT",
-        "artist": "LENNY MOORE"
+        "title": "FOOTPRINTS",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "ALL CRIED OUT",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Sir Duke",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I WANT TO KNOW WHAT LOVE IS",
-            "artist": "Funtastic Music"
         }
     ]
 }
