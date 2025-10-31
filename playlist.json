@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I OWE IT ALL TO YOU",
-        "artist": "TOMMY/BRIAN"
+        "title": "Hissing Of Summer Lawns",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "I OWE IT ALL TO YOU",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
-        },
-        {
-            "title": "Jazz Man",
-            "artist": "Harley Music"
         }
     ]
 }
