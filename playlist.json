@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHERE IS THE LOVE",
-        "artist": "Tom Kellock"
+        "title": "That Old Feeling",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "WHERE IS THE LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "STAY (I MISSED YOU)",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Sir Duke",
-            "artist": "Harley Bros."
         }
     ]
 }
