@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "Way You Do the Things You Do",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "RAINY NIGHT IN GEORGIA",
-            "artist": "Devlin's Strings"
         }
     ]
 }
