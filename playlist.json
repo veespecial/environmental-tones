@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Your Essence",
             "artist": "Chris Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Walk On By",
             "artist": "Manson Music"
-        },
-        {
-            "title": "EARTH ANGEL (WILL YOU BE MINE)",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
