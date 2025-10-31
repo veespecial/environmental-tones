@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "Changes",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
-        },
-        {
-            "title": "You've Got a Friend",
-            "artist": "Harley Bros."
         }
     ]
 }
