@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": " AFTER THE LOVE HAS GONE",
-        "artist": "TOMMY/BRIAN"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": " AFTER THE LOVE HAS GONE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Dancin' Shaggin On The Boulevard",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "Tropic Of Capricorn",
-            "artist": "South Point"
         }
     ]
 }
