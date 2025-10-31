@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "Poor Side Of Town",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Every Kinda People",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
