@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLEANING WINDOWS",
-        "artist": "LENNY MOORE"
+        "title": "COME FLY WITH ME",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "CLEANING WINDOWS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
@@ -39,10 +43,6 @@
         {
             "title": "Crystal Blue Persuasion",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "GOOD MORNING HEARTACHE",
-            "artist": "Nick Manson"
         }
     ]
 }
