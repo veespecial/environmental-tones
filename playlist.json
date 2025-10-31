@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD IT BE I'M FALLING IN LOVE",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "DON'T WANNA LOSE YOU",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "COULD IT BE I'M FALLING IN LOVE",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "Harvest for the World",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
