@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sir Duke",
-        "artist": "Harley Bros."
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "Sir Duke",
+            "artist": "Harley Bros."
+        },
         {
             "title": "Long Ago",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "That's All",
-            "artist": "Harley"
         }
     ]
 }
