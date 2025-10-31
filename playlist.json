@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "(YOU'RE THE) BIGGEST PART OF ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "HUNTER GETS CAPTURED (BY THE GAME)",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
