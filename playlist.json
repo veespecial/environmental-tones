@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THIS MASQUERADE",
-        "artist": "DERRICK CHASE"
+        "title": "IF I CAN'T HAVE YOU",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "THIS MASQUERADE",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "SLOW JAMS",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
-        },
-        {
-            "title": "A WORLD WITHOUT LOVE",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
