@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "IF NOT FOR YOU",
-        "artist": "Alberto Moro"
+        "title": "ALL CRIED OUT",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "IF NOT FOR YOU",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "Take a Bow",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
