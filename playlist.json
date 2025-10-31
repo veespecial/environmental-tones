@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAMILLA",
-        "artist": "Jerry Cortez"
+        "title": "Jazz Man",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "CAMILLA",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "SAN FRANCISCAN NIGHTS",
-            "artist": "Daniel Ho"
         }
     ]
 }
