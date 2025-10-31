@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "At the Fair",
-        "artist": "Mirage Ensemble"
+        "title": "Jazz On The Beach",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "At the Fair",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "WHENEVER YOU'RE ON MY MIND",
-            "artist": "Clair Marlo"
         }
     ]
 }
