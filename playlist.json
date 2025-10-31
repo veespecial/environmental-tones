@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "More Than Just A Life",
-        "artist": "Brian Withycombe"
+        "title": "Chicago",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "More Than Just A Life",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
-        },
-        {
-            "title": "I Go Crazy",
-            "artist": "David Patt"
         }
     ]
 }
