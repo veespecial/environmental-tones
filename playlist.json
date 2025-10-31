@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO RIGHT",
-        "artist": "Curtis Brengle"
+        "title": "DARK EYED CAJUN WOMAN",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "DO RIGHT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
