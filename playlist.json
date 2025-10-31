@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancing Queen",
-        "artist": "Harley Brothers"
+        "title": "Ever Changing Times",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Dancing Queen",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "FOREVER MORE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Long Ago",
-            "artist": "Dave Keenan"
         }
     ]
 }
