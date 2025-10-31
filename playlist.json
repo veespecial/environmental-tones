@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always Something There To Remind Me",
-        "artist": "Harley"
+        "title": "JOHNNY'S GARDEN",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "Always Something There To Remind Me",
+            "artist": "Harley"
+        },
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "My Girl",
-            "artist": "Harley Music"
         }
     ]
 }
