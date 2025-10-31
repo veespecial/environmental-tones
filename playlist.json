@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "LET IT BE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "DINDI",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Midnight And Beyond",
             "artist": "Patrick Yandall"
-        },
-        {
-            "title": "Soul Searchin'",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
