@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(YOU'RE THE) BIGGEST PART OF ME",
-        "artist": "Tom Kellock"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "(YOU'RE THE) BIGGEST PART OF ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
