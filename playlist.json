@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dancin' Shaggin On The Boulevard",
-        "artist": "Andre Mayeux"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "Dancin' Shaggin On The Boulevard",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "Together Again",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "I FALL TO PIECES",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
