@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JOHNNY'S GARDEN",
-        "artist": "Harley Brothers"
+        "title": "FAIR TOMORROW",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "JOHNNY'S GARDEN",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HAKUNA MATATA",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "Funtastic Music"
         }
     ]
 }
