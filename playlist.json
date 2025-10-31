@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TELL ME",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Sometime Brazil",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "DON'T TELL ME",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "I CAN LOVE YOU LIKE THAT",
-            "artist": "TOMMY/BRIAN"
         }
     ]
 }
