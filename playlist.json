@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Samsonite Waltz",
-        "artist": "Dave Keenan"
+        "title": "About Tonight",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "Samsonite Waltz",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "PLEASE",
             "artist": "Frank Josephs Group"
-        },
-        {
-            "title": "CREDIT",
-            "artist": "North Point"
         }
     ]
 }
