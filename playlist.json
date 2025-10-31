@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "About Tonight",
-        "artist": "MIRAGE BAND"
+        "title": "I Say a Little Prayer",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "About Tonight",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "RED PEPPER RUSH",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "Dancin' Shaggin On The Boulevard",
-            "artist": "Andre Mayeux"
         }
     ]
 }
