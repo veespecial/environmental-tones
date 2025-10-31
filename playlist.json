@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Never Know",
-        "artist": "Frank Josephs"
+        "title": "(YOU'RE THE) BIGGEST PART OF ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "I Never Know",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "RAINY NIGHT IN GEORGIA",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
