@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T LET THE SUN CATCH YOU CRYING",
-        "artist": "Curtis Brengle"
+        "title": "DARK EYED CAJUN WOMAN",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "DON'T LET THE SUN CATCH YOU CRYING",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "THE STRANGER",
-            "artist": "North Point"
         }
     ]
 }
