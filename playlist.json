@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Rock Your Baby",
-        "artist": "Harley Bros."
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Rock Your Baby",
+            "artist": "Harley Bros."
+        },
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "42nd And A Half Street",
-            "artist": "Brian Withycombe"
         }
     ]
 }
