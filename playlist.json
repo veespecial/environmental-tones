@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "GIVING YOU THE BEST THAT I GOT",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
