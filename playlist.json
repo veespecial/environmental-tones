@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUCKETS OF RAIN",
-        "artist": "LENNY MOORE"
+        "title": "Call Me A Fool",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "BUCKETS OF RAIN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "I Say a Little Prayer",
-            "artist": "Harley Music"
         }
     ]
 }
