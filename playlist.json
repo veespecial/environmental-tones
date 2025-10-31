@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SLOW JAMS",
-        "artist": "Andy Suzuki"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "SLOW JAMS",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
-        },
-        {
-            "title": "SACRIFICE",
-            "artist": "MANSON/MARROW/HALL"
         }
     ]
 }
