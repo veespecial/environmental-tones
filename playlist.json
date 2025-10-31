@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IN MONO",
-        "artist": "Andy Suzuki"
+        "title": "I JUST WANNA STOP",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "LIFE IN MONO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "THE GAMBLER",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "A HOUSE IS NOT A HOME",
-            "artist": "Nick Manson"
         }
     ]
 }
