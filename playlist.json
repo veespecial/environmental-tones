@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "A HOUSE IS NOT A HOME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "THIS MASQUERADE",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "New Kid Around",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
