@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A WORLD WITHOUT LOVE",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "SAVING ALL MY LOVE FOR YOU",
+        "artist": "NORTHPOINT"
     },
     "recent": [
+        {
+            "title": "A WORLD WITHOUT LOVE",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "FOOL #1",
             "artist": "David Patt"
-        },
-        {
-            "title": "SHE'S NO LADY",
-            "artist": "North Point"
         }
     ]
 }
