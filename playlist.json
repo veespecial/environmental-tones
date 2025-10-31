@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Call Me A Fool",
-        "artist": "Andy Suzuki"
+        "title": "LET ME GET TO KNOW YOU",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "Call Me A Fool",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "Misty",
             "artist": "Harley"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
