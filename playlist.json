@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Hissing Of Summer Lawns",
-        "artist": "Tom Politzer"
+        "title": "Can't Take My Eyes Off You",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Hissing Of Summer Lawns",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Samsonite Waltz",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
