@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "That Old Feeling",
-        "artist": "Harley"
+        "title": "A HOUSE IS NOT A HOME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "That Old Feeling",
+            "artist": "Harley"
+        },
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "New Kid Around",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
