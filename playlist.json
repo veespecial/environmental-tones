@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I GOTTA RUN",
-        "artist": "John Morton"
+        "title": "THE STRANGER",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I GOTTA RUN",
+            "artist": "John Morton"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
