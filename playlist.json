@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "CREDIT",
-            "artist": "North Point"
         }
     ]
 }
