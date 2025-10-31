@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": " AFTER THE LOVE HAS GONE",
+        "artist": "TOMMY/BRIAN"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "FOUND OUT ABOUT YOU",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "Tropic Of Capricorn",
             "artist": "South Point"
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
