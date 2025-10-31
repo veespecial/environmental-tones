@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love In Motion",
-        "artist": "Patrick Yandall"
+        "title": "HERE COMES A MAN",
+        "artist": "Alberto Moro"
     },
     "recent": [
+        {
+            "title": "Love In Motion",
+            "artist": "Patrick Yandall"
+        },
         {
             "title": "SURE KNOW SOMETHING",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Wild And Free",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Black Cow",
-            "artist": "Andy Suzuki"
         }
     ]
 }
