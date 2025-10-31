@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE GAMBLER",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "THE GAMBLER",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Call Me A Fool",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
