@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid Around",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "New Kid Around",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "FOOTPRINTS",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
