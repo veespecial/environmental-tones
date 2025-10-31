@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Poor Side Of Town",
-        "artist": "Crescenta Valley Boys"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "Poor Side Of Town",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "A HOUSE IS NOT A HOME",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "ANOTHER PARK, ANOTHER SUNDAY",
-            "artist": "Andre Mayeux"
         }
     ]
 }
