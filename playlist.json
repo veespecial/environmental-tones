@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEW KID IN TOWN",
-        "artist": "MIRAGE BAND"
+        "title": "I WANT TO KNOW WHAT LOVE IS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "NEW KID IN TOWN",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "WHENEVER YOU'RE ON MY MIND",
             "artist": "Clair Marlo"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
