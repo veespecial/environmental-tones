@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME GO WITH ME",
-        "artist": "North Point"
+        "title": "New Kid Around",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "COME GO WITH ME",
+            "artist": "North Point"
+        },
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
