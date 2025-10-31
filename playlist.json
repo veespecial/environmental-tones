@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "Heart Less One",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "NEW KID IN TOWN",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL FOLLOW THE SUN",
             "artist": "North Point"
-        },
-        {
-            "title": "Always",
-            "artist": "Harley Bros."
         }
     ]
 }
