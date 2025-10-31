@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I CAN'T MAKE YOU LOVE ME",
-        "artist": "MIRAGE BAND"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "I CAN'T MAKE YOU LOVE ME",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Ever Changing Times",
-            "artist": "Tom Politzer"
         }
     ]
 }
