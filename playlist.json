@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Terpsichore",
-        "artist": "Dave Keenan"
+        "title": "BUCKETS OF RAIN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Terpsichore",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Rock Your Baby",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I Say a Little Prayer",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Ever Changing Times",
-            "artist": "Tom Politzer"
         }
     ]
 }
