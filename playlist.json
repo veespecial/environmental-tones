@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUS STOP",
-        "artist": "Josephs Band"
+        "title": "I'LL NEVER FALL IN LOVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "BUS STOP",
+            "artist": "Josephs Band"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "LA-LA MEANS I LOVE YOU",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "CRY ME A RIVER",
-            "artist": "LENNY MOORE"
         }
     ]
 }
