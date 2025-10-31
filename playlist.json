@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid Around",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "New Kid Around",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "COME GO WITH ME",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "You've Got a Friend",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "CALL ME",
-            "artist": "JON GOFORTH"
         }
     ]
 }
