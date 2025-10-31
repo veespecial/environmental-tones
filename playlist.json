@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOOL #1",
-        "artist": "David Patt"
+        "title": "San Francisco (Be Sure To Wear...)",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "FOOL #1",
+            "artist": "David Patt"
+        },
         {
             "title": "NEW YORK STATE OF MIND",
             "artist": "DERRICK CHASE"
@@ -39,10 +43,6 @@
         {
             "title": "ENDLESS LOVE",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Sometime Brazil",
-            "artist": "Andy Suzuki"
         }
     ]
 }
