@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Just Like This Train",
-        "artist": "San Francisco"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "Just Like This Train",
+            "artist": "San Francisco"
+        },
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "Forever",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "SURE KNOW SOMETHING",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
