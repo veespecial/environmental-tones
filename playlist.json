@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Let's Love Again (Lovers)",
-        "artist": "Curtis Brengle"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Let's Love Again (Lovers)",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "HERE COMES A MAN",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "AWAKENING",
-            "artist": "Jazz Pretenders"
         }
     ]
 }
