@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I\u2019LL BE OVER YOU",
-        "artist": "Daniel Ho"
+        "title": "I BELIEVE IN YOU AND ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I\u2019LL BE OVER YOU",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
