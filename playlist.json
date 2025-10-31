@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CRYSTAL SHIP",
-        "artist": "Curtis Brengle"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "CRYSTAL SHIP",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "SOONER OR LATER",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Heart Less One",
-            "artist": "Brian Withycombe"
         }
     ]
 }
