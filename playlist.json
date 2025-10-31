@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz Man",
-        "artist": "Harley Music"
+        "title": "You're the Best Thing",
+        "artist": "DAVE PATT"
     },
     "recent": [
+        {
+            "title": "Jazz Man",
+            "artist": "Harley Music"
+        },
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "Call Me A Fool",
-            "artist": "Andy Suzuki"
         }
     ]
 }
