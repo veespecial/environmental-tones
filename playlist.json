@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHT IN PARIS",
-        "artist": "Ho Tones"
+        "title": "I Go Crazy",
+        "artist": "David Patt"
     },
     "recent": [
+        {
+            "title": "NIGHT IN PARIS",
+            "artist": "Ho Tones"
+        },
         {
             "title": "I Never Know",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "BACK TO LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "NEVER CAN SAY GOODBYE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
