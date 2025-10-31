@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "That Old Feeling",
-        "artist": "Harley"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "That Old Feeling",
+            "artist": "Harley"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "STAY (I MISSED YOU)",
-            "artist": "Moro-Eden"
         }
     ]
 }
