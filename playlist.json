@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Call Me A Fool",
-        "artist": "Andy Suzuki"
+        "title": "Thrill is Gone",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "Call Me A Fool",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "BUCKETS OF RAIN",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "GLAMOUR PROFESSION",
             "artist": "North Point"
-        },
-        {
-            "title": "MIDNIGHT TRAIN TO GEORGIA",
-            "artist": "Daniel Ho"
         }
     ]
 }
