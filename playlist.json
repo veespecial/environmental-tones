@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUS STOP",
-        "artist": "Josephs Band"
+        "title": "I SOLD MY HEART TO THE JUNKMAN",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "BUS STOP",
+            "artist": "Josephs Band"
+        },
         {
             "title": "COME ON LET'S GO",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "A HOUSE IS NOT A HOME",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "That Old Feeling",
-            "artist": "Harley"
         }
     ]
 }
