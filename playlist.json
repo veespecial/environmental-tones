@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cathedral City",
-        "artist": "Ray Kelley"
+        "title": "A HOUSE IS NOT A HOME",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Cathedral City",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "DARK EYED CAJUN WOMAN",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "DO RIGHT",
-            "artist": "Curtis Brengle"
         }
     ]
 }
