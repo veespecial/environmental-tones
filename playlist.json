@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Black Cow",
-        "artist": "Andy Suzuki"
+        "title": "Wild And Free",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Black Cow",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "Wonderful Tonight",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
