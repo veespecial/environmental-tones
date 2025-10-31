@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RED PEPPER RUSH",
-        "artist": "Ho Tones"
+        "title": "Turn Turn Turn",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "RED PEPPER RUSH",
+            "artist": "Ho Tones"
+        },
         {
             "title": "Dancin' Shaggin On The Boulevard",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Together Again",
-            "artist": "Harley Bros."
         }
     ]
 }
