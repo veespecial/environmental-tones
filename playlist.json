@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CAPTAIN OF HER HEART",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "CAPTAIN OF HER HEART",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
@@ -39,10 +43,6 @@
         {
             "title": "GIMME LITTLE SIGN",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "New Kid In Town",
-            "artist": "Harley Brothers"
         }
     ]
 }
