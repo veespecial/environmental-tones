@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SURE KNOW SOMETHING",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Forever",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "SURE KNOW SOMETHING",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "PENNY LANE",
-            "artist": "Daniel Ho"
         }
     ]
 }
