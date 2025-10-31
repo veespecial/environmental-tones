@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUR AND TWENTY",
-        "artist": "John Morton"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "FOUR AND TWENTY",
+            "artist": "John Morton"
+        },
         {
             "title": "BLACK BUTTERFLY",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Sun King",
             "artist": "San Francisco"
-        },
-        {
-            "title": "BLESSED",
-            "artist": "Tom Kellock"
         }
     ]
 }
