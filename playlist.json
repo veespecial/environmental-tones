@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JULIA",
-        "artist": "North Point"
+        "title": "RAINY NIGHT IN GEORGIA",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "JULIA",
+            "artist": "North Point"
+        },
         {
             "title": "ALL CRIED OUT",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "SOONER OR LATER",
             "artist": "Harley Music"
-        },
-        {
-            "title": "Jazz On The Beach",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
