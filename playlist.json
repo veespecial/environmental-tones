@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A WORLD WITHOUT LOVE",
-        "artist": "FRANK JOSEPHS BAND"
+        "title": "DON'T LOOK DOWN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "A WORLD WITHOUT LOVE",
+            "artist": "FRANK JOSEPHS BAND"
+        },
         {
             "title": "Cozy Cabin",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "HERE COMES A MAN",
-            "artist": "Alberto Moro"
         }
     ]
 }
