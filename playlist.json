@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sir Duke",
-        "artist": "Harley Bros."
+        "title": "ALL CRIED OUT",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Sir Duke",
+            "artist": "Harley Bros."
+        },
         {
             "title": "At the Fair",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "You Ought To Be With Me",
-            "artist": "Harley Brothers"
         }
     ]
 }
