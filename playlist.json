@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "GLAMOUR PROFESSION",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Sir Duke",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
