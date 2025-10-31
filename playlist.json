@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sir Duke",
-        "artist": "Harley Bros."
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Sir Duke",
+            "artist": "Harley Bros."
+        },
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "BUS STOP",
-            "artist": "Josephs Band"
         }
     ]
 }
