@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NIGHT IN PARIS",
-        "artist": "Ho Tones"
+        "title": "I Wish",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "NIGHT IN PARIS",
+            "artist": "Ho Tones"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "FOUR AND TWENTY",
             "artist": "John Morton"
-        },
-        {
-            "title": "DON'T YOU WORRY 'BOUT A THING",
-            "artist": "MANSON LIVE"
         }
     ]
 }
