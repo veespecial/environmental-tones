@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "CALL ME",
+        "artist": "JON GOFORTH"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "Ever Changing Times",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "GREEN FLOWER STREET",
-            "artist": "Funtastic"
         }
     ]
 }
