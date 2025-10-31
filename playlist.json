@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A SONG FOR YOU",
-        "artist": "MANSON STRINGS"
+        "title": "RHYTHM OF THE NIGHT",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "A SONG FOR YOU",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "ENDLESS LOVE",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "Point Of Groove",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
