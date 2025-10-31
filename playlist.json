@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "42nd And A Half Street",
-        "artist": "Brian Withycombe"
+        "title": "You Are My Destiny",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "42nd And A Half Street",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "THE FINER THINGS",
             "artist": "DAVE DYSART"
@@ -39,10 +43,6 @@
         {
             "title": "I Wish",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
