@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIVING YOU THE BEST THAT I GOT",
-        "artist": "Curtis Brengle"
+        "title": "PENNY LANE",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "GIVING YOU THE BEST THAT I GOT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "Love In Motion",
-            "artist": "Patrick Yandall"
         }
     ]
 }
