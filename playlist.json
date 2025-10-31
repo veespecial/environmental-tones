@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STONED SOUL PICNIC",
-        "artist": "Daniel Ho"
+        "title": "I FALL TO PIECES",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "STONED SOUL PICNIC",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "HUNTER GETS CAPTURED (BY THE GAME)",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "GOLDEN EARRINGS",
-            "artist": "MARROW GROUP"
         }
     ]
 }
