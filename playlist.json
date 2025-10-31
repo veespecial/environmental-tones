@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUND OUT ABOUT YOU",
-        "artist": "Alberto Moro"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "FOUND OUT ABOUT YOU",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "IF I CAN'T HAVE YOU",
-            "artist": "Devlin's Strings"
         }
     ]
 }
