@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "For Elfi",
-        "artist": "Nick Manson"
+        "title": "LA-LA MEANS I LOVE YOU",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "For Elfi",
+            "artist": "Nick Manson"
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "Best Is Yet To Come",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
