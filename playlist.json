@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Long Ago",
-        "artist": "Dave Keenan"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Long Ago",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "(YOU'RE THE) BIGGEST PART OF ME",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "Sir Duke",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "SHE RUNS AWAY",
-            "artist": "Harley Brothers"
         }
     ]
 }
