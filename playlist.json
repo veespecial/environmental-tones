@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Go Crazy",
-        "artist": "David Patt"
+        "title": "THE FINER THINGS",
+        "artist": "DAVE DYSART"
     },
     "recent": [
+        {
+            "title": "I Go Crazy",
+            "artist": "David Patt"
+        },
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "IF YOU LEAVE ME NOW",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "BACK TO LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
