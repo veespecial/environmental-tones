@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Thrill is Gone",
-        "artist": "MANSON STRINGS"
+        "title": "I've Been Loving You too Long",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "Thrill is Gone",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "I\u2019LL BE OVER YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
