@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "Thrill is Gone",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "ALL FOUR SEASONS",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Don't Let Me be Lonely Tonight",
-            "artist": "Harley Brothers"
         }
     ]
 }
