@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Best Is Yet To Come",
-        "artist": "Politzer/Withycombe"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "Best Is Yet To Come",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
