@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Come Fly With Me",
-        "artist": "Ray Kelley"
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Come Fly With Me",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "LET ME GET TO KNOW YOU",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "500 Days",
-            "artist": "Manson Music"
         }
     ]
 }
