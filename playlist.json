@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "I WANT TO KNOW WHAT LOVE IS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "HIGHER AND HIGHER",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
