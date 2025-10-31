@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GIMME LITTLE SIGN",
-        "artist": "STANDING PATT MUSIC"
+        "title": "You've Got a Friend",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "GIMME LITTLE SIGN",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
