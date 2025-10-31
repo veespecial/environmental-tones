@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DONE WITH BONAPARTE",
-        "artist": "Moro-Eden"
+        "title": "Say What's In My Heart",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "DONE WITH BONAPARTE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Things We Do For Love",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "SAN FRANCISCAN NIGHTS",
-            "artist": "Daniel Ho"
         }
     ]
 }
