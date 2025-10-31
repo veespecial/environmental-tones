@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PLEASE",
-        "artist": "Frank Josephs Group"
+        "title": "CLEANING WINDOWS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "PLEASE",
+            "artist": "Frank Josephs Group"
+        },
         {
             "title": "Dancing Queen",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "GOOD MORNING HEARTACHE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "Ooh Baby Baby",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
