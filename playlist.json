@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Grant Park",
-        "artist": "Ray Kelley"
+        "title": "SACRIFICE",
+        "artist": "MANSON/MARROW/HALL"
     },
     "recent": [
+        {
+            "title": "Grant Park",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "FOR THE COOL IN YOU",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "COME FLY WITH ME",
             "artist": "Harley"
-        },
-        {
-            "title": "CLEANING WINDOWS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
