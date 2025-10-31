@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET IT BE ME",
-        "artist": "Josephs Band"
+        "title": "Long Ago",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "LET IT BE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Midnight And Beyond",
-            "artist": "Patrick Yandall"
         }
     ]
 }
