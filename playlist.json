@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Misty",
-        "artist": "Harley"
+        "title": "More Than Just A Life",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "Misty",
+            "artist": "Harley"
+        },
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "You've Got a Friend",
-            "artist": "Harley Bros."
         }
     ]
 }
