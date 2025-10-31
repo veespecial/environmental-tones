@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE SWEETEST DAYS",
-        "artist": "Manasus Strings"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "THE SWEETEST DAYS",
+            "artist": "Manasus Strings"
+        },
         {
             "title": "The Way You Look Tonight",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "HIGHER AND HIGHER",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "SOMEWHERE IN THE WORLD",
-            "artist": "David Patt"
         }
     ]
 }
