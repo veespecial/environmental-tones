@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LA-LA MEANS I LOVE YOU",
-        "artist": "Andy Suzuki"
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "LA-LA MEANS I LOVE YOU",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "For Elfi",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Best Is Yet To Come",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
