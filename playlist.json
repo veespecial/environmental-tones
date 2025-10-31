@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HE'S MISTRA KNOW-IT-ALL",
-        "artist": "North Point"
+        "title": "Wonderful Tonight",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "HE'S MISTRA KNOW-IT-ALL",
+            "artist": "North Point"
+        },
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "THE FINER THINGS",
-            "artist": "DAVE DYSART"
         }
     ]
 }
