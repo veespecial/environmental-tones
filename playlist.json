@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CALL ME",
-        "artist": "JON GOFORTH"
+        "title": "HOW CAN YOU MEND A BROKEN HEART",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "CALL ME",
+            "artist": "JON GOFORTH"
+        },
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "Chicago",
             "artist": "Harley"
-        },
-        {
-            "title": "DON'T TELL ME",
-            "artist": "Flyin' Hawaiian Bro"
         }
     ]
 }
