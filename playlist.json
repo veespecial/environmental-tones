@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD IT BE I'M FALLING IN LOVE",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "NIGHT IN PARIS",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "COULD IT BE I'M FALLING IN LOVE",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "IN A DAYDREAM",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "FIELDS OF GOLD",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
