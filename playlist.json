@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "I'LL FOLLOW THE SUN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "HOW CAN YOU MEND A BROKEN HEART",
-            "artist": "Moro-Eden"
         }
     ]
 }
