@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GEORGIA ON MY MIND",
-        "artist": "Tom Kellock"
+        "title": "Don't Let Me be Lonely Tonight",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "GEORGIA ON MY MIND",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "FEEL LIKE MAKIN' LOVE",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
