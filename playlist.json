@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "JOHNNY'S GARDEN",
-        "artist": "Harley Brothers"
+        "title": "My Favorite Mistake",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "JOHNNY'S GARDEN",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "CLEANING WINDOWS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
