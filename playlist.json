@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "I'LL BE THERE",
+        "artist": "JIM BREDOUW"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "ROLL TO ME",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "BLACK BUTTERFLY",
-            "artist": "Manasus Strings"
         }
     ]
 }
