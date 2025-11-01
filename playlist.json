@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Everybody's Talking",
-        "artist": "Harley Music"
+        "title": "It's Only Love",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "Everybody's Talking",
+            "artist": "Harley Music"
+        },
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "You Go To My Head",
             "artist": "Harley"
-        },
-        {
-            "title": "One Dance",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
