@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DROWNING IN YOUR TEARS",
-        "artist": "Funtastic Music"
+        "title": "GEORGIA ON MY MIND",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "DROWNING IN YOUR TEARS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "LET IT BE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Soulful Strut",
-            "artist": "Harley Bros."
         }
     ]
 }
