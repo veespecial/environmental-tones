@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "New Kid In Town",
-        "artist": "Harley Brothers"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "New Kid In Town",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "CAMILLA",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "Bisbee",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
