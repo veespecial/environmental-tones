@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOLDEN EARRINGS",
-        "artist": "MARROW GROUP"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "GOLDEN EARRINGS",
+            "artist": "MARROW GROUP"
+        },
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "Be Thankful for What You've Got",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "My Favorite Mistake",
-            "artist": "Frank Josephs"
         }
     ]
 }
