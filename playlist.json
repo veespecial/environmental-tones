@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BUCKETS OF RAIN",
-        "artist": "LENNY MOORE"
+        "title": "Walk On By",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "BUCKETS OF RAIN",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Changes",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "LOVE LETTERS",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
