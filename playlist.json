@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE LOOK OF LOVE",
-        "artist": "Tom Kellock"
+        "title": "LIFE IS BUT A DREAM",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "THE LOOK OF LOVE",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "COULD IT BE I'M FALLING IN LOVE",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
