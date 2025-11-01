@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HALF A MINUTE",
-        "artist": "FLYIN' HAWAIIN BRO"
+        "title": "BAND OF GOLD",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "HALF A MINUTE",
+            "artist": "FLYIN' HAWAIIN BRO"
+        },
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "My Ever Changing Moods",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "(YOU'RE THE) BIGGEST PART OF ME",
-            "artist": "Tom Kellock"
         }
     ]
 }
