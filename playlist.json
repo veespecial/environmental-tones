@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD IT BE I'M FALLING IN LOVE",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "THIS MASQUERADE",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "COULD IT BE I'M FALLING IN LOVE",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "ANOTHER GIRL",
-            "artist": "John Morton"
         }
     ]
 }
