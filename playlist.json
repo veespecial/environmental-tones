@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Candlelight",
-        "artist": "Ray Kelley"
+        "title": "South Point",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "Candlelight",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
