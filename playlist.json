@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOLDEN EARRINGS",
-        "artist": "MARROW GROUP"
+        "title": "Michelle",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "GOLDEN EARRINGS",
+            "artist": "MARROW GROUP"
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
-        },
-        {
-            "title": "GEORGIA ON MY MIND",
-            "artist": "Tom Kellock"
         }
     ]
 }
