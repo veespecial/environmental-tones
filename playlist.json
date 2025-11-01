@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Daniel",
-        "artist": "Harley Music"
+        "title": "TAKE FIVE",
+        "artist": "South Point"
     },
     "recent": [
+        {
+            "title": "Daniel",
+            "artist": "Harley Music"
+        },
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "HERE COMES A MAN",
-            "artist": "Alberto Moro"
         }
     ]
 }
