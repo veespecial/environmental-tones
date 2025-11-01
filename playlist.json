@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "YOUR SECRET LOVE",
-        "artist": "Frank Josephs"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "YOUR SECRET LOVE",
+            "artist": "Frank Josephs"
+        },
         {
             "title": "NIGHT IN PARIS",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "IF NOT FOR YOU",
             "artist": "Alberto Moro"
-        },
-        {
-            "title": "Groovin'",
-            "artist": "Harley Music"
         }
     ]
 }
