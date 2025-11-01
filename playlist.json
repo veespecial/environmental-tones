@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I DON'T WANNA BE ALONE",
-        "artist": "MOORE and BRENGLE"
+        "title": "It Makes Me Crazy",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "I DON'T WANNA BE ALONE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "I WILL",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T ASK MY NEIGHBOR",
             "artist": "STRINGS BY ANDY"
-        },
-        {
-            "title": "Queen Bee",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
