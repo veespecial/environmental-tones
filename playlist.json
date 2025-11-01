@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "My Girl",
-        "artist": "Harley Music"
+        "title": "Soulful Strut",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "My Girl",
+            "artist": "Harley Music"
+        },
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "HEAVEN",
-            "artist": "North Point"
         }
     ]
 }
