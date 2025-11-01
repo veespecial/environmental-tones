@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(YOU'RE THE) BIGGEST PART OF ME",
-        "artist": "Tom Kellock"
+        "title": "Just Like This Train",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "(YOU'RE THE) BIGGEST PART OF ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
