@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You're the Best Thing",
-        "artist": "DAVE PATT"
+        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "You're the Best Thing",
+            "artist": "DAVE PATT"
+        },
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
@@ -39,10 +43,6 @@
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "GOODBYE YELLOW BRICK ROAD",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
