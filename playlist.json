@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Can't Take My Eyes Off You",
-        "artist": "Harley Bros."
+        "title": "Sleeping Cat Dance",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "Can't Take My Eyes Off You",
+            "artist": "Harley Bros."
+        },
         {
             "title": "WHAT'S GOIN ON",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Soul Searchin'",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
