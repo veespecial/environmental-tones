@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "AWAKENING",
-        "artist": "Jazz Pretenders"
+        "title": "Heartbreak Hotel",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "AWAKENING",
+            "artist": "Jazz Pretenders"
+        },
         {
             "title": "GOODBYE YELLOW BRICK ROAD",
             "artist": "BALIN/BLOM ORCHESTRA"
@@ -39,10 +43,6 @@
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
-        },
-        {
-            "title": "I WILL",
-            "artist": "Josephs Band"
         }
     ]
 }
