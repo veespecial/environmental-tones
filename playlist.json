@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "When a Man Loves a Woman",
-        "artist": "Harley Bros."
+        "title": "SWEET HOME",
+        "artist": "Jerry Cortez"
     },
     "recent": [
+        {
+            "title": "When a Man Loves a Woman",
+            "artist": "Harley Bros."
+        },
         {
             "title": "ORDINARY WORLD",
             "artist": "Devlin's Strings"
@@ -39,10 +43,6 @@
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
-        },
-        {
-            "title": "WILL YOU LOVE ME TOMORROW",
-            "artist": "MANSON LIVE"
         }
     ]
 }
