@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "NEVER CAN SAY GOODBYE",
-        "artist": "MOORE and BRENGLE"
+        "title": "Be Thankful for What You've Got",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "NEVER CAN SAY GOODBYE",
+            "artist": "MOORE and BRENGLE"
+        },
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
@@ -39,10 +43,6 @@
         {
             "title": "Misty",
             "artist": "Harley"
-        },
-        {
-            "title": "IF NOT FOR YOU",
-            "artist": "Alberto Moro"
         }
     ]
 }
