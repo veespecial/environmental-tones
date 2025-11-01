@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO YOU WANNA DANCE",
-        "artist": "Moro-Eden"
+        "title": "Daniel",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "DO YOU WANNA DANCE",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "HERE COMES A MAN",
             "artist": "Alberto Moro"
-        },
-        {
-            "title": "STONED SOUL PICNIC",
-            "artist": "Daniel Ho"
         }
     ]
 }
