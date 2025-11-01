@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I OWE IT ALL TO YOU",
-        "artist": "TOMMY/BRIAN"
+        "title": "GOLDEN EARRINGS",
+        "artist": "MARROW GROUP"
     },
     "recent": [
+        {
+            "title": "I OWE IT ALL TO YOU",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "42nd And A Half Street",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "My Favorite Mistake",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "JOHNNY'S GARDEN",
-            "artist": "Harley Brothers"
         }
     ]
 }
