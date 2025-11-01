@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heartbreak Hotel",
-        "artist": "Crescenta Valley Boys"
+        "title": "Paramour",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Heartbreak Hotel",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
@@ -39,10 +43,6 @@
         {
             "title": "It Makes Me Crazy",
             "artist": "Nick Manson"
-        },
-        {
-            "title": "I DON'T WANNA BE ALONE",
-            "artist": "MOORE and BRENGLE"
         }
     ]
 }
