@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GEORGIA ON MY MIND",
-        "artist": "Tom Kellock"
+        "title": "YOUR'E NO GOOD",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "GEORGIA ON MY MIND",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "DROWNING IN YOUR TEARS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "DIAMOND DUST",
             "artist": "ANDY SUZUKI STRINGS"
-        },
-        {
-            "title": "Batata Bossa",
-            "artist": "Dave Keenan"
         }
     ]
 }
