@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BABYLON SISTERS",
-        "artist": "Tom Politzer"
+        "title": "YOUR SECRET LOVE",
+        "artist": "Frank Josephs"
     },
     "recent": [
+        {
+            "title": "BABYLON SISTERS",
+            "artist": "Tom Politzer"
+        },
         {
             "title": "Midnight And Beyond",
             "artist": "Patrick Yandall"
@@ -39,10 +43,6 @@
         {
             "title": "WONDERING ALOUD",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "Every Breath You Take",
-            "artist": "Harley Music"
         }
     ]
 }
