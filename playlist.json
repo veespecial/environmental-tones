@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "42nd And A Half Street",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "YOU DON'T KNOW ME",
             "artist": "Manasus Strings"
@@ -39,10 +43,6 @@
         {
             "title": "GREEN FLOWER STREET",
             "artist": "Funtastic"
-        },
-        {
-            "title": "ALL I WANNA DO",
-            "artist": "Harley"
         }
     ]
 }
