@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SACRIFICE",
-        "artist": "MANSON/MARROW/HALL"
+        "title": "Every Breath You Take",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "SACRIFICE",
+            "artist": "MANSON/MARROW/HALL"
+        },
         {
             "title": "CRY ME A RIVER",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "Always",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "CAPTAIN OF HER HEART",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
