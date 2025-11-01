@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I NEED YOU",
-        "artist": "Funtastic Music"
+        "title": "Fourth In Four",
+        "artist": "Brian Withycombe"
     },
     "recent": [
+        {
+            "title": "I NEED YOU",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "Don't Let Me be Lonely Tonight",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "ENDLESS LOVE",
-            "artist": "Daniel Ho"
         }
     ]
 }
