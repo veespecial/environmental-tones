@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Michelle",
-        "artist": "Harley Bros."
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Michelle",
+            "artist": "Harley Bros."
+        },
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T LET THE SUN CATCH YOU CRYING",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I Go Crazy",
-            "artist": "David Patt"
         }
     ]
 }
