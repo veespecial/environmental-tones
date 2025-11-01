@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "Leeward Side",
+        "artist": "Curtis Brengle"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "I\u2019LL BE OVER YOU",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "HUNTER GETS CAPTURED (BY THE GAME)",
-            "artist": "Nick Manson"
         }
     ]
 }
