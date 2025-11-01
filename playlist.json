@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It's Only Love",
-        "artist": "San Francisco"
+        "title": "Love In Motion",
+        "artist": "Patrick Yandall"
     },
     "recent": [
+        {
+            "title": "It's Only Love",
+            "artist": "San Francisco"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "South Point",
             "artist": "Brian Withycombe"
-        },
-        {
-            "title": "New Kid In Town",
-            "artist": "Harley Brothers"
         }
     ]
 }
