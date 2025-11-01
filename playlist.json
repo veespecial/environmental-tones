@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Bisbee",
-        "artist": "Mirage Ensemble"
+        "title": "CAPTAIN OF HER HEART",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "Bisbee",
+            "artist": "Mirage Ensemble"
+        },
         {
             "title": "That Old Feeling",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Love In Motion",
-            "artist": "Patrick Yandall"
         }
     ]
 }
