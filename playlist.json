@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ANGEL",
-        "artist": "Politzer/Withycombe"
+        "title": "New Kid Around",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "ANGEL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "Sleeping Cat Dance",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "BUCKETS OF RAIN",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Changes",
-            "artist": "Ray Kelley"
         }
     ]
 }
