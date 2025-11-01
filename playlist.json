@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAND OF GOLD",
-        "artist": "Moro-Eden"
+        "title": "CLEANING WINDOWS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "BAND OF GOLD",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "HALF A MINUTE",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
