@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "500 Days",
-        "artist": "Manson Music"
+        "title": "ORDINARY WORLD",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "500 Days",
+            "artist": "Manson Music"
+        },
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "CALL ME",
             "artist": "JON GOFORTH"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
