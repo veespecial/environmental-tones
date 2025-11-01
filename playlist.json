@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Be Thankful for What You've Got",
-        "artist": "Harley Bros."
+        "title": "Soul Searchin'",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Be Thankful for What You've Got",
+            "artist": "Harley Bros."
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "West Again",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Misty",
-            "artist": "Harley"
         }
     ]
 }
