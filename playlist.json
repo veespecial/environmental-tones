@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DIAMOND DUST",
-        "artist": "ANDY SUZUKI STRINGS"
+        "title": "CAPTAIN OF HER HEART",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "DIAMOND DUST",
+            "artist": "ANDY SUZUKI STRINGS"
+        },
         {
             "title": "Batata Bossa",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "DON'T GO BREAKIN' MY HEART",
-            "artist": "Devlin's Strings"
         }
     ]
 }
