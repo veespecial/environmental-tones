@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RECOVER YOUR SOUL",
-        "artist": "Politzer/Withycombe"
+        "title": "STAY (I MISSED YOU)",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "RECOVER YOUR SOUL",
+            "artist": "Politzer/Withycombe"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Run",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "Turn Turn Turn",
-            "artist": "John Morton"
         }
     ]
 }
