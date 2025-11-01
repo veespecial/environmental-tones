@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL NEVER FALL IN LOVE",
-        "artist": "Andre Mayeux"
+        "title": "I WANT TO KNOW WHAT LOVE IS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "I'LL NEVER FALL IN LOVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "HELLO IT'S ME",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "A SONG FOR YOU",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "YOUR'E NO GOOD",
-            "artist": "FLYIN' HAWAIIN BRO"
         }
     ]
 }
