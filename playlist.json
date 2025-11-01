@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "You Go To My Head",
-        "artist": "Harley"
+        "title": "Run",
+        "artist": "Los Devlin Strings"
     },
     "recent": [
+        {
+            "title": "You Go To My Head",
+            "artist": "Harley"
+        },
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "CLEANING WINDOWS",
-            "artist": "LENNY MOORE"
         }
     ]
 }
