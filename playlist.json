@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "EARTH ANGEL (WILL YOU BE MINE)",
-        "artist": "MANSON STRINGS"
+        "title": "DON'T TELL ME",
+        "artist": "Flyin' Hawaiian Bro"
     },
     "recent": [
+        {
+            "title": "EARTH ANGEL (WILL YOU BE MINE)",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "HEY GIRL",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
