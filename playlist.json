@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "LONELY TOO LONG",
             "artist": "South Point"
-        },
-        {
-            "title": "WORLD I KNOW",
-            "artist": "Harley Brothers"
         }
     ]
 }
