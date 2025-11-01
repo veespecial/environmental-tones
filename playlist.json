@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WONDERING ALOUD",
-        "artist": "Harley Brothers"
+        "title": "Just in Time",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "WONDERING ALOUD",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "Every Breath You Take",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "LITTLE MORE TIME WITH YOU",
-            "artist": "Andre Mayeux"
         }
     ]
 }
