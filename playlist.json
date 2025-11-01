@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Dreams",
-        "artist": "Harley Music"
+        "title": "Tears In Heaven",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "Dreams",
+            "artist": "Harley Music"
+        },
         {
             "title": "Take a Bow",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "DIXIE MOON",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
