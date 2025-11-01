@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WON'T LET YOU DO THAT TO ME",
-        "artist": "LENNY MOORE"
+        "title": "COULD I HAVE THIS DANCE",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "I WON'T LET YOU DO THAT TO ME",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "STUBBORN KIND OF FELLOW",
             "artist": "Crescenta Valley Boys"
-        },
-        {
-            "title": "Dancin' Shaggin On The Boulevard",
-            "artist": "Andre Mayeux"
         }
     ]
 }
