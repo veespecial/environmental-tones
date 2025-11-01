@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Every Breath You Take",
-        "artist": "Harley Music"
+        "title": "Terpsichore",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "Every Breath You Take",
+            "artist": "Harley Music"
+        },
         {
             "title": "SACRIFICE",
             "artist": "MANSON/MARROW/HALL"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Always",
-            "artist": "Harley Bros."
         }
     ]
 }
