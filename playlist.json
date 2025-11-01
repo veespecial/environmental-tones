@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Soul Searchin'",
-        "artist": "STANDING PATT MUSIC"
+        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "Soul Searchin'",
+            "artist": "STANDING PATT MUSIC"
+        },
         {
             "title": "Be Thankful for What You've Got",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "West Again",
-            "artist": "Chatsworth Acoustic Band"
         }
     ]
 }
