@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ROLL TO ME",
-        "artist": "Harley Brothers"
+        "title": "I FALL TO PIECES",
+        "artist": "DISK EYES NASHVILLE"
     },
     "recent": [
+        {
+            "title": "ROLL TO ME",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "DO RIGHT",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "BAND OF GOLD",
-            "artist": "Moro-Eden"
         }
     ]
 }
