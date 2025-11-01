@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RHYTHM OF THE NIGHT",
-        "artist": "MANASUS MUSIC"
+        "title": "LIFE IN MONO",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "RHYTHM OF THE NIGHT",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "Terpsichore",
             "artist": "Dave Keenan"
@@ -39,10 +43,6 @@
         {
             "title": "MAGNOLIA",
             "artist": "Funtastic"
-        },
-        {
-            "title": "RECOVER YOUR SOUL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
