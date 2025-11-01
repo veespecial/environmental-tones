@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Don't Want To Spoil The Party",
-        "artist": "John Morton"
+        "title": "DON'T GO BREAKIN' MY HEART",
+        "artist": "Devlin's Strings"
     },
     "recent": [
+        {
+            "title": "I Don't Want To Spoil The Party",
+            "artist": "John Morton"
+        },
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
@@ -39,10 +43,6 @@
         {
             "title": "(YOU'RE THE) BIGGEST PART OF ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "COULD I HAVE THIS DANCE",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
