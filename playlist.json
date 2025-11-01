@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "Can't Take My Eyes Off You",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": "ANOTHER GIRL",
             "artist": "John Morton"
@@ -39,10 +43,6 @@
         {
             "title": "Soul Searchin'",
             "artist": "STANDING PATT MUSIC"
-        },
-        {
-            "title": "You're the Best Thing",
-            "artist": "DAVE PATT"
         }
     ]
 }
