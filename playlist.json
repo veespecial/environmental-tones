@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I OWE IT ALL TO YOU",
-        "artist": "TOMMY/BRIAN"
+        "title": "FOUND OUT ABOUT YOU",
+        "artist": "Alberto Moro"
     },
     "recent": [
+        {
+            "title": "I OWE IT ALL TO YOU",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
