@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LOVE LETTERS",
-        "artist": "MANSON LIVE"
+        "title": "HOW DO I LIVE",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "LOVE LETTERS",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "Paramour",
             "artist": "Dave Keenan"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
