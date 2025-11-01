@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Indio",
-        "artist": "Ray Kelley"
+        "title": "Groovin'",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Indio",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "I CAN LOVE YOU LIKE THAT",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "PROMISE AIN'T ENOUGH",
             "artist": "ANDY SUZUKI/NICK MANSON"
-        },
-        {
-            "title": "PEACEFUL EASY FEELING",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
