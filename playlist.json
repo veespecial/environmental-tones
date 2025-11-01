@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A Love Song",
-        "artist": "John Morton"
+        "title": "ALL FOUR SEASONS",
+        "artist": "Moro-Eden"
     },
     "recent": [
+        {
+            "title": "A Love Song",
+            "artist": "John Morton"
+        },
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "BAD SNEAKERS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
