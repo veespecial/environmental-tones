@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Tears In Heaven",
-        "artist": "Crescenta Valley Boys"
+        "title": "Jazz On The Beach",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Tears In Heaven",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "AFTER ALL",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "SOUL SHADOWS",
             "artist": "TOM KELLOCK'S BTU"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
