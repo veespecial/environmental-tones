@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "We're in This Love Together",
-        "artist": "Harley Music"
+        "title": "(YOU'RE THE) BIGGEST PART OF ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "We're in This Love Together",
+            "artist": "Harley Music"
+        },
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
@@ -39,10 +43,6 @@
         {
             "title": "CREDIT",
             "artist": "North Point"
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
