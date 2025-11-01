@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I BELIEVE IN YOU AND ME",
-        "artist": "Josephs Band"
+        "title": "COME ON LET'S GO",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "I BELIEVE IN YOU AND ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "SAN FRANCISCAN NIGHTS",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "You Are My Destiny",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
