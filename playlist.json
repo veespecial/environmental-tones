@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Love In Motion",
-        "artist": "Patrick Yandall"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "Love In Motion",
+            "artist": "Patrick Yandall"
+        },
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "COULD IT BE I'M FALLING IN LOVE",
             "artist": "BALIN/BLOM ORCHESTRA"
-        },
-        {
-            "title": "South Point",
-            "artist": "Brian Withycombe"
         }
     ]
 }
