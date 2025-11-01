@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Take a Bow",
-        "artist": "MANASUS MUSIC"
+        "title": "Dreams",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Take a Bow",
+            "artist": "MANASUS MUSIC"
+        },
         {
             "title": "HOW CAN YOU MEND A BROKEN HEART",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "DREAMLOVER",
             "artist": "It's Lenny Moore"
-        },
-        {
-            "title": "SAN TROPEZ",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
