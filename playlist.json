@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Misty",
-        "artist": "Harley"
+        "title": "West Again",
+        "artist": "Chatsworth Acoustic Band"
     },
     "recent": [
+        {
+            "title": "Misty",
+            "artist": "Harley"
+        },
         {
             "title": "IF NOT FOR YOU",
             "artist": "Alberto Moro"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "42nd And A Half Street",
-            "artist": "Brian Withycombe"
         }
     ]
 }
