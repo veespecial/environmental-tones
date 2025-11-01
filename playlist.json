@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Chicago",
-        "artist": "Harley"
+        "title": "SAN TROPEZ",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "Chicago",
+            "artist": "Harley"
+        },
         {
             "title": "DON'T TELL ME",
             "artist": "Flyin' Hawaiian Bro"
@@ -39,10 +43,6 @@
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
-        },
-        {
-            "title": "BUS STOP",
-            "artist": "Josephs Band"
         }
     ]
 }
