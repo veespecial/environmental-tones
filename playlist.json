@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WHAT'S GOIN ON",
-        "artist": "Josephs Band"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "WHAT'S GOIN ON",
+            "artist": "Josephs Band"
+        },
         {
             "title": " AFTER THE LOVE HAS GONE",
             "artist": "TOMMY/BRIAN"
@@ -39,10 +43,6 @@
         {
             "title": "I CAN'T MAKE YOU LOVE ME",
             "artist": "MIRAGE BAND"
-        },
-        {
-            "title": "LA-LA MEANS I LOVE YOU",
-            "artist": "Andy Suzuki"
         }
     ]
 }
