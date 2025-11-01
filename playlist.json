@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Jazz On The Beach",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Jazz On The Beach",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "I OWE IT ALL TO YOU",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "SOUL SHADOWS",
-            "artist": "TOM KELLOCK'S BTU"
         }
     ]
 }
