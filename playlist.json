@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TELL ME",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "GOODBYE YELLOW BRICK ROAD",
+        "artist": "BALIN/BLOM ORCHESTRA"
     },
     "recent": [
+        {
+            "title": "DON'T TELL ME",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
-        },
-        {
-            "title": "SAVING ALL MY LOVE FOR YOU",
-            "artist": "NORTHPOINT"
         }
     ]
 }
