@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "ORDINARY WORLD",
-        "artist": "Devlin's Strings"
+        "title": "When a Man Loves a Woman",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "ORDINARY WORLD",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "WHERE IS THE LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "SWAY",
-            "artist": "Harley"
         }
     ]
 }
