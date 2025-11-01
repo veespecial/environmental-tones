@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "A SONG FOR YOU",
-        "artist": "MANSON STRINGS"
+        "title": "New Kid In Town",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "A SONG FOR YOU",
+            "artist": "MANSON STRINGS"
+        },
         {
             "title": "YOUR'E NO GOOD",
             "artist": "FLYIN' HAWAIIN BRO"
@@ -39,10 +43,6 @@
         {
             "title": "Bisbee",
             "artist": "Mirage Ensemble"
-        },
-        {
-            "title": "I'LL FOLLOW THE SUN",
-            "artist": "North Point"
         }
     ]
 }
