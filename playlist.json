@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAVING ALL MY LOVE FOR YOU",
-        "artist": "NORTHPOINT"
+        "title": "I JUST CAN'T LET GO",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "SAVING ALL MY LOVE FOR YOU",
+            "artist": "NORTHPOINT"
+        },
         {
             "title": "Just Like This Train",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IN MONO",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "RHYTHM OF THE NIGHT",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
