@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SOUL SHADOWS",
-        "artist": "TOM KELLOCK'S BTU"
+        "title": "RECOVER YOUR SOUL",
+        "artist": "Politzer/Withycombe"
     },
     "recent": [
+        {
+            "title": "SOUL SHADOWS",
+            "artist": "TOM KELLOCK'S BTU"
+        },
         {
             "title": "Always",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Turn Turn Turn",
             "artist": "John Morton"
-        },
-        {
-            "title": "DON'T TURN ON THE LIGHT",
-            "artist": "JIM BREDOUW"
         }
     ]
 }
