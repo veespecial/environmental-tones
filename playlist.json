@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN FRANCISCAN NIGHTS",
-        "artist": "Daniel Ho"
+        "title": "I BELIEVE IN YOU AND ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "SAN FRANCISCAN NIGHTS",
+            "artist": "Daniel Ho"
+        },
         {
             "title": "LITTLE MORE TIME WITH YOU",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "You Are My Destiny",
             "artist": "Los Devlin Strings"
-        },
-        {
-            "title": "DREAMLOVER",
-            "artist": "It's Lenny Moore"
         }
     ]
 }
