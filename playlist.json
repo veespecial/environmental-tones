@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "STAY (I MISSED YOU)",
-        "artist": "Moro-Eden"
+        "title": "Pickin Like Lee",
+        "artist": "Michael Ranstrom"
     },
     "recent": [
+        {
+            "title": "STAY (I MISSED YOU)",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "RECOVER YOUR SOUL",
             "artist": "Politzer/Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Run",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
