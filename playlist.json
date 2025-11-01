@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE'S NO LADY",
-        "artist": "North Point"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "SHE'S NO LADY",
+            "artist": "North Point"
+        },
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER STOP LOVING YOU",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
