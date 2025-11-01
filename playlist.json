@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It Makes Me Crazy",
-        "artist": "Nick Manson"
+        "title": "HEAVEN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "It Makes Me Crazy",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I DON'T WANNA BE ALONE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "DON'T ASK MY NEIGHBOR",
-            "artist": "STRINGS BY ANDY"
         }
     ]
 }
