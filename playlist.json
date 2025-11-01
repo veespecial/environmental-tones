@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Ooh Baby Baby",
-        "artist": "Crescenta Valley Boys"
+        "title": "Help Me",
+        "artist": "Harley Music"
     },
     "recent": [
+        {
+            "title": "Ooh Baby Baby",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "FOR ONCE IN OUR LIVES",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "YOUR SECRET LOVE",
-            "artist": "Frank Josephs"
         }
     ]
 }
