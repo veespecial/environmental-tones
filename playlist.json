@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAIR TOMORROW",
-        "artist": "Jerry Cortez"
+        "title": "LITTLE MORE TIME WITH YOU",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "FAIR TOMORROW",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
