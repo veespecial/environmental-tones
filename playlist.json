@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "I Give In",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "Always Something There To Remind Me",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "DO YOU WANNA DANCE",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "RUBY BABY",
-            "artist": "Funtastic"
         }
     ]
 }
