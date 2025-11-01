@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWAY",
-        "artist": "Harley"
+        "title": "WILL YOU LOVE ME TOMORROW",
+        "artist": "MANSON LIVE"
     },
     "recent": [
+        {
+            "title": "SWAY",
+            "artist": "Harley"
+        },
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "ANGEL",
             "artist": "Politzer/Withycombe"
-        },
-        {
-            "title": "Sleeping Cat Dance",
-            "artist": "Nick Manson"
         }
     ]
 }
