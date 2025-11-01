@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HERE COMES A MAN",
-        "artist": "Alberto Moro"
+        "title": "WHERE IS THE LOVE",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "HERE COMES A MAN",
+            "artist": "Alberto Moro"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T WANNA LOSE YOU",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "THIS MASQUERADE",
-            "artist": "DERRICK CHASE"
         }
     ]
 }
