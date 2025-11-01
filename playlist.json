@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Wish",
-        "artist": "Harley Bros."
+        "title": "LA-LA MEANS I LOVE YOU",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I Wish",
+            "artist": "Harley Bros."
+        },
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "MOTHER NATURE'S SON",
             "artist": "DERRICK CHASE"
-        },
-        {
-            "title": "Leeward Side",
-            "artist": "Curtis Brengle"
         }
     ]
 }
