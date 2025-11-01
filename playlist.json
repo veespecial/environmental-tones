@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I JUST CAN'T LET GO",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "I WILL",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "I JUST CAN'T LET GO",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "SAVING ALL MY LOVE FOR YOU",
             "artist": "NORTHPOINT"
@@ -39,10 +43,6 @@
         {
             "title": "THE SWEETEST DAYS",
             "artist": "Manasus Strings"
-        },
-        {
-            "title": "LIFE IN MONO",
-            "artist": "Andy Suzuki"
         }
     ]
 }
