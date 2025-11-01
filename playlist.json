@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GREEN FLOWER STREET",
-        "artist": "Funtastic"
+        "title": "JOHNNY'S GARDEN",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "GREEN FLOWER STREET",
+            "artist": "Funtastic"
+        },
         {
             "title": "ALL I WANNA DO",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "CLEANING WINDOWS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "BAND OF GOLD",
-            "artist": "Moro-Eden"
         }
     ]
 }
