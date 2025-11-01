@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "South Point",
-        "artist": "Brian Withycombe"
+        "title": "HALF A MINUTE",
+        "artist": "FLYIN' HAWAIIN BRO"
     },
     "recent": [
+        {
+            "title": "South Point",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "(YOU'RE THE) BIGGEST PART OF ME",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "We're in This Love Together",
-            "artist": "Harley Music"
         }
     ]
 }
