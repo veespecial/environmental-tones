@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MAGNOLIA",
-        "artist": "Funtastic"
+        "title": "Things We Do For Love",
+        "artist": "Tom Politzer/S.F."
     },
     "recent": [
+        {
+            "title": "MAGNOLIA",
+            "artist": "Funtastic"
+        },
         {
             "title": "For Elfi",
             "artist": "Nick Manson"
@@ -39,10 +43,6 @@
         {
             "title": "That Old Feeling",
             "artist": "Harley"
-        },
-        {
-            "title": "Footprints",
-            "artist": "Melissa Siegel"
         }
     ]
 }
