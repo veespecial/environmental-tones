@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DON'T TELL ME",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Chicago",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "DON'T TELL ME",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
@@ -39,10 +43,6 @@
         {
             "title": "BUS STOP",
             "artist": "Josephs Band"
-        },
-        {
-            "title": "HEY GIRL",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
