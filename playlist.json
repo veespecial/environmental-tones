@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Indio",
-        "artist": "Ray Kelley"
+        "title": "CRY ME A RIVER",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Indio",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "One Dance",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Heart Less One",
-            "artist": "Brian Withycombe"
         }
     ]
 }
