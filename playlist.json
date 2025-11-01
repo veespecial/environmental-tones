@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Batata Bossa",
-        "artist": "Dave Keenan"
+        "title": "DIAMOND DUST",
+        "artist": "ANDY SUZUKI STRINGS"
     },
     "recent": [
+        {
+            "title": "Batata Bossa",
+            "artist": "Dave Keenan"
+        },
         {
             "title": "Soulful Strut",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "DON'T GO BREAKIN' MY HEART",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "Help Me",
-            "artist": "Harley Music"
         }
     ]
 }
