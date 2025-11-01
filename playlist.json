@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Fourth In Four",
-        "artist": "Brian Withycombe"
+        "title": "BAD SNEAKERS",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Fourth In Four",
+            "artist": "Brian Withycombe"
+        },
         {
             "title": "SAY YOU LOVE ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
-        },
-        {
-            "title": "Everybody's Talking",
-            "artist": "Harley Music"
         }
     ]
 }
