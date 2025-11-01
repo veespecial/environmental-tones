@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "BAND OF GOLD",
-        "artist": "Moro-Eden"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "BAND OF GOLD",
+            "artist": "Moro-Eden"
+        },
         {
             "title": "Michelle",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "Cathedral City",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "Singalong Junk",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
