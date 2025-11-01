@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FOUR STRONG WINDS",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Take a Bow",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "FOUR STRONG WINDS",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "Jazz On The Beach",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "Tears In Heaven",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
