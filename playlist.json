@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET'S STAY TOGETHER",
-        "artist": "POLIZER/WITHYCOMBE"
+        "title": "Purple Passion",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": "LET'S STAY TOGETHER",
+            "artist": "POLIZER/WITHYCOMBE"
+        },
         {
             "title": "I FALL TO PIECES",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "AWAKENING",
             "artist": "Jazz Pretenders"
-        },
-        {
-            "title": "GOODBYE YELLOW BRICK ROAD",
-            "artist": "BALIN/BLOM ORCHESTRA"
         }
     ]
 }
