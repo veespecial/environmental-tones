@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "LIFE IN MONO",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "NEVER CAN SAY GOODBYE",
             "artist": "MOORE and BRENGLE"
@@ -39,10 +43,6 @@
         {
             "title": "WILL YOU LOVE ME TOMORROW",
             "artist": "MANSON LIVE"
-        },
-        {
-            "title": "SAN FRANCISCAN NIGHTS",
-            "artist": "Daniel Ho"
         }
     ]
 }
