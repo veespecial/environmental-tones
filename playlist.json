@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Groovin'",
-        "artist": "Harley Music"
+        "title": "Dancin' Shaggin On The Boulevard",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "Groovin'",
+            "artist": "Harley Music"
+        },
         {
             "title": "A WORLD WITHOUT LOVE",
             "artist": "FRANK JOSEPHS BAND"
@@ -39,10 +43,6 @@
         {
             "title": "MIDNIGHT TRAIN TO GEORGIA",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "At the Fair",
-            "artist": "Mirage Ensemble"
         }
     ]
 }
