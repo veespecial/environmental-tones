@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIKE TO GET TO KNOW YOU WELL",
-        "artist": "Flyin' Hawaiian Bro"
+        "title": "Samsonite Waltz",
+        "artist": "Dave Keenan"
     },
     "recent": [
+        {
+            "title": "LIKE TO GET TO KNOW YOU WELL",
+            "artist": "Flyin' Hawaiian Bro"
+        },
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
@@ -39,10 +43,6 @@
         {
             "title": "Candlelight",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
