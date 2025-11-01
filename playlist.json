@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Give In",
-        "artist": "Andy Suzuki"
+        "title": "HIGHER AND HIGHER",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "I Give In",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
@@ -39,10 +43,6 @@
         {
             "title": "Daniel",
             "artist": "Harley Music"
-        },
-        {
-            "title": "DO YOU WANNA DANCE",
-            "artist": "Moro-Eden"
         }
     ]
 }
