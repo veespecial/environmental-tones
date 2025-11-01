@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "FAMILY AFFAIR",
-        "artist": "Tom Politzer/S.F."
+        "title": "I Don't Want To Spoil The Party",
+        "artist": "John Morton"
     },
     "recent": [
+        {
+            "title": "FAMILY AFFAIR",
+            "artist": "Tom Politzer/S.F."
+        },
         {
             "title": "HEAVEN",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "COULD I HAVE THIS DANCE",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "I WON'T LET YOU DO THAT TO ME",
-            "artist": "LENNY MOORE"
         }
     ]
 }
