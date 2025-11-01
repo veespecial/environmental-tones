@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SWEET HOME",
-        "artist": "Jerry Cortez"
+        "title": "GIMME LITTLE SIGN",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "SWEET HOME",
+            "artist": "Jerry Cortez"
+        },
         {
             "title": "When a Man Loves a Woman",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "HELLO IT'S ME",
-            "artist": "MANASUS MUSIC"
         }
     ]
 }
