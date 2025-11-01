@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HOW DO I LIVE",
-        "artist": "Andre Mayeux"
+        "title": "EARTH ANGEL (WILL YOU BE MINE)",
+        "artist": "MANSON STRINGS"
     },
     "recent": [
+        {
+            "title": "HOW DO I LIVE",
+            "artist": "Andre Mayeux"
+        },
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
@@ -39,10 +43,6 @@
         {
             "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
             "artist": "DISK EYES NASHVILLE"
-        },
-        {
-            "title": "Soul Searchin'",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
