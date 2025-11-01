@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "(YOU'RE THE) BIGGEST PART OF ME",
-        "artist": "Tom Kellock"
+        "title": "My Ever Changing Moods",
+        "artist": "Jim Devlin"
     },
     "recent": [
+        {
+            "title": "(YOU'RE THE) BIGGEST PART OF ME",
+            "artist": "Tom Kellock"
+        },
         {
             "title": "We're in This Love Together",
             "artist": "Harley Music"
@@ -39,10 +43,6 @@
         {
             "title": "500 Days",
             "artist": "Manson Music"
-        },
-        {
-            "title": "CREDIT",
-            "artist": "North Point"
         }
     ]
 }
