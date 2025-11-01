@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SUMMER WIND",
-        "artist": "Harley"
+        "title": "GREEN FLOWER STREET",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "SUMMER WIND",
+            "artist": "Harley"
+        },
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
@@ -39,10 +43,6 @@
         {
             "title": "KEEP ON PUSHING LOVE",
             "artist": "TOMMY/BRIAN"
-        },
-        {
-            "title": "Soulful Strut",
-            "artist": "Harley Bros."
         }
     ]
 }
