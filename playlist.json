@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE STRANGER",
-        "artist": "North Point"
+        "title": "STONED SOUL PICNIC",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "THE STRANGER",
+            "artist": "North Point"
+        },
         {
             "title": "It's Only Love",
             "artist": "San Francisco"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "Run",
-            "artist": "Los Devlin Strings"
         }
     ]
 }
