@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I Give In",
-        "artist": "Andy Suzuki"
+        "title": "PEACEFUL EASY FEELING",
+        "artist": "MIRAGE BAND"
     },
     "recent": [
+        {
+            "title": "I Give In",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "RUBY BABY",
             "artist": "Funtastic"
@@ -39,10 +43,6 @@
         {
             "title": "Michelle",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "GOLDEN EARRINGS",
-            "artist": "MARROW GROUP"
         }
     ]
 }
