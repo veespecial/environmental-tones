@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SHE RUNS AWAY",
-        "artist": "Harley Brothers"
+        "title": "HEY GIRL",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "SHE RUNS AWAY",
+            "artist": "Harley Brothers"
+        },
         {
             "title": "TAKE FIVE",
             "artist": "South Point"
@@ -39,10 +43,6 @@
         {
             "title": "When a Man Loves a Woman",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "ORDINARY WORLD",
-            "artist": "Devlin's Strings"
         }
     ]
 }
