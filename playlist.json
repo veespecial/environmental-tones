@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL BE THERE",
-        "artist": "JIM BREDOUW"
+        "title": "SAN FRANCISCAN NIGHTS",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "I'LL BE THERE",
+            "artist": "JIM BREDOUW"
+        },
         {
             "title": "Michelle",
             "artist": "Harley Bros."
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "ROLL TO ME",
-            "artist": "Harley Brothers"
         }
     ]
 }
