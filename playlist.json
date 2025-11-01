@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "Candlelight",
+        "artist": "Ray Kelley"
     },
     "recent": [
+        {
+            "title": "GRANDPA (TELL ME 'BOUT THE GOOD OLD DAYS)",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "You're the Best Thing",
             "artist": "DAVE PATT"
@@ -39,10 +43,6 @@
         {
             "title": "THE WARMTH OF THE SUN",
             "artist": "MANASUS/KEEFER"
-        },
-        {
-            "title": "SAY YOU LOVE ME",
-            "artist": "Josephs Band"
         }
     ]
 }
