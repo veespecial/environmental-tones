@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Groovin'",
-        "artist": "Harley Music"
+        "title": "At the Fair",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "Groovin'",
+            "artist": "Harley Music"
+        },
         {
             "title": "Indio",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "FAMILY AFFAIR",
             "artist": "Tom Politzer/S.F."
-        },
-        {
-            "title": "PROMISE AIN'T ENOUGH",
-            "artist": "ANDY SUZUKI/NICK MANSON"
         }
     ]
 }
