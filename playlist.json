@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Changes",
-        "artist": "Ray Kelley"
+        "title": "BUCKETS OF RAIN",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "Changes",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "QUEEN OF HEARTS",
             "artist": "TOM KELLOCK'S BTU"
@@ -39,10 +43,6 @@
         {
             "title": "Purple Passion",
             "artist": "Ho Tones"
-        },
-        {
-            "title": "LET'S STAY TOGETHER",
-            "artist": "POLIZER/WITHYCOMBE"
         }
     ]
 }
