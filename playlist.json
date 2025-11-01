@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": " AFTER THE LOVE HAS GONE",
-        "artist": "TOMMY/BRIAN"
+        "title": "RED PEPPER RUSH",
+        "artist": "Ho Tones"
     },
     "recent": [
+        {
+            "title": " AFTER THE LOVE HAS GONE",
+            "artist": "TOMMY/BRIAN"
+        },
         {
             "title": "About Tonight",
             "artist": "MIRAGE BAND"
@@ -39,10 +43,6 @@
         {
             "title": "Black Cow",
             "artist": "Andy Suzuki"
-        },
-        {
-            "title": "My Ever Changing Moods",
-            "artist": "Jim Devlin"
         }
     ]
 }
