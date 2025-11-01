@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "That Old Feeling",
-        "artist": "Harley"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "That Old Feeling",
+            "artist": "Harley"
+        },
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
@@ -39,10 +43,6 @@
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
-        },
-        {
-            "title": "CRYSTAL SHIP",
-            "artist": "Curtis Brengle"
         }
     ]
 }
