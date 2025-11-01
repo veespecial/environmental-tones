@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WILL",
-        "artist": "Josephs Band"
+        "title": "I DON'T WANNA BE ALONE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "I WILL",
+            "artist": "Josephs Band"
+        },
         {
             "title": "I JUST CAN'T LET GO",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "Queen Bee",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "THE SWEETEST DAYS",
-            "artist": "Manasus Strings"
         }
     ]
 }
