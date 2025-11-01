@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "For Elfi",
-        "artist": "Nick Manson"
+        "title": "MAGNOLIA",
+        "artist": "Funtastic"
     },
     "recent": [
+        {
+            "title": "For Elfi",
+            "artist": "Nick Manson"
+        },
         {
             "title": "Pickin Like Lee",
             "artist": "Michael Ranstrom"
@@ -39,10 +43,6 @@
         {
             "title": "Footprints",
             "artist": "Melissa Siegel"
-        },
-        {
-            "title": "Heartbreak Hotel",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
