@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DREAMLOVER",
-        "artist": "It's Lenny Moore"
+        "title": "DIXIE MOON",
+        "artist": "LENNY MOORE"
     },
     "recent": [
+        {
+            "title": "DREAMLOVER",
+            "artist": "It's Lenny Moore"
+        },
         {
             "title": "SAN TROPEZ",
             "artist": "FRISCO PILEDRIVERS"
@@ -39,10 +43,6 @@
         {
             "title": "LIFE IS BUT A DREAM",
             "artist": "Devlin's Strings"
-        },
-        {
-            "title": "THE LOOK OF LOVE",
-            "artist": "Tom Kellock"
         }
     ]
 }
