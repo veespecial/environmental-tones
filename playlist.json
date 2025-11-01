@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Always",
-        "artist": "Harley Bros."
+        "title": "SOUL SHADOWS",
+        "artist": "TOM KELLOCK'S BTU"
     },
     "recent": [
+        {
+            "title": "Always",
+            "artist": "Harley Bros."
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "DON'T TURN ON THE LIGHT",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "I JUST CAN'T LET GO",
-            "artist": "FRISCO PILEDRIVERS"
         }
     ]
 }
