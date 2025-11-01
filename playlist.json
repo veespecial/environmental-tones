@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "THE WARMTH OF THE SUN",
-        "artist": "MANASUS/KEEFER"
+        "title": "MY HEART IS CALLING",
+        "artist": "Daniel Ho"
     },
     "recent": [
+        {
+            "title": "THE WARMTH OF THE SUN",
+            "artist": "MANASUS/KEEFER"
+        },
         {
             "title": "CAPTAIN OF HER HEART",
             "artist": "ANDY SUZUKI/NICK MANSON"
@@ -39,10 +43,6 @@
         {
             "title": "SHE'S NO LADY",
             "artist": "North Point"
-        },
-        {
-            "title": "SWEET HOME",
-            "artist": "Jerry Cortez"
         }
     ]
 }
