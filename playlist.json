@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Heartbreak Hotel",
-        "artist": "Crescenta Valley Boys"
+        "title": "Footprints",
+        "artist": "Melissa Siegel"
     },
     "recent": [
+        {
+            "title": "Heartbreak Hotel",
+            "artist": "Crescenta Valley Boys"
+        },
         {
             "title": "Come Fly With Me",
             "artist": "Ray Kelley"
@@ -39,10 +43,6 @@
         {
             "title": "I Go Crazy",
             "artist": "David Patt"
-        },
-        {
-            "title": "Fourth In Four",
-            "artist": "Brian Withycombe"
         }
     ]
 }
