@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "HEY GIRL",
-        "artist": "ANDY SUZUKI/NICK MANSON"
+        "title": "IN A DAYDREAM",
+        "artist": "Crescenta Valley Boys"
     },
     "recent": [
+        {
+            "title": "HEY GIRL",
+            "artist": "ANDY SUZUKI/NICK MANSON"
+        },
         {
             "title": "SHE RUNS AWAY",
             "artist": "Harley Brothers"
@@ -39,10 +43,6 @@
         {
             "title": "SWEET HOME",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "When a Man Loves a Woman",
-            "artist": "Harley Bros."
         }
     ]
 }
