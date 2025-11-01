@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Cathedral City",
-        "artist": "Ray Kelley"
+        "title": "Nobody Does It Better",
+        "artist": "Tom Politzer"
     },
     "recent": [
+        {
+            "title": "Cathedral City",
+            "artist": "Ray Kelley"
+        },
         {
             "title": "Singalong Junk",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "MY HEART IS CALLING",
             "artist": "Daniel Ho"
-        },
-        {
-            "title": "THE WARMTH OF THE SUN",
-            "artist": "MANASUS/KEEFER"
         }
     ]
 }
