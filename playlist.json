@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Sleeping Cat Dance",
-        "artist": "Nick Manson"
+        "title": "GOLDEN EARRINGS",
+        "artist": "MARROW GROUP"
     },
     "recent": [
+        {
+            "title": "Sleeping Cat Dance",
+            "artist": "Nick Manson"
+        },
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
@@ -39,10 +43,6 @@
         {
             "title": "GEORGIA ON MY MIND",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "DROWNING IN YOUR TEARS",
-            "artist": "Funtastic Music"
         }
     ]
 }
