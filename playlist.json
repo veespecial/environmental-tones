@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "DO RIGHT",
-        "artist": "Curtis Brengle"
+        "title": "WORLD I KNOW",
+        "artist": "Harley Brothers"
     },
     "recent": [
+        {
+            "title": "DO RIGHT",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "West Again",
             "artist": "Chatsworth Acoustic Band"
@@ -39,10 +43,6 @@
         {
             "title": "EARTH ANGEL (WILL YOU BE MINE)",
             "artist": "MANSON STRINGS"
-        },
-        {
-            "title": "GOLDEN EARRINGS",
-            "artist": "MARROW GROUP"
         }
     ]
 }
