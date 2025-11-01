@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LET IT BE ME",
-        "artist": "Josephs Band"
+        "title": "DROWNING IN YOUR TEARS",
+        "artist": "Funtastic Music"
     },
     "recent": [
+        {
+            "title": "LET IT BE ME",
+            "artist": "Josephs Band"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "Soulful Strut",
             "artist": "Harley Bros."
-        },
-        {
-            "title": "FEEL LIKE MAKIN' LOVE",
-            "artist": "Nick Manson"
         }
     ]
 }
