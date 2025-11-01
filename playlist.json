@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "It's Only Love",
-        "artist": "San Francisco"
+        "title": "I JUST CAN'T LET GO",
+        "artist": "FRISCO PILEDRIVERS"
     },
     "recent": [
+        {
+            "title": "It's Only Love",
+            "artist": "San Francisco"
+        },
         {
             "title": "Love In Motion",
             "artist": "Patrick Yandall"
@@ -39,10 +43,6 @@
         {
             "title": "FAIR TOMORROW",
             "artist": "Jerry Cortez"
-        },
-        {
-            "title": "COULD I HAVE THIS DANCE",
-            "artist": "DISK EYES NASHVILLE"
         }
     ]
 }
