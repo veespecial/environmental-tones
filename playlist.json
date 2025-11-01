@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COME ON LET'S GO",
-        "artist": "North Point"
+        "title": "500 Days",
+        "artist": "Manson Music"
     },
     "recent": [
+        {
+            "title": "COME ON LET'S GO",
+            "artist": "North Point"
+        },
         {
             "title": "I BELIEVE IN YOU AND ME",
             "artist": "Josephs Band"
@@ -39,10 +43,6 @@
         {
             "title": "I NEED YOU",
             "artist": "Funtastic Music"
-        },
-        {
-            "title": "I CAN'T MAKE YOU LOVE ME",
-            "artist": "MIRAGE BAND"
         }
     ]
 }
