@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One Dance",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "I Wish",
+        "artist": "Harley Bros."
     },
     "recent": [
+        {
+            "title": "One Dance",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Tears In Heaven",
             "artist": "Crescenta Valley Boys"
@@ -39,10 +43,6 @@
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "I WANT TO KNOW WHAT LOVE IS",
-            "artist": "Funtastic Music"
         }
     ]
 }
