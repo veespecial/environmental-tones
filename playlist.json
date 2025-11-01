@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "COULD I HAVE THIS DANCE",
-        "artist": "DISK EYES NASHVILLE"
+        "title": "(YOU'RE THE) BIGGEST PART OF ME",
+        "artist": "Tom Kellock"
     },
     "recent": [
+        {
+            "title": "COULD I HAVE THIS DANCE",
+            "artist": "DISK EYES NASHVILLE"
+        },
         {
             "title": "I WON'T LET YOU DO THAT TO ME",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "CRYSTAL SHIP",
             "artist": "Curtis Brengle"
-        },
-        {
-            "title": "STUBBORN KIND OF FELLOW",
-            "artist": "Crescenta Valley Boys"
         }
     ]
 }
