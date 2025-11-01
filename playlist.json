@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One Dance",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "FOR ONCE IN OUR LIVES",
+        "artist": "Andre Mayeux"
     },
     "recent": [
+        {
+            "title": "One Dance",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Heart Less One",
             "artist": "Brian Withycombe"
@@ -39,10 +43,6 @@
         {
             "title": "BABYLON SISTERS",
             "artist": "Tom Politzer"
-        },
-        {
-            "title": "Midnight And Beyond",
-            "artist": "Patrick Yandall"
         }
     ]
 }
