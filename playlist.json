@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "RUBY BABY",
-        "artist": "Funtastic"
+        "title": "I Give In",
+        "artist": "Andy Suzuki"
     },
     "recent": [
+        {
+            "title": "RUBY BABY",
+            "artist": "Funtastic"
+        },
         {
             "title": "STONED SOUL PICNIC",
             "artist": "Daniel Ho"
@@ -39,10 +43,6 @@
         {
             "title": "GOLDEN EARRINGS",
             "artist": "MARROW GROUP"
-        },
-        {
-            "title": "Sleeping Cat Dance",
-            "artist": "Nick Manson"
         }
     ]
 }
