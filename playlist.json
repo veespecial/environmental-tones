@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I'LL FOLLOW THE SUN",
-        "artist": "North Point"
+        "title": "Bisbee",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "I'LL FOLLOW THE SUN",
+            "artist": "North Point"
+        },
         {
             "title": "Walk On By",
             "artist": "Manson Music"
@@ -39,10 +43,6 @@
         {
             "title": "I SOLD MY HEART TO THE JUNKMAN",
             "artist": "Jim Devlin"
-        },
-        {
-            "title": "HOW DO I LIVE",
-            "artist": "Andre Mayeux"
         }
     ]
 }
