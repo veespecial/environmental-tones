@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "I WANT TO KNOW WHAT LOVE IS",
-        "artist": "Funtastic Music"
+        "title": "It's Only Love",
+        "artist": "San Francisco"
     },
     "recent": [
+        {
+            "title": "I WANT TO KNOW WHAT LOVE IS",
+            "artist": "Funtastic Music"
+        },
         {
             "title": "I'LL NEVER FALL IN LOVE",
             "artist": "Andre Mayeux"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid In Town",
             "artist": "Harley Brothers"
-        },
-        {
-            "title": "A SONG FOR YOU",
-            "artist": "MANSON STRINGS"
         }
     ]
 }
