@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLEANING WINDOWS",
-        "artist": "LENNY MOORE"
+        "title": "Just in Time",
+        "artist": "Mirage Ensemble"
     },
     "recent": [
+        {
+            "title": "CLEANING WINDOWS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "BABY NOW THAT I'VE FOUND YOU",
             "artist": "STANDING PATT MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "YOU'RE THE INSPIRATION",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
