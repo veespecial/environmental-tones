@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "PEACEFUL EASY FEELING",
-        "artist": "MIRAGE BAND"
+        "title": "PROMISE AIN'T ENOUGH",
+        "artist": "ANDY SUZUKI/NICK MANSON"
     },
     "recent": [
+        {
+            "title": "PEACEFUL EASY FEELING",
+            "artist": "MIRAGE BAND"
+        },
         {
             "title": "I Give In",
             "artist": "Andy Suzuki"
@@ -39,10 +43,6 @@
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
-        },
-        {
-            "title": "Michelle",
-            "artist": "Harley Bros."
         }
     ]
 }
