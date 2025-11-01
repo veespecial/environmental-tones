@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IS BUT A DREAM",
-        "artist": "Devlin's Strings"
+        "title": "HUNTER GETS CAPTURED (BY THE GAME)",
+        "artist": "Nick Manson"
     },
     "recent": [
+        {
+            "title": "LIFE IS BUT A DREAM",
+            "artist": "Devlin's Strings"
+        },
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
@@ -39,10 +43,6 @@
         {
             "title": "YOUR SECRET LOVE",
             "artist": "Frank Josephs"
-        },
-        {
-            "title": "NIGHT IN PARIS",
-            "artist": "Ho Tones"
         }
     ]
 }
