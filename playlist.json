@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Walk On By",
-        "artist": "Manson Music"
+        "title": "I'LL FOLLOW THE SUN",
+        "artist": "North Point"
     },
     "recent": [
+        {
+            "title": "Walk On By",
+            "artist": "Manson Music"
+        },
         {
             "title": "BUCKETS OF RAIN",
             "artist": "LENNY MOORE"
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "LOVE LETTERS",
-            "artist": "MANSON LIVE"
         }
     ]
 }
