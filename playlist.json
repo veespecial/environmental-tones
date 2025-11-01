@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "GOODBYE YELLOW BRICK ROAD",
-        "artist": "BALIN/BLOM ORCHESTRA"
+        "title": "SAY YOU LOVE ME",
+        "artist": "Josephs Band"
     },
     "recent": [
+        {
+            "title": "GOODBYE YELLOW BRICK ROAD",
+            "artist": "BALIN/BLOM ORCHESTRA"
+        },
         {
             "title": "SUMMER WIND",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "Indio",
             "artist": "Ray Kelley"
-        },
-        {
-            "title": "A WORLD WITHOUT LOVE",
-            "artist": "FRANK JOSEPHS BAND"
         }
     ]
 }
