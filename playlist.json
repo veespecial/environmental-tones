@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "WILL YOU LOVE ME TOMORROW",
-        "artist": "MANSON LIVE"
+        "title": "HELLO IT'S ME",
+        "artist": "MANASUS MUSIC"
     },
     "recent": [
+        {
+            "title": "WILL YOU LOVE ME TOMORROW",
+            "artist": "MANSON LIVE"
+        },
         {
             "title": "SWAY",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "New Kid Around",
             "artist": "Chatsworth Acoustic Band"
-        },
-        {
-            "title": "ANGEL",
-            "artist": "Politzer/Withycombe"
         }
     ]
 }
