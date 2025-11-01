@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "One Dance",
-        "artist": "Chatsworth Acoustic Band"
+        "title": "You Go To My Head",
+        "artist": "Harley"
     },
     "recent": [
+        {
+            "title": "One Dance",
+            "artist": "Chatsworth Acoustic Band"
+        },
         {
             "title": "Nobody Does It Better",
             "artist": "Tom Politzer"
@@ -39,10 +43,6 @@
         {
             "title": "CLEANING WINDOWS",
             "artist": "LENNY MOORE"
-        },
-        {
-            "title": "BABY NOW THAT I'VE FOUND YOU",
-            "artist": "STANDING PATT MUSIC"
         }
     ]
 }
