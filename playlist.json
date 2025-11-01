@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "CLEANING WINDOWS",
-        "artist": "LENNY MOORE"
+        "title": "NEVER CAN SAY GOODBYE",
+        "artist": "MOORE and BRENGLE"
     },
     "recent": [
+        {
+            "title": "CLEANING WINDOWS",
+            "artist": "LENNY MOORE"
+        },
         {
             "title": "BAND OF GOLD",
             "artist": "Moro-Eden"
@@ -39,10 +43,6 @@
         {
             "title": "I'LL BE THERE",
             "artist": "JIM BREDOUW"
-        },
-        {
-            "title": "Michelle",
-            "artist": "Harley Bros."
         }
     ]
 }
