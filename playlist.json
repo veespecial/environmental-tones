@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Run",
-        "artist": "Los Devlin Strings"
+        "title": "BABY NOW THAT I'VE FOUND YOU",
+        "artist": "STANDING PATT MUSIC"
     },
     "recent": [
+        {
+            "title": "Run",
+            "artist": "Los Devlin Strings"
+        },
         {
             "title": "Just in Time",
             "artist": "Mirage Ensemble"
@@ -39,10 +43,6 @@
         {
             "title": "LIKE TO GET TO KNOW YOU WELL",
             "artist": "Flyin' Hawaiian Bro"
-        },
-        {
-            "title": "Purple Passion",
-            "artist": "Ho Tones"
         }
     ]
 }
