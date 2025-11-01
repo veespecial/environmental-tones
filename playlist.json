@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "SAN TROPEZ",
-        "artist": "FRISCO PILEDRIVERS"
+        "title": "DREAMLOVER",
+        "artist": "It's Lenny Moore"
     },
     "recent": [
+        {
+            "title": "SAN TROPEZ",
+            "artist": "FRISCO PILEDRIVERS"
+        },
         {
             "title": "Chicago",
             "artist": "Harley"
@@ -39,10 +43,6 @@
         {
             "title": "THE LOOK OF LOVE",
             "artist": "Tom Kellock"
-        },
-        {
-            "title": "Just Like This Train",
-            "artist": "San Francisco"
         }
     ]
 }
