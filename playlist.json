@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "Leeward Side",
-        "artist": "Curtis Brengle"
+        "title": "MOTHER NATURE'S SON",
+        "artist": "DERRICK CHASE"
     },
     "recent": [
+        {
+            "title": "Leeward Side",
+            "artist": "Curtis Brengle"
+        },
         {
             "title": "I WANT TO KNOW WHAT LOVE IS",
             "artist": "Funtastic Music"
@@ -39,10 +43,6 @@
         {
             "title": "I FEEL THE EARTH MOVE",
             "artist": "North Point"
-        },
-        {
-            "title": "I\u2019LL BE OVER YOU",
-            "artist": "Daniel Ho"
         }
     ]
 }
