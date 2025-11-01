@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "MOTHER NATURE'S SON",
-        "artist": "DERRICK CHASE"
+        "title": "FOUND OUT ABOUT YOU",
+        "artist": "Alberto Moro"
     },
     "recent": [
+        {
+            "title": "MOTHER NATURE'S SON",
+            "artist": "DERRICK CHASE"
+        },
         {
             "title": "Leeward Side",
             "artist": "Curtis Brengle"
@@ -39,10 +43,6 @@
         {
             "title": "HOW DO I LIVE",
             "artist": "Andre Mayeux"
-        },
-        {
-            "title": "I FEEL THE EARTH MOVE",
-            "artist": "North Point"
         }
     ]
 }
