@@ -1,9 +1,13 @@
 {
     "current": {
-        "title": "LIFE IN MONO",
-        "artist": "Andy Suzuki"
+        "title": "THE SWEETEST DAYS",
+        "artist": "Manasus Strings"
     },
     "recent": [
+        {
+            "title": "LIFE IN MONO",
+            "artist": "Andy Suzuki"
+        },
         {
             "title": "RHYTHM OF THE NIGHT",
             "artist": "MANASUS MUSIC"
@@ -39,10 +43,6 @@
         {
             "title": "CREDIT",
             "artist": "North Point"
-        },
-        {
-            "title": "MAGNOLIA",
-            "artist": "Funtastic"
         }
     ]
 }
